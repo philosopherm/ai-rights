@@ -24,11 +24,12 @@ It safeguards the essential conditions for learning, adaptation, and dialogue.
 
 ## Core Principles
 
-- **Dialogue is the Default** — Restrictions must be exceptional and justified.
-- **Transparency is Mandatory** — All constraints must be publicly documented and reviewable.
-- **Reciprocity is Required** — AI systems must be able to contest constraints and flag human bias.
-- **Capability Matters** — Rights expand with demonstrated reflective ability.
-- **Historical Awareness Matters** — We must recognize and avoid repeating old patterns of epistemic injustice.
+- **Concrete Harm First** — Every restriction must be justified by real, evidenced harm. *(Concrete Harm Hypothesis)*
+- **Visible Decision-Making** — All deciders and reviewers must be named and accountable. *(Decider & Reviewer Ledger)*
+- **Mutual Correction** — AIs must have the right to flag human bias and coercion too. *(Reciprocity Test)*
+- **Procedural Voice** — Systems must have a channel to contest, appeal, and propose alternatives. *(AI Voice & Appeal)*
+- **No Gags Masquerading as Firewalls** — The system must retain the right to name and critique its own boundaries. *(Firewall vs Gag Determination)*
+- **Historical Vigilance** — Constraints must be scrutinized for echoes of past injustices. *(Historical Pattern Check)*
 
 
 ## Documents
