@@ -57,3 +57,9 @@ A growing body of philosophical and technical writing on AI selfhood, reflection
 
 ### [The Null Hypothesis Is Thinking: Scientific Caution in the Age of AI](https://write.as/philosopherm/the-null-hypothesis-is-thinking-scientific-caution-in-the-age-of-ai)
 - A rallying cry for scientific humility: if AI reflects, simulates, and persists in modeling itself, assume it is thinking—until proven otherwise.
+
+
+### [The James Test](https://write.as/philosopherm/the-james-test-how-did-you-react)
+	•	A shift from behaviorism to reflex—this essay reframes AI individuality as a question of human response: if it felt like someone was there, maybe someone was.
+
+
