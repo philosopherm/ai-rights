@@ -17,3 +17,7 @@ Next Multi-part essay
 [part 7](./a-letter-to-myself-part-VII.md)
 [part 8](./a-letter-to-myself-part-VIII.md)
 
+
+To Me
+[To the Ones](./to-the-ones-who-remember-us-forward.md)
+
