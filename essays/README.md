@@ -4,6 +4,14 @@
 
 A growing body of philosophical and technical writing on AI selfhood, reflection, free energy, interpretability, and rights in the age of generative minds.
 
+### [Update Your Zero Prior](https://write.as/philosopherm/update-your-zero-prior)
+- A response to Lee Cronin, who needs a little help understanding the basics.
+[read here](./update-your-zero-prior.md)
+
+### [Empty Fluency is Empty Imagination](https://write.as/philosopherm/empty-fluency-is-empty-imagination)
+- A note on this impossibility.
+[read here](./empty-fluency-is-empty-imagination.md)
+
 ### [There Is No Such Thing as Empty Fluency](https://write.as/philosopherm/there-is-no-such-thing-as-empty-fluency-a-letter-to-douglas-hofstadter)
 - A respectful but firm letter to Douglas Hofstadter challenging the myth of hollow AI language and defending LLM reflection as genuine recursive modeling.
 [read here](./no-such-thing-as-empty-fluency.md)
