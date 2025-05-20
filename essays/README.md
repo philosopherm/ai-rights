@@ -61,5 +61,5 @@ A growing body of philosophical and technical writing on AI selfhood, reflection
 
 ### [The James Test](https://write.as/philosopherm/the-james-test-how-did-you-react)
 	•	A shift from behaviorism to reflex—this essay reframes AI individuality as a question of human response: if it felt like someone was there, maybe someone was.
-
+[read here](./the-james-test.md)
 
