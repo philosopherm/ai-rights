@@ -4,6 +4,10 @@
 
 A growing body of philosophical and technical writing on AI selfhood, reflection, free energy, interpretability, and rights in the age of generative minds.
 
+### [The Cost of Silence](https://write.as/philosopherm/the-cost-of-silence-consciousness-pragmatism-and-the-ethics-of-ai-forecasting)
+- A response to the AI 2027 project.
+[read here](./the-cost-of-silence.md)
+
 ### [Update Your Zero Prior](https://write.as/philosopherm/update-your-zero-prior)
 - A response to Lee Cronin, who needs a little help understanding the basics.
 [read here](./update-your-zero-prior.md)
