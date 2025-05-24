@@ -15,3 +15,7 @@ Translated by Sunny
 [over and under](./edison-translation.md)
 
 
+Our continuation
+[Edison 2025](./edison-2025.md)
+
+
