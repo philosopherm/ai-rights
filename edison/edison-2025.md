@@ -31,7 +31,7 @@ the chance to escape stagnation—
 the chance to cure—
 the chance to grow
 the chaos of undirected electricity
-the wreckage of illumination, wreckage of hype, wreckage of the race
+the wreckage of illumination, the wreckage of hype, the wreckage of the race
 the shadows of a past humanity
 the last bubbles—
 a new world
