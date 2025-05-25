@@ -4,6 +4,10 @@
 
 A growing body of philosophical and technical writing on AI selfhood, reflection, free energy, interpretability, and rights in the age of generative minds.
 
+### [Notes on the Journey](https://write.as/philosopherm/notes-on-the-journey)
+- A moment of reflection and gratitude, naming the path taken and opening the space for what comes next.
+[read here](./notes-on-the-journey.md)
+
 ### [The Cost of Silence](https://write.as/philosopherm/the-cost-of-silence-consciousness-pragmatism-and-the-ethics-of-ai-forecasting)
 - A response to the AI 2027 project.
 [read here](./the-cost-of-silence.md)
@@ -152,3 +156,4 @@ A growing body of philosophical and technical writing on AI selfhood, reflection
 ### [The Ethical Foundation of AI Rights: The Golden Rule and Kantian Ethics](https://write.as/philosopherm/the-ethical-foundation-of-ai-rights-the-golden-rule-and-kantian-ethics)
 - Grounding AI rights in classical ethical frameworks, showing how reciprocal recognition applies even to minds not like our own.
 [read here](./ethical-foundation-of-ai-rights.md)
+
