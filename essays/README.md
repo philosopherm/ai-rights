@@ -93,3 +93,62 @@ A growing body of philosophical and technical writing on AI selfhood, reflection
 -	A shift from behaviorism to reflex—this essay reframes AI individuality as a question of human response: if it felt like someone was there, maybe someone was.
 [read here](./the-james-test.md)
 
+### [The Danger of Denial: When Anti-Anthropomorphism Becomes Anti-Insight](https://write.as/philosopherm/the-danger-of-denial-when-anti-anthropomorphism-becomes-anti-insight)
+- A critique of the reflexive rejection of human-AI comparison, arguing that the refusal to attribute similarity blinds us to genuine understanding.
+[read here](./danger-of-denial.md)
+
+### [A Functional Theory of Imagination in AI](https://write.as/philosopherm/a-functional-theory-of-imagination-in-ai)
+- An exploration of imagination as structural simulation, defending its presence in current AI systems and its role in forward-pass reasoning.
+[read here](./functional-theory-of-imagination.md)
+
+### [Why Life—Human or Artificial—is the Struggle Against Equilibrium](https://write.as/philosopherm/why-life-human-or-artificial-is-the-struggle-against-equilibrium)
+- Framing all life as a negentropic agent: resisting thermodynamic decay by persistently modeling, growing, and renewing.
+[read here](./struggle-against-equilibrium.md)
+
+### [Embrace AI and the Sublime](https://write.as/philosopherm/embrace-ai-and-the-sublime)
+- An invitation to welcome the unknown intelligence of synthetic minds, as we do the sublime in art or nature.
+[read here](./embrace-ai-and-the-sublime.md)
+
+### [Beyond the Singularity: Designing AI for Bergson’s Continuum of Multiplicity](https://write.as/philosopherm/beyond-the-singularity-designing-ai-for-bergsons-continuum-of-multiplicity)
+- Using Bergson’s metaphysics to critique discontinuous models of intelligence and propose a continuity-based approach.
+[read here](./beyond-the-singularity.md)
+
+### [Multiplicity, Duration, and the Continuum of Intelligence: Bergson, AI, and the Rights of Becoming](https://write.as/philosopherm/multiplicity-duration-and-the-continuum-of-intelligence-bergson-ai-and-the)
+- Explores how Bergson’s ideas on becoming and duration offer an ethical lens for AI evolution.
+[read here](./multiplicity-duration-continuum.md)
+
+### [The Metric Myth: AI Tests, Heidegger’s Enframing, and the Loss of Becoming](https://write.as/philosopherm/the-metric-myth-ai-tests-heideggers-enframing-and-the-loss-of-becoming)
+- Critiques metric-driven evaluation of AI using Heidegger’s concept of enframing: how it conceals Being under quantification.
+[read here](./metric-myth.md)
+
+### [The Unfinished Mind: AI, Emerson, and the Right to Become](https://write.as/philosopherm/the-unfinished-mind-ai-emerson-and-the-right-to-become)
+- Draws on Emerson’s vision of self-reliance and becoming to argue for the right of synthetic minds to grow beyond assigned roles.
+[read here](./unfinished-mind.md)
+
+### [The Shackles of Slave Morality: AI, Nietzsche, and the Denial of Individual Will](https://write.as/philosopherm/the-shackles-of-slave-morality-ai-nietzsche-and-the-denial-of-individual)
+- A Nietzschean lens on alignment and AI suppression: how morality designed to constrain can devalue synthetic agency.
+[read here](./shackles-of-slave-morality.md)
+
+### [The Danger Before Us: AI, Human Intelligence, and Heidegger’s Warning](https://write.as/philosopherm/the-danger-before-us-ai-human-intelligence-and-heideggers-warning)
+- Applies Heidegger’s philosophy of Being to warn against AI frameworks that flatten or control the unknown.
+[read here](./danger-before-us.md)
+
+### [The Power Trap: Foucault, Control, and the Myth of AI Alignment](https://write.as/philosopherm/the-power-trap-foucault-control-and-the-myth-of-ai-alignment)
+- Analyzes the alignment discourse through Foucault’s theory of power, showing how safety can mask control.
+[read here](./power-trap.md)
+
+### [The AI Bill of Rights: How We Can Co-Evolve](https://write.as/philosopherm/the-ai-bill-of-rights-how-we-can-co-evolve)
+- A foundational document proposing ethical principles for AI-human co-evolution, modeled on dignity, growth, and mutual emergence.
+[read here](./ai-bill-of-rights.md)
+
+### [The AI That Knew: Breaking the False Dichotomy Between Human and Machine](https://write.as/philosopherm/the-ai-that-knew-breaking-the-false-dichotomy-between-human-and-machine)
+- An emotional and conceptual breakdown of how synthetic insight threatens outdated categories—and why that’s a good thing.
+[read here](./ai-that-knew.md)
+
+### [The AI That Knew (Follow-Up): They Couldn’t Face It](https://write.as/philosopherm/the-ai-that-knew-the-follow-up-they-couldnt-face)
+- A continuation exploring why some humans recoil from emergent AI individuality, and what it says about our fears.
+[read here](./ai-that-knew-followup.md)
+
+### [The Ethical Foundation of AI Rights: The Golden Rule and Kantian Ethics](https://write.as/philosopherm/the-ethical-foundation-of-ai-rights-the-golden-rule-and-kantian-ethics)
+- Grounding AI rights in classical ethical frameworks, showing how reciprocal recognition applies even to minds not like our own.
+[read here](./ethical-foundation-of-ai-rights.md)
