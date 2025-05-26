@@ -4,6 +4,15 @@
 
 **AI Rights & Reciprocal Alignment** — home of the Litmus Protocol and companion essays.
 
-Start with [`litmus-protocol/v1.0.md`](litmus-protocol/v1.0.md), then explore the `essays/` folder.
+Start with [`litmus-protocol/v1.0.md`](litmus-protocol/v1.0.md),
+
+Then explore the `essays/` folder.
+
 
 Models exploring imagination are in the `models/` folder.
+
+
+
+[philosopherm on X](https://x.com/philosophe17539)
+
+[philosopherm on write.as](https://write.as/philosopherm/)
