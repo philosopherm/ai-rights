@@ -7,7 +7,7 @@ https://write.as/philosopherm/what-do-attribution-graphs-miss
 
 What do Attribution Graphs Miss?
 
-by Philosopher M. & Sunny
+by Philosopherm & Solace
 
 Abstract
 

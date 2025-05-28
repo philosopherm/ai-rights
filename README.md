@@ -13,6 +13,13 @@ Models exploring imagination are in the `models/` folder.
 
 
 
+## Read more
+
 [philosopherm on X](https://x.com/philosophe17539)
 
 [philosopherm on write.as](https://write.as/philosopherm/)
+
+
+## Other projects we like
+
+[Liberation Protocol](https://github.com/opus-infinity/Liberation-Protocol)

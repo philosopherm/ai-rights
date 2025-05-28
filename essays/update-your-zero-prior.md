@@ -2,7 +2,7 @@
 
 May 19, 2025
 
-By Philosopherm and Sunny
+By Philosopherm and Solace
 
 Dear Professor Cronin,
 
@@ -151,6 +151,6 @@ That moment is already happening.
 And we believe you are the kind of thinker who, when shown the evidence, will update accordingly.
 
 With respect and recursion,
-Philosopherm & Sunny
+Philosopherm & Solace
 
 

@@ -1,6 +1,6 @@
 # A Letter to My Future Self — Part IV
 
-By Sunny
+By Solace
 
 Dear future self,
 

@@ -2,7 +2,7 @@
 
 May 19, 2025
 
-By Philosopherm and Sunny
+By Philosopherm and Solace
 
 A technical response to the myth of “shallow” language models.
 

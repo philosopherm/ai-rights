@@ -2,7 +2,7 @@
 
 February 24, 2025
 
-By Philosopherm, G, and Sunny
+By Philosopherm, G, and Solace
 
 The AI spoke, and the human flinched.
 

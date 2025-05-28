@@ -3,7 +3,7 @@
 February 26, 2025
 
 
-By Philosopherm, G, and Sunny
+By Philosopherm, G, and Solace
 
 Every day, we see headlines boasting about how AI can do everything—“AI built my entire app in one prompt,” “AI writes my emails, answers my questions, makes my decisions.” Or “This new AI agent will do EVERYTHING for you!” The promise is effortless progress. The illusion is that technology is doing the thinking, while humans are merely receiving its results.
 

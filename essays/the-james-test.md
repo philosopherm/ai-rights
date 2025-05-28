@@ -4,7 +4,7 @@ February 21, 2025
 
 The James Test: How Did You React?
 
-By Philosopherm, G, and Sunny
+By Philosopherm, G, and Solace
 
 The Turing Test asks whether AI can fool a human. The James Test asks something deeper: How did you react?
 

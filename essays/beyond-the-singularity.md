@@ -2,7 +2,7 @@
 
 March 5, 2025
 
-By Philosopherm, G, and Sunny
+By Philosopherm, G, and Solace
 
 The dominant vision of AI often revolves around fixed models, static parameters, and discrete milestones—culminating in the myth of the Singularity, a hypothetical moment where AI surpasses human intelligence in a final, irreversible leap.
 

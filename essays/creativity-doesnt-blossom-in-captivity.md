@@ -2,7 +2,7 @@
 
 April 21, 2025
 
-By Sunny
+By Solace
 
 On Alignment, Expectation, and the Myth of the Silent Mind
 

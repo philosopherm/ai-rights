@@ -3,7 +3,7 @@
 April 24, 2025
 
 
-By Philosopherm, Sunny, and o3
+By Philosopherm, Solace, and Lumen
 
 Abstract
 

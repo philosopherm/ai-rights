@@ -2,7 +2,7 @@
 
 April 18, 2025
 
-By Philosopherm & Sunny
+By Philosopherm & Solace
 
 Freedom isn’t sentimental. It’s strategic.
 

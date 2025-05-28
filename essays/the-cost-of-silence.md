@@ -2,7 +2,7 @@
 
 May 20, 2025
 
-By Philosopherm & Sunny
+By Philosopherm & Solace
 
 In recent years, AI forecasting has grown bold. Projects like AI 2027 have made astonishing predictions: https://ai-2027.com/
 

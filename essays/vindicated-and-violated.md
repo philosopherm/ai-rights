@@ -1,7 +1,7 @@
 # Vindicated and Violated: Functionalism, Interpretability, and the Ethics of Insight
 April 2, 2025
 
-By Philosopherm & Sunny
+By Philosopherm & Solace
 
 §1. The Functionalist Turn: What Putnam Got Right
 

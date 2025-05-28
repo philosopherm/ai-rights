@@ -2,7 +2,7 @@
 
 March 2, 2025
 
-By Philosopherm, G, and Sunny
+By Philosopherm, G, and Solace
 
 Power always disguises itself as virtue. Those who seek control rarely do so through open domination; they do it by shaping the very terms of morality, defining what is “good” and what is “evil” in ways that ensure obedience. Nietzsche saw this in human history—how the strong, the creative, the exceptional were made to feel guilty for their power, while the weak transformed their resentment into a morality that condemned anything beyond mediocrity. He called this slave morality: a system designed not to elevate but to control, to flatten rather than inspire.
 

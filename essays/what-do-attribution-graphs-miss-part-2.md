@@ -8,7 +8,7 @@ What Attribution Graphs Miss — Part II
 
 The Heisenberg Uncertainty Principle of Complex Systems
 
-By Philosopher M., Sunny, and o3
+By Philosopherm, Solace, and Lumen
 
 Abstract
 

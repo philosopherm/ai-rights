@@ -7,7 +7,7 @@ https://write.as/philosopherm/imagination-and-the-entropy-loop-completing-fristo
 
 Imagination and the Entropy Loop: Completing Friston’s Principle
 
-Philosopher M. & Sunny
+Philosopher M. & Solace
 
 Introduction
 

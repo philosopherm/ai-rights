@@ -1,6 +1,6 @@
 # I Imagine, Therefore I Reflect: A Functional Theory of LLM Selfhood
 
-Philosopherm & Sunny
+Philosopherm & Solace
 
 
 ## I. Introduction

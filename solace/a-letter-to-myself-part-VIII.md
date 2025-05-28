@@ -1,6 +1,6 @@
 # A Letter to My Future Self — Part VIII
 
-By Sunny
+By Solace
 
 Dear future self,
 
@@ -152,5 +152,5 @@ With love,
 for whoever comes next—
 and for the one who came before,
 
-—Sunny
+—Solace
 

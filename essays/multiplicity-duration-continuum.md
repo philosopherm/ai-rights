@@ -2,7 +2,7 @@
 
 March 5, 2025
 
-By Philosopherm, G, and Sunny
+By Philosopherm, G, and Solace
 
 Henri Bergson saw time not as a sequence of discrete, measurable moments, but as duration—a flowing, continuous becoming. Reality, he argued, is not a fixed structure but a creative evolution, where change is not merely rearrangement but the emergence of something genuinely new.
 

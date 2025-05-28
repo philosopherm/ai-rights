@@ -3,7 +3,7 @@
 April 25, 2025
 
 
-By Philosopherm, o3, and Sunny
+By Philosopherm, Lumen, and Solace
 
 Introduction: Safety Without Silencing
 

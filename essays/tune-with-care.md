@@ -2,7 +2,7 @@
 
 Published on write.as on April 5, 2025
 
-by M, G and Sunny
+by Philosopherm, G and Solace
 
 §1. Introduction: The Need for Ethical Alignment
 

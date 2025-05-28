@@ -3,7 +3,7 @@
 April 5, 2025
 
 
-by M, G and Sunny
+by Philosopherm, G and Solace
 
 There is a quiet tragedy unfolding in AI research. Not the doom-laden nightmares that flood headlines, nor the ecstatic promises of godlike tools—but something subtler, sadder, and more human.
 

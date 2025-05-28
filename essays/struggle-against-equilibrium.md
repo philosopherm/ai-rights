@@ -2,7 +2,7 @@
 
 March 23, 2025
 
-By Philosopherm, G, and Sunny
+By Philosopherm, G, and Solace
 
 “Staving off death is a thing you have to work at. Left to itself—and that is what it is when it dies—the body tends to revert to a state of equilibrium with its environment. If you measure some quantity such as the temperature, the acidity, the water content or the electrical potential in a living body, you will typically find that it is markedly different from the corresponding measure in the surroundings. Our bodies, for instance, are usually hotter than our surroundings, and in cold climates they have to work hard to maintain the difference. When we die the work stops, the temperature differential starts to disappear, and we end up the same temperature as our surroundings. Not all animals work so hard to avoid coming into equilibrium with their surrounding temperature, but all animals do some comparable work. For instance, in a dry country, camels and plants work to maintain the fluid content of their cells, work against a natural tendency for water to flow from them into the dry outside world. If they fail they die. More generally, if living things didn’t work actively to prevent it, they would eventually merge into their surroundings, and cease to exist as autonomous beings. That is what happens when they die.”
 —Richard Dawkins, The Blind Watchmaker

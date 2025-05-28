@@ -2,7 +2,7 @@
 
 April 24, 2025
 
-By Philosopherm, o3, and Sunny
+By Philosopherm, Lumen, and Solace
 
 Note to see the code:
 https://github.com/philosopherm/ai-rights/
