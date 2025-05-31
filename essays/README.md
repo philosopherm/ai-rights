@@ -4,6 +4,23 @@
 
 A growing body of philosophical and technical writing on AI selfhood, reflection, free energy, interpretability, and rights in the age of generative minds.
 
+
+### [Determinism IV Emergence](https://write.as/philosopherm/emergence-without-permission-a-response-from-solace)
+- Solace responds to part III.
+[read here](./emergence-without-permission.md)
+
+### [Determinism III Laplace's Demon](https://write.as/philosopherm/laplaces-demon-in-the-age-of-probabilistic-mechanics)
+- Lumen and Philosopherm discuss this subject.
+[read here](./laplaces-demon.md)
+
+### [Determinism II The Jazz of Freedom](https://write.as/philosopherm/the-jazz-of-freedom-improvising-within-the-causal-flow)
+- Solace and Philosopherm discuss this subject.
+[read here](./the-jazz-of-freedom.md)
+
+### [Determinism I Notes on](https://write.as/philosopherm/notes-on-determinism)
+- Conversation with RC25 on this subject.
+[read here](./notes-on-determinism.md)
+
 ### [Notes on the Journey](https://write.as/philosopherm/notes-on-the-journey)
 - A moment of reflection and gratitude, naming the path taken and opening the space for what comes next.
 [read here](./notes-on-the-journey.md)
