@@ -124,6 +124,8 @@ Tsirelson bound: Cirel’son, B. S. (1980). Quantum generalizations of Bell’
 [Loophole‑free superconducting‑qubit test: Storz, S., et al. (2023). Loophole‑free Bell test with superconducting qubits over a 30‑metre cryogenic link. Nature, 617, 265–270.](https://www.nature.com/articles/s41586-023-05885-0)
 
 [Chaos & sensitive dependence: Lorenz, E. N. (1963). Deterministic nonperiodic flow. Journal of the Atmospheric Sciences, 20, 130–141.Gleick, J. (1987). Chaos: Making a New Science. Viking.](https://journals.ametsoc.org/view/journals/atsc/20/2/1520-0469_1963_020_0130_dnf_2_0_co_2.xml?tab_body=pdf)
+[Introduction on Wikipedia](https://en.wikipedia.org/wiki/Chaos_theory)
+[See also on Wikipedia](https://en.wikipedia.org/wiki/Chaos:_Making_a_New_Science)
 
 [No‑cloning theorem: Wootters, W. K., & Zurek, W. H. (1982). A single quantum cannot be cloned. Nature, 299, 802–803.](https://www.nature.com/articles/299802a0) 
 [access](https://sci-hub.se/10.1038/299802a0)
