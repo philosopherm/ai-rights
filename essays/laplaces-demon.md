@@ -145,7 +145,12 @@ Soft downward causation: Campbell, D. T. (1974). ‘Downward causation’ in h
 
 ### R3 · Pragmatic Compatibilism & Freedom
 
+Eudaimonia and flourishing, see
+[Nicomachean Ethics](https://www.gutenberg.org/ebooks/8438) and
+[Wikipedia](https://en.wikipedia.org/wiki/Aristotelian_ethics)
+
 James’s “live hypothesis,” meliorism: James, W. (1896). The Will to Believe. Longmans, Green.James, W. (1907). Pragmatism. Longmans, Green.
+[Gutenberg](https://www.gutenberg.org/ebooks/5116)
 
 [Compatibilism & evolution of freedom: Dennett, D. C. (2003). Freedom Evolves. Viking.](https://www.amazon.com/Freedom-Evolves-Daniel-C-Dennett/dp/0142003840)
 
@@ -169,6 +174,7 @@ Buber’s relational ethics: Buber, M. (1923). Ich und Du [I and Thou]. Schocken
 [Moral education & autonomy: Gert, B. (2004). Common Morality: Deciding What to Do. Oxford UP.](https://www.amazon.com/Common-Morality-Deciding-What-Do/dp/0195173716)
 
 AI alignment as value learning: Russell, S., & Norvig, P. (2021). Artificial Intelligence: A Modern Approach (4th ed.), Ch. 24.
+[book](https://aima.cs.berkeley.edu/)
 
 Free energy principle & predictive processing: Friston, K. J. (2010). The free-energy principle: a unified brain theory? Nature Reviews Neuroscience, 11, 127–138.
 
