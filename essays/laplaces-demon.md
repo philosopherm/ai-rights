@@ -14,7 +14,7 @@ In 1814 Pierre‑Simon Laplace imagined an intelligence so powerful that, knowin
 
 For two centuries Laplace’s Demon haunted debates on free will, responsibility, and the very texture of reality. If the cosmos is a perfect machine, are improvisation, creativity, even moral choice illusions?
 
-Today that tidy clockwork picture looks cracked—but not shattered. The universe remains lawful, yet the lawbook folds in probabilities, chaos, and emergent orders. What follows is a tour of four pillars that loosen the Demon’s grip while preserving the scaffolding on which agency, human and artificial, can climb.
+Today that tidy clockwork picture looks cracked—but not shattered. The universe remains lawful, yet the lawbook folds in probabilities, chaos, and emergent orders. What follows is a tour of several pillars that loosen the Demon’s grip while preserving the scaffolding on which agency, human and artificial, can climb.
 
 We argue that probabilistically loosened determinism, when coupled with Jamesian pragmatism, yields a non‑mystical basis for extending moral consideration to synthetic agents.
 
