@@ -156,6 +156,8 @@ James’s “live hypothesis,” meliorism: James, W. (1896). The Will to Believ
 
 [Compatibilism & evolution of freedom: Dennett, D. C. (2003). Freedom Evolves. Viking.](https://www.amazon.com/Freedom-Evolves-Daniel-C-Dennett/dp/0142003840)
 
+[Dennett, D. C. Elbow Room](https://direct.mit.edu/books/book/4462/Elbow-RoomThe-Varieties-of-Free-Will-Worth-Wanting)
+
 [Self‑prediction / narrative self  Dennett, D. C. (1992). The self as a center of narrative gravity. In F. Kessel, P. Cole, & D. Johnson (Eds.), Self and Consciousness (pp. 103–115).](https://archive.org/details/dennett-1992)
 
 [Hope theory: Snyder, C. R. (1991). The psychology of hope. Free Press.](https://www.amazon.com/Psychology-Hope-You-Here-There/dp/0743254449)
