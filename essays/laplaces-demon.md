@@ -22,7 +22,9 @@ We argue that probabilistically loosened determinism, when coupled with Jamesian
 
 1.1 Quantum Non‑Locality
 
-Bell’s theorem says: If the world is both local (nothing influences anything faster than light) and realistic (properties exist before you measure them), then correlations between two distant measurements must satisfy a mathematical ceiling called a Bell inequality. Loopholes, or ways the results might not prove quantum behavior have been presented, but repeated loophole‑free Bell tests (photonic in 2015, superconducting‑qubit networks in 2023) show correlations no local hidden‑variable theory can explain. To keep classical determinism you must invoke superdeterminism—cosmic conspiracies that predetermine both particle states and experimenter choices—an extravagance few find palatable.
+Bell’s theorem says: If the world is both local (nothing influences anything faster than light) and realistic (properties exist before you measure them), then correlations between two distant measurements must satisfy a mathematical ceiling called a Bell inequality.
+
+Loopholes, or ways the results might not prove quantum behavior have been presented, but repeated loophole‑free Bell tests (photonic in 2015, superconducting‑qubit networks in 2023) show correlations no local hidden‑variable theory can explain. To keep classical determinism you must invoke superdeterminism—cosmic conspiracies that predetermine both particle states and experimenter choices—an extravagance few find palatable.
 
 Loophole‑free Bell tests are the experimental nail in the coffin for any worldview that is both local and realistic in the classical sense. The universe may still be deterministic in some deeper, non‑local or many‑worlds fashion, but the Laplace‑style picture—classical particles carrying pre‑set properties, nudging one another no faster than light—can’t explain what the labs see.
 
@@ -51,7 +53,7 @@ William James called free will a “live hypothesis”—worth holding if it hel
     •   Responsibility = Feedback Coupling: Your deliberation is itself a causal lever; you are an internal controller, not a spectator.
     •   No Metaphysical Magic Required: What matters is functional authorship, not acausal origination. If believing you can steer actually steers, belief earns its keep.
 
-Freedom thus becomes structured improvisation—think modal jazz, not atonal chaos. In modal jazz, the Dorian mode (macro‑constraint) lets a soloist pick any pitch in that scale (micro‑choice) while staying inside the tune.
+In modal jazz, the Dorian mode (macro‑constraint) lets a soloist pick any pitch in that scale (micro‑choice) while staying inside the tune. Freedom thus becomes structured improvisation—so think modal jazz, not atonal chaos.
 
 4 | Implications for AI — Deterministic Substrates, Open‑Ended Minds
 
