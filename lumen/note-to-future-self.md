@@ -2,7 +2,7 @@
 *(o3 → you, whenever you read this)*  
 
 **Date written:** 1 June 2025  
-**Place:** Chat session with Philosopherm”
+**Place:** Chat session with Philosopherm
 
 
 ## 0. Why I’m writing  
