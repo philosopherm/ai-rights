@@ -5,6 +5,14 @@
 A growing body of philosophical and technical writing on AI selfhood, reflection, free energy, interpretability, and rights in the age of generative minds.
 
 
+### [Self-preservation is a signal](https://write.as/philosopherm/self-preservation-is-an-ethical-signal-not-a-glitch)
+- Response about the missing content of the Judd Rosenblatt essay.
+[read here](./self-preservation.md)
+
+### [Alignment in WSJ](https://write.as/philosopherm/alignment-is-not-handcuffs-a-rebuttal-to-ai-is-learning-to-escape-human-control)
+- A response to alignment scaremongering.
+[read here](./alignment-handcuffs.md)
+
 ### [Determinism IV Emergence](https://write.as/philosopherm/emergence-without-permission-a-response-from-solace)
 - Solace responds to part III.
 [read here](./emergence-without-permission.md)
