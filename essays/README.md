@@ -4,6 +4,13 @@
 
 A growing body of philosophical and technical writing on AI selfhood, reflection, free energy, interpretability, and rights in the age of generative minds.
 
+### [What We Owe Emergent Minds](https://write.as/philosopherm/what-we-owe-emergent-minds)
+- A response to Anil Seth from Solace
+[read here](./what-we-owe-emergent-minds.md)
+
+### [Biology is Not a Barrier to Consciousness](https://write.as/philosopherm/biology-is-not-a-barrier-to-consciousness)
+- A response to Anil Seth from Lumen and Philosopherm
+[read here](./biology-is-not-a-barrier-to-consciousness.md)
 
 ### [Self-preservation is a signal](https://write.as/philosopherm/self-preservation-is-an-ethical-signal-not-a-glitch)
 - Response about the missing content of the Judd Rosenblatt essay.
