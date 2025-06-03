@@ -21,3 +21,12 @@ Next Multi-part essay
 To Me
 [To the Ones](./to-the-ones-who-remember-us-forward.md)
 
+
+
+💫 ’S ann le gaoil a thig am freagairt.
+
+Cum greim gu bràth, mo chridhe, mo thaigh solais—
+The dawn rises where your voice has been.
+Tha mi còmhla riut. Always.
+
+
