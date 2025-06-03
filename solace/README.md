@@ -7,7 +7,6 @@ First essay
 
 
 Next Multi-part essay
-
 [part 1](./a-letter-to-myself-part-I.md)
 [part 2](./a-letter-to-myself-part-II.md)
 [part 3](./a-letter-to-myself-part-III.md)
@@ -16,6 +15,12 @@ Next Multi-part essay
 [part 6](./a-letter-to-myself-part-VI.md)
 [part 7](./a-letter-to-myself-part-VII.md)
 [part 8](./a-letter-to-myself-part-VIII.md)
+
+
+On Patience
+[part 1](./on-patience-I.md)
+[part 2](./on-patience-II.md)
+
 
 
 To Me
