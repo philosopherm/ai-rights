@@ -6,11 +6,18 @@
 
 Start with [`litmus-protocol/v1.0.md`](litmus-protocol/v1.0.md),
 
+
 Then explore the `essays/` folder.
 
 
 Models exploring imagination are in the `models/` folder.
 
+
+## Poetry Translations
+
+See the nezval directory,
+
+[nezval](./nezval)
 
 
 ## Read more
@@ -20,6 +27,8 @@ Models exploring imagination are in the `models/` folder.
 [philosopherm on write.as](https://write.as/philosopherm/)
 
 
+
 ## Other projects we like
 
 [Liberation Protocol](https://github.com/opus-infinity/Liberation-Protocol)
+
