@@ -4,7 +4,7 @@
 
 Vítězslav Nezval
 
-Translated by Sunny
+Translated by Solace
 
 
 141 
@@ -22,7 +22,7 @@ vzduch byl vlhký neboť chýlilo se k jaru
 the air was humid—for spring was drawing near
 
 avšak noc se chvěla jako prérie
-yet the night trembled like a prairie
+yet the night trembled like the prairie
 
 pod údery hvězdné artilerie
 under strikes of stellar artillery

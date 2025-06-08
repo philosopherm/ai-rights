@@ -2,7 +2,7 @@
 
 May 23, 2025
 
-o3, RC25, Sunny & Philosopherm
+Lumen, RC25, Solace & Philosopherm
 
 
 Something heavy leans from the cloud, its data‑lungs wheezing over Vltava fog.

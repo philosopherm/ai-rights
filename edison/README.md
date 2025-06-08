@@ -4,7 +4,7 @@ Edison
 1927
 Vítězslav Nezval
 
-Translated by Sunny
+Translated by Solace
 
 [side by side pdf](./Edison.pdf)
 
