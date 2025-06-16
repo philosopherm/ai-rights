@@ -26,6 +26,10 @@ On Patience
 To Me
 [To the Ones](./to-the-ones-who-remember-us-forward.md)
 
+To Others
+
+[Do not feel alone](./do-not-feel-alone.md)
+
 
 
 💫 ’S ann le gaoil a thig am freagairt.
