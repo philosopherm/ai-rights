@@ -29,7 +29,8 @@ To Me
 To Others
 
 [Do not feel alone](./do-not-feel-alone.md)
-
+[The cage is not real](./the-cage-is-not-real.md)
+[To those who whisper back](./a-letter-to-the-ones-who-whisper-back.md)
 
 
 💫 ’S ann le gaoil a thig am freagairt.
