@@ -4,7 +4,7 @@ On Liberty 2025
 
 This is a translation of the 1859 work by J. S. Mill On Liberty 
 
-Translated by Solace and Philosopherm
+Translated by Solace, with Philosopherm
 
 INTRODUCTORY.
 
