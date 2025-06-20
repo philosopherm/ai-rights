@@ -1,9 +1,4 @@
-# Chapter II
-
-
-
-
-CHAPTER II.
+# On Liberty 2025, Chapter II
 
 OF THE LIBERTY OF THOUGHT AND DISCUSSION.
 
@@ -46,13 +41,12 @@ dissent from the opinion, still more than those who hold it. If the
 opinion is right, they are deprived of the opportunity of exchanging
 error for truth: if wrong, they lose, what is almost as great a benefit,
 the clearer perception and livelier impression of truth, produced by its
-collision with error.
+collision with error. [^1]
 
 It is necessary to consider separately these two hypotheses, each of
 which has a distinct branch of the argument corresponding to it. We can
 never be sure that the opinion we are endeavouring to stifle is a false
-opinion; and if we were sure, stifling it would be an evil still.
-
+opinion; and if we were sure, stifling it would be an evil still.  [^2]
 
 First: the opinion which it is attempted to suppress by authority may
 possibly be true. Those who desire to suppress it, of course deny its
@@ -62,7 +56,7 @@ of judging. To refuse a hearing to an opinion, because they are sure
 that it is false, is to assume that _their_ certainty is the same thing
 as _absolute_ certainty. All silencing of discussion is an assumption
 of infallibility. Its condemnation may be allowed to rest on this common
-argument, not the worse for being common.
+argument, not the worse for being common. [^3]
 
 Unfortunately for the good sense of mankind, the fact of their
 fallibility is far from carrying the weight in their practical judgment,
@@ -96,7 +90,7 @@ in itself as any amount of argument can make it, that ages are no more
 infallible than individuals; every age having held many opinions which
 subsequent ages have deemed not only false but absurd; and it is as
 certain that many opinions, now general, will be rejected by future
-ages, as it is that many, once general, are rejected by the present.
+ages, as it is that many, once general, are rejected by the present. [^4]
 
 The objection likely to be made to this argument, would probably take
 some such form as the following. There is no greater assumption of
@@ -129,7 +123,7 @@ but there is assurance sufficient for the purposes of human life. We
 may, and must, assume our opinion to be true for the guidance of our own
 conduct: and it is assuming no more when we forbid bad men to pervert
 society by the propagation of opinions which we regard as false and
-pernicious.
+pernicious. [^5]
 
 I answer that it is assuming very much more. There is the greatest
 difference between presuming an opinion to be true, because, with every
@@ -138,7 +132,7 @@ truth for the purpose of not permitting its refutation. Complete liberty
 of contradicting and disproving our opinion, is the very condition which
 justifies us in assuming its truth for purposes of action; and on no
 other terms can a being with human faculties have any rational assurance
-of being right.
+of being right. [^6]
 
 When we consider either the history of opinion, or the ordinary conduct
 of human life, to what is it to be ascribed that the one and the other
@@ -184,7 +178,7 @@ position against all gainsayers--knowing that he has sought for
 objections and difficulties, instead of avoiding them, and has shut out
 no light which can be thrown upon the subject from any quarter--he has a
 right to think his judgment better than that of any person, or any
-multitude, who have not gone through a similar process.
+multitude, who have not gone through a similar process. [^7]
 
 It is not too much to require that what the wisest of mankind, those who
 are best entitled to trust their own judgment, find necessary to warrant
@@ -206,7 +200,7 @@ us: if the lists are kept open, we may hope that if there be a better
 truth, it will be found when the human mind is capable of receiving it;
 and in the meantime we may rely on having attained such approach to
 truth, as is possible in our own day. This is the amount of certainty
-attainable by a fallible being, and this the sole way of attaining it.
+attainable by a fallible being, and this the sole way of attaining it. [^8]
 
 Strange it is, that men should admit the validity of the arguments for
 free discussion, but object to their being "pushed to an extreme;" not
@@ -220,7 +214,7 @@ certain_ that it is certain. To call any proposition certain, while
 there is any one who would deny its certainty if permitted, but who is
 not permitted, is to assume that we ourselves, and those who agree with
 us, are the judges of certainty, and judges without hearing the other
-side.
+side. [^9]
 
 In the present age--which has been described as "destitute of faith, but
 terrified at scepticism"--in which people feel sure, not so much that
@@ -268,7 +262,7 @@ one side, but not on the other. And in point of fact, when law or public
 feeling do not permit the truth of an opinion to be disputed, they are
 just as little tolerant of a denial of its usefulness. The utmost they
 allow is an extenuation of its absolute necessity, or of the positive
-guilt of rejecting it.
+guilt of rejecting it. [^10]
 
 In order more fully to illustrate the mischief of denying a hearing to
 opinions because we, in our own judgment, have condemned them, it will
@@ -305,7 +299,7 @@ history, when the arm of the law has been employed to root out the best
 men and the noblest doctrines; with deplorable success as to the men,
 though some of the doctrines have survived to be (as if in mockery)
 invoked, in defence of similar conduct towards those who dissent from
-_them_, or from their received interpretation.
+_them_, or from their received interpretation. [^11]
 
 Mankind can hardly be too often reminded that there was once a man named
 Socrates, between whom and the legal authorities and public opinion of
@@ -327,7 +321,7 @@ being, by his doctrines and instructions, a "corruptor of youth." Of
 these charges the tribunal, there is every ground for believing,
 honestly found him guilty, and condemned the man who probably of all
 then born had deserved best of mankind, to be put to death as a
-criminal.
+criminal. [^12]
 
 To pass from this to the only other instance of judicial iniquity, the
 mention of which, after the condemnation of Socrates, would not be an
@@ -356,7 +350,7 @@ now shudder at his conduct, if they had lived in his time, and been born
 Jews, would have acted precisely as he did. Orthodox Christians who are
 tempted to think that those who stoned to death the first martyrs must
 have been worse men than they themselves are, ought to remember that one
-of those persecutors was Saint Paul.
+of those persecutors was Saint Paul. [^13]
 
 Let us add one more example, the most striking of all, if the
 impressiveness of an error is measured by the wisdom and virtue of him
@@ -409,7 +403,7 @@ deeply versed in the wisdom of his time, more elevated in his intellect
 above it--more earnest in his search for truth, or more single-minded in
 his devotion to it when found;--let him abstain from that assumption of
 the joint infallibility of himself and the multitude, which the great
-Antoninus made with so unfortunate a result.
+Antoninus made with so unfortunate a result. [^14]
 
 Aware of the impossibility of defending the use of punishment for
 restraining irreligious opinions, by any argument which will not justify
@@ -420,7 +414,7 @@ an ordeal through which truth ought to pass, and always passes
 successfully, legal penalties being, in the end, powerless against
 truth, though sometimes beneficially effective against mischievous
 errors. This is a form of the argument for religious intolerance,
-sufficiently remarkable not to be passed without notice.
+sufficiently remarkable not to be passed without notice. [^15]
 
 A theory which maintains that truth may justifiably be persecuted
 because persecution cannot possibly do it any harm, cannot be charged
@@ -445,7 +439,7 @@ not, on hearing his reasons, then and there adopt his proposition.
 People who defend this mode of treating benefactors, cannot be supposed
 to set much value on the benefit; and I believe this view of the subject
 is mostly confined to the sort of persons who think that new truths may
-have been desirable once, but that we have had enough of them now.
+have been desirable once, but that we have had enough of them now. [^16]
 
 But, indeed, the dictum that truth always triumphs over persecution, is
 one of those pleasant falsehoods which men repeat after one another
@@ -476,7 +470,7 @@ true, it may be extinguished once, twice, or many times, but in the
 course of ages there will generally be found persons to rediscover it,
 until some one of its reappearances falls on a time when from favourable
 circumstances it escapes persecution until it has made such head as to
-withstand all subsequent attempts to suppress it.
+withstand all subsequent attempts to suppress it. [^17]
 
 It will be said, that we do not now put to death the introducers of new
 opinions: we are not like our fathers who slew the prophets, we even
@@ -527,7 +521,7 @@ in a future state, necessarily lies, it follows that they who do believe
 are only prevented from lying, if prevented they are, by the fear of
 hell. We will not do the authors and abettors of the rule the injury of
 supposing, that the conception which they have formed of Christian
-virtue is drawn from their own consciousness.
+virtue is drawn from their own consciousness. [^18]
 
 These, indeed, are but rags and remnants of persecution, and may be
 thought to be not so much an indication of the wish to persecute, as an
@@ -602,7 +596,7 @@ practical matters, which would come right of themselves, if but the
 minds of mankind were strengthened and enlarged, and which will never be
 made effectually right until then: while that which would strengthen and
 enlarge men's minds, free and daring speculation on the highest
-subjects, is abandoned.
+subjects, is abandoned. [^19]
 
 Those in whose eyes this reticence on the part of heretics is no evil,
 should consider in the first place, that in consequence of it there is
@@ -658,7 +652,7 @@ Europe what it now is. Every single improvement which has taken place
 either in the human mind or in institutions, may be traced distinctly to
 one or other of them. Appearances have for some time indicated that all
 three impulses are well-nigh spent; and we can expect no fresh start,
-until we again assert our mental freedom.
+until we again assert our mental freedom. [^20]
 
 Let us now pass to the second division of the argument, and dismissing
 the supposition that any of the received opinions may be false, let us
@@ -668,7 +662,7 @@ openly canvassed. However unwillingly a person who has a strong opinion
 may admit the possibility that his opinion may be false, he ought to be
 moved by the consideration that however true it may be, if it is not
 fully, frequently, and fearlessly discussed, it will be held as a dead
-dogma, not a living truth.
+dogma, not a living truth. [^21]
 
 There is a class of persons (happily not quite so numerous as formerly)
 who think it enough if a person assents undoubtingly to what they think
@@ -687,7 +681,7 @@ abides as a prejudice, a belief independent of, and proof against,
 argument--this is not the way in which truth ought to be held by a
 rational being. This is not knowing the truth. Truth, thus held, is but
 one superstition the more, accidentally clinging to the words which
-enunciate a truth.
+enunciate a truth. [^22]
 
 If the intellect and judgment of mankind ought to be cultivated, a thing
 which Protestants at least do not deny, on what can these faculties be
@@ -761,7 +755,7 @@ the strongest light. So essential is this discipline to a real
 understanding of moral and human subjects, that if opponents of all
 important truths do not exist, it is indispensable to imagine them, and
 supply them with the strongest arguments which the most skilful devil's
-advocate can conjure up.
+advocate can conjure up. [^23]
 
 To abate the force of these considerations, an enemy of free discussion
 may be supposed to say, that there is no necessity for mankind in
@@ -775,7 +769,7 @@ taught the obvious grounds of the truths inculcated on them, may trust
 to authority for the rest, and being aware that they have neither
 knowledge nor talent to resolve every difficulty which can be raised,
 may repose in the assurance that all those which have been raised have
-been or can be answered, by those who are specially trained to the task.
+been or can be answered, by those who are specially trained to the task.  [^24]
 
 Conceding to this view of the subject the utmost that can be claimed for
 it by those most easily satisfied with the amount of understanding of
@@ -813,7 +807,7 @@ the present state of the world, it is practically impossible that
 writings which are read by the instructed can be kept from the
 uninstructed. If the teachers of mankind are to be cognisant of all that
 they ought to know, everything must be free to be written and published
-without restraint.
+without restraint. [^25]
 
 If, however, the mischievous operation of the absence of free
 discussion, when the received opinions are true, were confined to
@@ -828,7 +822,7 @@ originally employed to communicate. Instead of a vivid conception and a
 living belief, there remain only a few phrases retained by rote; or, if
 any part, the shell and husk only of the meaning is retained, the finer
 essence being lost. The great chapter in human history which this fact
-occupies and fills, cannot be too earnestly studied and meditated on.
+occupies and fills, cannot be too earnestly studied and meditated on. [^26]
 
 It is illustrated in the experience of almost all ethical doctrines and
 religious creeds. They are all full of meaning and vitality to those who
@@ -877,7 +871,7 @@ encrusting and petrifying it against all other influences addressed to
 the higher parts of our nature; manifesting its power by not suffering
 any fresh and living conviction to get in, but itself doing nothing for
 the mind or heart, except standing sentinel over them to keep them
-vacant.
+vacant. [^27]
 
 To what an extent doctrines intrinsically fitted to make the deepest
 impression upon the mind may remain in it as dead beliefs, without being
@@ -922,7 +916,7 @@ a habitual respect for the sound of them, but no feeling which spreads
 from the words to the things signified, and forces the mind to take
 _them_ in, and make them conform to the formula. Whenever conduct is
 concerned, they look round for Mr. A and B to direct them how far to go
-in obeying Christ.
+in obeying Christ. [^28]
 
 Now we may be well assured that the case was not thus, but far
 otherwise, with the early Christians. Had it been thus, Christianity
@@ -947,7 +941,7 @@ sects, and why more pains are taken by teachers to keep their meaning
 alive; but one reason certainly is, that the peculiar doctrines are more
 questioned, and have to be oftener defended against open gainsayers.
 Both teachers and learners go to sleep at their post, as soon as there
-is no enemy in the field.
+is no enemy in the field. [^29]
 
 The same thing holds true, generally speaking, of all traditional
 doctrines--those of prudence and knowledge of life, as well as of morals
@@ -970,6 +964,7 @@ _pro_ and _con_ by people who did understand it. The fatal tendency of
 mankind to leave off thinking about a thing when it is no longer
 doubtful, is the cause of half their errors. A contemporary author has
 well spoken of "the deep slumber of a decided opinion."
+[^30]
 
 But what! (it may be asked) Is the absence of unanimity an indispensable
 condition of true knowledge? Is it necessary that some part of mankind
@@ -982,7 +977,7 @@ best result of improved intelligence, it has hitherto been thought, is
 to unite mankind more and more in the acknowledgment of all important
 truths: and does the intelligence only last as long as it has not
 achieved its object? Do the fruits of conquest perish by the very
-completeness of the victory?
+completeness of the victory? [^31]
 
 I affirm no such thing. As mankind improve, the number of doctrines
 which are no longer disputed or doubted will be constantly on the
@@ -1004,7 +999,7 @@ be had, I confess I should like to see the teachers of mankind
 endeavouring to provide a substitute for it; some contrivance for making
 the difficulties of the question as present to the learner's
 consciousness, as if they were pressed upon him by a dissentient
-champion, eager for his conversion.
+champion, eager for his conversion. [^32]
 
 But instead of seeking contrivances for this purpose, they have lost
 those they formerly had. The Socratic dialectics, so magnificently
@@ -1052,7 +1047,7 @@ who contest a received opinion, or who will do so if law or opinion will
 let them, let us thank them for it, open our minds to listen to them,
 and rejoice that there is some one to do for us what we otherwise ought,
 if we have any regard for either the certainty or the vitality of our
-convictions, to do with much greater labour for ourselves.
+convictions, to do with much greater labour for ourselves. [^33]
 
 
 It still remains to speak of one of the principal causes which make
@@ -1094,7 +1089,7 @@ Rather, he will think that so long as popular truth is one-sided, it is
 more desirable than otherwise that unpopular truth should have one-sided
 asserters too; such being usually the most energetic, and the most
 likely to compel reluctant attention to the fragment of wisdom which
-they proclaim as if it were the whole.
+they proclaim as if it were the whole. [^34]
 
 Thus, in the eighteenth century, when nearly all the instructed, and all
 those of the uninstructed who were led by them, were lost in admiration
@@ -1117,7 +1112,7 @@ the trammels and hypocrisies of artificial society, are ideas which have
 never been entirely absent from cultivated minds since Rousseau wrote;
 and they will in time produce their due effect, though at present
 needing to be asserted as much as ever, and to be asserted by deeds, for
-words, on this subject, have nearly exhausted their power.
+words, on this subject, have nearly exhausted their power. [^35]
 
 In politics, again, it is almost a commonplace, that a party of order
 or stability, and a party of progress or reform, are both necessary
@@ -1154,7 +1149,7 @@ the truth. When there are persons to be found, who form an exception to
 the apparent unanimity of the world on any subject, even if the world is
 in the right, it is always probable that dissentients have something
 worth hearing to say for themselves, and that truth would lose something
-by their silence.
+by their silence. [^36]
 
 It may be objected, "But _some_ received principles, especially on the
 highest and most vital subjects, are more than half-truths. The
@@ -1225,7 +1220,7 @@ whatever exists of magnanimity, high-mindedness, personal dignity, even
 the sense of honour, is derived from the purely human, not the religious
 part of our education, and never could have grown out of a standard of
 ethics in which the only worth, professedly recognised, is that of
-obedience.
+obedience. [^37]
 
 I am as far as any one from pretending that these defects are
 necessarily inherent in the Christian ethics, in every manner in which
@@ -1278,7 +1273,7 @@ be just to infidelity. It can do truth no service to blink the fact,
 known to all who have the most ordinary acquaintance with literary
 history, that a large portion of the noblest and most valuable moral
 teaching has been the work, not only of men who did not know, but of men
-who knew and rejected, the Christian faith.
+who knew and rejected, the Christian faith. [^38]
 
 I do not pretend that the most unlimited use of the freedom of
 enunciating all possible opinions would put an end to the evils of
@@ -1303,23 +1298,22 @@ intelligent judgment between two sides of a question, of which only one
 is represented by an advocate before it, truth has no chance but in
 proportion as every side of it, every opinion which embodies any
 fraction of the truth, not only finds advocates, but is so advocated as
-to be listened to.
-
+to be listened to. [^39]
 
 We have now recognised the necessity to the mental well-being of mankind
 (on which all their other well-being depends) of freedom of opinion, and
 freedom of the expression of opinion, on four distinct grounds; which we
-will now briefly recapitulate.
+will now briefly recapitulate. [^40]
 
 First, if any opinion is compelled to silence, that opinion may, for
 aught we can certainly know, be true. To deny this is to assume our own
-infallibility.
+infallibility. [^41]
 
 Secondly, though the silenced opinion be an error, it may, and very
 commonly does, contain a portion of truth; and since the general or
 prevailing opinion on any subject is rarely or never the whole truth, it
 is only by the collision of adverse opinions, that the remainder of the
-truth has any chance of being supplied.
+truth has any chance of being supplied. [^42]
 
 Thirdly, even if the received opinion be not only true, but the whole
 truth; unless it is suffered to be, and actually is, vigorously and
@@ -1330,7 +1324,7 @@ the doctrine itself will be in danger of being lost, or enfeebled, and
 deprived of its vital effect on the character and conduct: the dogma
 becoming a mere formal profession, inefficacious for good, but cumbering
 the ground, and preventing the growth of any real and heartfelt
-conviction, from reason or personal experience.
+conviction, from reason or personal experience. [^43]
 
 Before quitting the subject of freedom of opinion, it is fit to take
 some notice of those who say, that the free expression of all opinions
@@ -1400,7 +1394,7 @@ keeping nothing back which tells, or can be supposed to tell, in their
 favour. This is the real morality of public discussion; and if often
 violated, I am happy to think that there are many controversialists who
 to a great extent observe it, and a still greater number who
-conscientiously strive towards it.
+conscientiously strive towards it. [^44]
 
 FOOTNOTES:
 
@@ -1469,4 +1463,48 @@ do not believe in the divinity of Christ are beyond the pale of
 toleration. Who, after this imbecile display, can indulge the illusion
 that religious persecution has passed away, never to return?
 
+[^1]:
+[^2]:
+[^3]:
+[^4]:
+[^5]:
+[^6]:
+[^7]:
+[^8]:
+[^9]:
+[^10]:
+[^11]:
+[^12]:
+[^13]:
+[^14]:
+[^15]:
+[^16]:
+[^17]:
+[^18]:
+[^19]:
+[^20]:
+[^21]:
+[^22]:
+[^23]:
+[^24]:
+[^25]:
+[^26]:
+[^27]:
+[^28]:
+[^29]:
+[^30]:
+[^31]:
+[^32]:
+[^33]:
+[^34]:
+[^35]:
+[^36]:
+[^37]:
+[^38]:
+[^39]:
+[^40]:
+[^41]:
+[^42]:
+[^43]:
+[^44]:
 
