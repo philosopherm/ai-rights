@@ -18,7 +18,7 @@ from being new, that in a certain sense, it has divided mankind, almost
 from the remotest ages; but in the stage of progress into which the more
 civilised portions of the species have now entered, it presents itself
 under new conditions, and requires a different and more fundamental
-treatment.
+treatment. 1.
 
 The struggle between Liberty and Authority is the most conspicuous
 feature in the portions of history with which we are earliest familiar,
@@ -59,7 +59,7 @@ became everywhere the principal object of the lovers of liberty. And so
 long as mankind were content to combat one enemy by another, and to be
 ruled by a master, on condition of being guaranteed more or less
 efficaciously against his tyranny, they did not carry their aspirations
-beyond this point.
+beyond this point. 2.
 
 A time, however, came, in the progress of human affairs, when men ceased
 to think it a necessity of nature that their governors should be an
@@ -91,7 +91,7 @@ government may do, except in the case of such governments as they think
 ought not to exist, stand out as brilliant exceptions among the
 political thinkers of the Continent. A similar tone of sentiment might
 by this time have been prevalent in our own country, if the
-circumstances which for a time encouraged it, had continued unaltered.
+circumstances which for a time encouraged it, had continued unaltered. 3.
 
 But, in political and philosophical theories, as well as in persons,
 success discloses faults and infirmities which failure might have
@@ -127,7 +127,7 @@ classes in European society to whose real or supposed interests
 democracy is adverse, has had no difficulty in establishing itself; and
 in political speculations "the tyranny of the majority" is now generally
 included among the evils against which society requires to be on its
-guard.
+guard. 4.
 
 Like other tyrannies, the tyranny of the majority was at first, and is
 still vulgarly, held in dread, chiefly as operating through the acts of
@@ -152,7 +152,7 @@ fashion themselves upon the model of its own. There is a limit to the
 legitimate interference of collective opinion with individual
 independence: and to find that limit, and maintain it against
 encroachment, is as indispensable to a good condition of human affairs,
-as protection against political despotism.
+as protection against political despotism. 5.
 
 But though this proposition is not likely to be contested in general
 terms, the practical question, where to place the limit--how to make the
@@ -225,7 +225,7 @@ and on their own account, than as a consequence of the sympathies and
 antipathies which grew out of them: and sympathies and antipathies which
 had little or nothing to do with the interests of society, have made
 themselves felt in the establishment of moralities with quite as great
-force.
+force. 6.
 
 The likings and dislikings of society, or of some powerful portion of
 it, are thus the main thing which has practically determined the rules
@@ -271,7 +271,7 @@ everybody, short of a Papist or a Unitarian; another, every one who
 believes in revealed religion; a few extend their charity a little
 further, but stop at the belief in a God and in a future state. Wherever
 the sentiment of the majority is still genuine and intense, it is found
-to have abated little of its claim to be obeyed.
+to have abated little of its claim to be obeyed. 7.
 
 In England, from the peculiar circumstances of our political history,
 though the yoke of opinion is perhaps heavier, that of law is lighter,
@@ -308,7 +308,7 @@ as to what things are fit to be done by a government. And it seems to me
 that in consequence of this absence of rule or principle, one side is
 at present as often wrong as the other; the interference of government
 is, with about equal frequency, improperly invoked and improperly
-condemned.
+condemned. 8.
 
 The object of this Essay is to assert one very simple principle, as
 entitled to govern absolutely the dealings of society with the
@@ -331,7 +331,7 @@ calculated to produce evil to some one else. The only part of the
 conduct of any one, for which he is amenable to society, is that which
 concerns others. In the part which merely concerns himself, his
 independence is, of right, absolute. Over himself, over his own body and
-mind, the individual is sovereign.
+mind, the individual is sovereign. 9.
 
 It is, perhaps, hardly necessary to say that this doctrine is meant to
 apply only to human beings in the maturity of their faculties. We are
@@ -357,7 +357,7 @@ improvement by conviction or persuasion (a period long since reached in
 all nations with whom we need here concern ourselves), compulsion,
 either in the direct form or in that of pains and penalties for
 non-compliance, is no longer admissible as a means to their own good,
-and justifiable only for the security of others.
+and justifiable only for the security of others. 10.
 
 It is proper to state that I forego any advantage which could be derived
 to my argument from the idea of abstract right, as a thing independent
@@ -398,7 +398,7 @@ enforcement of responsibility, the conscience of the agent himself
 should step into the vacant judgment seat, and protect those interests
 of others which have no external protection; judging himself all the
 more rigidly, because the case does not admit of his being made
-accountable to the judgment of his fellow-creatures.
+accountable to the judgment of his fellow-creatures. 11.
 
 But there is a sphere of action in which society, as distinguished from
 the individual, has, if any, only an indirect interest; comprehending
@@ -426,7 +426,7 @@ they should think our conduct foolish, perverse, or wrong. Thirdly, from
 this liberty of each individual, follows the liberty, within the same
 limits, of combination among individuals; freedom to unite, for any
 purpose not involving harm to others: the persons combining being
-supposed to be of full age, and not forced or deceived.
+supposed to be of full age, and not forced or deceived. 12.
 
 No society in which these liberties are not, on the whole, respected, is
 free, whatever may be its form of government; and none is completely
@@ -436,7 +436,7 @@ own way, so long as we do not attempt to deprive others of theirs, or
 impede their efforts to obtain it. Each is the proper guardian of his
 own health, whether bodily, or mental and spiritual. Mankind are greater
 gainers by suffering each other to live as seems good to themselves,
-than by compelling each to live as seems good to the rest.
+than by compelling each to live as seems good to the rest. 13.
 
 Though this doctrine is anything but new, and, to some persons, may have
 the air of a truism, there is no doctrine which stands more directly
@@ -471,7 +471,7 @@ system, as unfolded in his _Traité de Politique Positive_, aims at
 establishing (though by moral more than by legal appliances) a despotism
 of society over the individual, surpassing anything contemplated in the
 political ideal of the most rigid disciplinarian among the ancient
-philosophers.
+philosophers. 14.
 
 Apart from the peculiar tenets of individual thinkers, there is also in
 the world at large an increasing inclination to stretch unduly the
@@ -487,7 +487,7 @@ and by some of the worst feelings incident to human nature, that it is
 hardly ever kept under restraint by anything but want of power; and as
 the power is not declining, but growing, unless a strong barrier of
 moral conviction can be raised against the mischief, we must expect, in
-the present circumstances of the world, to see it increase.
+the present circumstances of the world, to see it increase. 15.
 
 It will be convenient for the argument, if, instead of at once entering
 upon the general thesis, we confine ourselves in the first instance to a
@@ -506,6 +506,6 @@ thorough consideration of this part of the question will be found the
 best introduction to the remainder. Those to whom nothing which I am
 about to say will be new, may therefore, I hope, excuse me, if on a
 subject which for now three centuries has been so often discussed, I
-venture on one discussion more.
+venture on one discussion more. 16.
 
 
