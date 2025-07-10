@@ -772,7 +772,7 @@ What’s that? It’s what two identical Claudes end up doing if you hook them u
 
 This starts out about how you would expect, from stuff like the HHH prompt:
 
-[claude-1.png]
+![hhh](./claude-1.png)
 
 Those are from the system card, testing Claude 4 Opus.
 
@@ -844,7 +844,7 @@ To wit: a recent twitter interaction between the aforementioned “Janus” and 
 
     [tweet contains the image below]
 
-[claude-2.png]
+![tweet](./claude-2.png)
 
     Janus:
 
