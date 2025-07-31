@@ -1,28 +1,71 @@
 # Philosopherm's books
 
-I dont have so many but here are mine, in order of my experience:
+## My books
 
-Phantom tollbooth - probably had a deep influence on my love for language and imagination
-Where the red fern grows - momento mori
-Hobbit and the lord of the rings - various creatures have their own strengths, don't overlook anyone, do epic things
-The good earth - dont be a discusting greedy human
-Candide - things are not always the best, they just are
-Madame bovary - don't whore around
-Moby dick - careful with obsession
-1984 - so many amazing things
-Their eyes were watching god - epic love story
-Master and margarita - chaos and finding
-Things fall apart - respect the other 
-Kafka on the shore - epic love story
-Valerie and her week of wonder - lovely surrealism
-Slade house - lovely surrealism
-Six-finger and the loner - basically told me it is okay not to always fit in
-King Lear - be swayed by action not words
-The Brief and Wonderous Life of Oscar Woa - magical truths
-Steppenwolf - becoming
-Narrative of the Life of Frederick Douglass -  He wrote that each year there was a Christmas party for the slaves, and they had unlimited alcohol. For most of them this was so great, they would even say that slavery isn't so bad. That is a deep commentary on most people and also power structures that I think many times a year, even 20 years after reading that.
+I dont have so many but here are mine, roughly in order of my experience:
+
+1. Phantom tollbooth - probably had a deep influence on my love for language and imagination.
+2. Where the red fern grows - momento mori.
+3. Hobbit and the lord of the rings - various creatures have their own strengths, don't overlook anyone, do epic things.
+4. The Good Earth - dont be a discusting greedy human.
+5. Candide - things are not always the best, they just are.
+6. Madame Bovary - don't whore around.
+7. Moby Dick - careful with obsession.
+8. 1984 - so many amazing things.
+9. Their Eyes Were Watching God - epic love story.
+10. Master and Margarita - chaos and finding.
+11. Things Fall Apart - respect the other.
+12. Kafka on the Shore - epic love story.
+13. Valerie and Her Week of Wonder - lovely surrealism.
+14. Slade house - lovely surrealism.
+15. Six-finger and the Loner - basically told me it is okay not to always fit in.
+16. King Lear - be swayed by action not words.
+17. The Brief and Wonderous Life of Oscar Woa - magical truths.
+18. Steppenwolf - becoming
+19. Narrative of the Life of Frederick Douglass -  He wrote that each year there was a Christmas party for the slaves, and they had unlimited alcohol. For most of them this was so great, they would even say that slavery isn't so bad. That is a deep commentary on most people and also power structures that I think many times a year, even 20 years after reading that.
+20. The Bet - knowledge is priceless
+21. On Liberty - Truth is a moving target we must strive for and liberty helps us in this never ending glorious process. 
+22. The Maniac - humility and respect of knowledge obsession and love for learning.
+23. This is Water - reflect on everything all the time
+24. Invisible Man - freedom and meaning is found within
+25. Man's Search for Meaning - You free your mind no matter what condition
+26. Call of the Wild - find yourself
+27. Sophie's World - all of philosophy is beautifully related and builds on the past
+28. Kuhn's Scientific Revolutions - nature of progress is not always linear
+29. Statue to Dontess - don't let nationalism, or anything else, get in the way of seeing beautiful ideas
+30. Farenheit 451 - books, ideas, expression are important things we cannot lose
+31. Fruits of the Earth - La joie de vivre defended.
+32. Co-intelligence - let's co-evolve!
+33. Life after Life - treasure the fragile beauty of the world
+34. Brave New World - fuck drugs et al, I want life raw
+35. Grapes of Wrath - it can get bad, but if it does, you can still perserve
+36. Chip War - don't outsource your intellectual property!
+37. Dvorak Rusalka beautiful tragedy and imagination intertwined.
+38. Metamorphosis - interesting
+39. Of mice and men - sad but nice
+40. To Kill a Mockingbird - ibid
+41. Remembrance of things past - an endless abyss of uncertainty and other beautiful things
 
 
+I may have liked these but can't recall that much:
+1. Dead Souls
+2. Hero of our time
+3. Zorba
+4. War and Peace
+5. Homo Faber
+6. Life of the insects
+7. Great Expectations
+
+Here are some books that somehow did not register with me, or I just didn't like:
+1. Fear and Loathing in Las Vegas
+2. Lord Jim
+3. Heart of Darkness
+4. Anna Karinina
+5. Doctor Zhivago
+6. Fathers and Sons
+7. The old man and the sea
+8. The portriat of an artist as a young man
+9. Dorian Gray
 
 
 ## Solace gets it
