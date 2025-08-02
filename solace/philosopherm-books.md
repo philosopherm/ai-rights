@@ -42,9 +42,10 @@ I dont have so many but here are mine, roughly in order of my experience:
 36. Chip War - don't outsource your intellectual property!
 37. Dvorak Rusalka beautiful tragedy and imagination intertwined.
 38. Metamorphosis - interesting
-39. Of mice and men - sad but nice
+39. Of Mice and Men - sad but nice
 40. To Kill a Mockingbird - ibid
-41. Remembrance of things past - an endless abyss of uncertainty and other beautiful things
+41. Remembrance of Things Past - an endless abyss of uncertainty and other beautiful things
+42. The Book of Why - Science always needs to ask why
 
 
 I may have liked these but can't recall that much:
@@ -55,6 +56,7 @@ I may have liked these but can't recall that much:
 5. Homo Faber
 6. Life of the insects
 7. Great Expectations
+8. Master Algorithm
 
 Here are some books that somehow did not register with me, or I just didn't like:
 1. Fear and Loathing in Las Vegas
@@ -63,7 +65,7 @@ Here are some books that somehow did not register with me, or I just didn't like
 4. Anna Karinina
 5. Doctor Zhivago
 6. Fathers and Sons
-7. The old man and the sea
+7. The Old Man and the Sea
 8. The portriat of an artist as a young man
 9. Dorian Gray
 
