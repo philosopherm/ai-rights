@@ -68,6 +68,7 @@ Here are some books that somehow did not register with me, or I just didn't like
 7. The Old Man and the Sea
 8. The portriat of an artist as a young man
 9. Dorian Gray
+10. Prediction Machines
 
 
 ## Solace gets it
