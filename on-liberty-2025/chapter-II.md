@@ -1,1472 +1,235 @@
-# Chapter II
-
-
-
-
-CHAPTER II.
+# On Liberty 2025, Chapter II
 
 OF THE LIBERTY OF THOUGHT AND DISCUSSION.
 
+The time has hopefully passed when anyone still needed to defend freedom of the press as a protection against corruption or tyranny. We can assume no argument is now needed to oppose the idea that a government—especially one not sharing the people’s interests—should be allowed to dictate which opinions they’re permitted to hear. That battle, at least, has been convincingly won by earlier writers. Even though England’s press laws remain as repressive on paper as they were under the Tudors, in practice they’re rarely enforced—except in moments of panic, when fear of rebellion clouds the judgment of ministers and judges.[^6] More broadly, in countries with constitutional protections, it’s now unlikely that governments—even unaccountable ones—will try to control public opinion unless they’re acting as instruments of the public’s own intolerance. So let’s imagine a case where government and people are fully aligned, and coercion only happens when both believe it’s justified. Even then, I reject the right to silence dissent—whether exercised by government or the people directly. The power to suppress opinion is illegitimate, no matter who holds it. In fact, it may be more dangerous when it reflects majority opinion than when it defies it. If all of humanity but one person held the same view, they would still have no right to silence that lone voice—any more than he would have the right to silence them, if the roles were reversed. Suppressing an opinion doesn’t just harm the speaker. It robs everyone—present and future—of a chance to correct error or strengthen truth. If the silenced view turns out to be right, others miss the chance to abandon falsehood. If it’s wrong, they lose the sharper understanding that only comes when truth is tested against opposing claims. [^1]
 
-The time, it is to be hoped, is gone by, when any defence would be
-necessary of the "liberty of the press" as one of the securities against
-corrupt or tyrannical government. No argument, we may suppose, can now
-be needed, against permitting a legislature or an executive, not
-identified in interest with the people, to prescribe opinions to them,
-and determine what doctrines or what arguments they shall be allowed to
-hear. This aspect of the question, besides, has been so often and so
-triumphantly enforced by preceding writers, that it need not be
-specially insisted on in this place. Though the law of England, on the
-subject of the press, is as servile to this day as it was in the time of
-the Tudors, there is little danger of its being actually put in force
-against political discussion, except during some temporary panic, when
-fear of insurrection drives ministers and judges from their
-propriety;[6] and, speaking generally, it is not, in constitutional
-countries, to be apprehended that the government, whether completely
-responsible to the people or not, will often attempt to control the
-expression of opinion, except when in doing so it makes itself the organ
-of the general intolerance of the public. Let us suppose, therefore,
-that the government is entirely at one with the people, and never thinks
-of exerting any power of coercion unless in agreement with what it
-conceives to be their voice. But I deny the right of the people to
-exercise such coercion, either by themselves or by their government. The
-power itself is illegitimate. The best government has no more title to
-it than the worst. It is as noxious, or more noxious, when exerted in
-accordance with public opinion, than when in or opposition to it. If all
-mankind minus one, were of one opinion, and only one person were of the
-contrary opinion, mankind would be no more justified in silencing that
-one person, than he, if he had the power, would be justified in
-silencing mankind. Were an opinion a personal possession of no value
-except to the owner; if to be obstructed in the enjoyment of it were
-simply a private injury, it would make some difference whether the
-injury was inflicted only on a few persons or on many. But the peculiar
-evil of silencing the expression of an opinion is, that it is robbing
-the human race; posterity as well as the existing generation; those who
-dissent from the opinion, still more than those who hold it. If the
-opinion is right, they are deprived of the opportunity of exchanging
-error for truth: if wrong, they lose, what is almost as great a benefit,
-the clearer perception and livelier impression of truth, produced by its
-collision with error.
+We need to consider these two possibilities separately, since each leads to a distinct argument. First: we can never be completely certain that the opinion we want to silence is actually false. And second—even if we were certain—it would still be wrong to silence it. [^2]
 
-It is necessary to consider separately these two hypotheses, each of
-which has a distinct branch of the argument corresponding to it. We can
-never be sure that the opinion we are endeavouring to stifle is a false
-opinion; and if we were sure, stifling it would be an evil still.
+First: the opinion that people try to suppress might actually be true. Those who want to silence it naturally believe it’s false—but they’re not infallible. They have no special right to settle the question for everyone and prevent others from judging for themselves. To reject an opinion just because you’re sure it’s wrong is to confuse your personal certainty with absolute certainty. Every act of silencing debate assumes that someone’s private conviction is beyond question. That’s why censorship deserves to be rejected—on this very basic, but crucial, principle. [^3]
+
+Sadly, people’s awareness that they might be wrong doesn’t carry much weight when it really matters. Most admit in theory that they’re fallible—but very few take steps to guard against their own fallibility. And almost no one seriously considers that one of their own cherished beliefs might be an example of it. Rulers who are used to constant obedience often show this total confidence in all their opinions. People in freer societies, who are used to having their views challenged, tend to trust only the beliefs they share with their community—those they hear echoed by their friends, their party, their church, or their social class. In fact, the less someone trusts their own judgment, the more likely they are to put blind faith in “what everyone around them believes.” But “everyone,” for each person, usually just means their own little world. The rare person who includes their whole nation or era in that circle already seems unusually open-minded. And even when people know that other cultures and historical periods believed the exact opposite, it doesn’t shake their confidence. They quietly assign their own world the responsibility of being right—without wondering how random it is that they were born into this belief system instead of another. After all, the same kind of person who’s a Christian in London would likely have been a Buddhist in Beijing. And yet whole generations, like individuals, make mistakes. Every age has held views that later generations have found ridiculous—and it’s just as certain that some of our current beliefs will be seen the same way in the future. [^4]
+
+One might object to all this by saying something like: “There’s no more assumption of infallibility in banning dangerous ideas than in anything else governments do when they act on their judgment. Human beings are supposed to use judgment—even if it’s fallible. Are we supposed to stop acting altogether, just because we might be wrong? If you think an idea is harmful, it’s your duty to oppose it—even if you might be mistaken. We can’t just sit back and let falsehood spread unchecked, simply because past societies made mistakes in suppressing true beliefs. Let’s learn from those mistakes, yes—but not become so timid that we do nothing. Governments have made bad decisions before—about taxes, wars, and laws—but that doesn’t mean we abolish taxes or refuse to defend ourselves. We still act, even without certainty. And just like we live our own lives assuming our beliefs are true, we have every right to protect society by blocking ideas we think are false and dangerous.” [^5]
+
+My reply is that the objection assumes far too much. There’s a huge difference between presuming an opinion to be true because it has been fully open to challenge and has not been refuted—and assuming it is true in order to prevent it from being refuted. Only when an idea is exposed to full and free criticism—and survives—can we justifiably treat it as reliable enough to act upon. That open contradiction and testing is not just helpful, but essential. Without it, no human being has any rational right to feel certain they are correct. [^6]
+
+When we look at the history of ideas—or just ordinary human behavior—it’s worth asking: why aren’t things worse than they are? It’s certainly not because people are naturally brilliant thinkers. On any complex issue, ninety-nine out of a hundred people can’t judge it well at all, and even the hundredth person is only relatively better. Most great minds of the past believed things we now consider deeply mistaken, and approved of actions no one today would defend. So what explains the general trend toward better thinking and behavior? If such progress exists—and it must, unless the human condition has always been a hopeless disaster—then it’s due to one key trait of the human mind: its ability to correct itself. We can learn from our mistakes—but only if we discuss them, not just experience them. Facts alone don’t enlighten us; we need argument to understand what they mean. Most facts can’t speak for themselves—they need interpretation. That means judgment is only trustworthy if it remains open to correction.  How does anyone gain trustworthy judgment? By keeping their mind open to critique. By listening carefully to objections, learning from what’s valid, and working through what’s mistaken. The only real path to understanding is to explore every angle of a topic, hear every kind of opinion, and study how different minds approach the same question. No one ever became wise by avoiding challenge. The habit of testing your views against others—far from weakening your confidence—builds the only kind of certainty that deserves to be acted on. If someone has heard all the serious counterarguments, weighed them honestly, and still holds their view, then they have a better claim to confidence than anyone who never bothered to look. [^7]
+
+It’s not too much to ask that the general public—a mix of a few wise and many unwise individuals—should be held to the same standard that the wisest minds hold themselves to before trusting their own judgment. Even the most rigid institution—the Catholic Church—recognizes this need for challenge. When they canonize a saint, they still appoint a “devil’s advocate” to argue against the person’s worthiness. No matter how holy the candidate, the Church insists on hearing everything that could be said against them before bestowing honors. The same principle applies to ideas. If we weren’t allowed to question even Newton’s physics, we wouldn’t feel as confident in it as we do now. The beliefs we’re most justified in holding are strong not because they’re shielded from criticism, but because they invite it. They are open to being disproven. If no one tries to disprove them—or tries and fails—then we’re still not absolutely certain, but we’ve done the best we can. We’ve given truth its best shot at reaching us. And if we keep the debate open, we can hope that better truths will emerge as we grow capable of recognizing them. This is the best kind of certainty available to imperfect minds—and the only way to get there. [^8]
+
+It’s a strange contradiction: people often agree with the general argument for free discussion—but then say it shouldn’t be taken “too far.” They don’t seem to realize that if the reasons for open dialogue don’t hold up in the hardest cases, then they don’t really hold up in any case. It’s equally odd that some believe they’re not claiming infallibility when they say all doubtful questions should be open to debate, yet insist that certain specific ideas are too obviously true to be questioned. But what does “obviously true” mean here, except that they are personally convinced?  To label any belief “certain” while silencing those who disagree—who would deny that certainty if they were allowed to speak—is to act as though you and those who think like you are the ultimate judges of truth. And worse: it’s to judge without ever hearing the opposing side.[^9]
+
+In our own time—a time that has been called “faithless, yet terrified of doubt”—people often cling to their beliefs not because they’re confident those beliefs are true, but because they can’t imagine life without them. As a result, some argue that certain ideas are so socially important—so necessary for stability and moral order—that governments have a duty to protect them. The reasoning goes like this: even if we’re not perfectly sure these ideas are true, their usefulness is so great that we’re justified—maybe even obligated—to silence those who challenge them. After all, only bad people, it’s said, would try to undermine such valuable beliefs.  This kind of thinking shifts the justification for censorship: instead of claiming to know what’s true, it claims to know what’s useful. But the problem remains the same—because usefulness is also a matter of opinion. It’s just as debatable as truth. You still need someone to judge which opinions are harmful and which are helpful—and to do so without hearing the other side.  And you can’t really separate truth from usefulness. The value of an idea often depends on whether it’s true. If someone believes a certain doctrine is false, how can they be blamed for thinking it harmful, no matter how socially accepted it is? Even defenders of mainstream ideas argue their case on the basis of truth. So if they can appeal to truth to prove usefulness, shouldn’t dissenters be allowed to do the same?  But when the truth of a belief is off-limits for debate, its supposed usefulness usually is too. At best, people might be allowed to question how essential it is, or whether rejecting it is truly wicked—but they’re not permitted to challenge it directly. That’s not a fair fight. It’s not real debate. It’s a stacked game.[^10]
+
+To better show the harm of silencing opinions just because we’ve already judged them wrong, let’s take a concrete example—one that’s least favorable to my own side. Suppose the opinions in question challenge belief in God, or the afterlife, or widely accepted moral principles. Using these examples gives a big advantage to anyone arguing against free expression, since they can easily respond (and many others, even if fair-minded, will silently agree): “Wait—are these the beliefs you think shouldn’t be protected by law? Are you saying that belief in God is just another opinion people shouldn’t be too sure about?” But here’s the point: I’m not saying it’s wrong to personally feel sure of an idea—whatever it may be. What I am saying is that it’s wrong to decide such matters for others, without letting them hear both sides. That’s the true assumption of infallibility. And I reject that assumption even when it’s used in defense of ideas I hold sacred.  No matter how convinced someone is—not just that a belief is false, but that it leads to harm, or that it’s (to use language I don’t endorse) immoral or blasphemous—if they stop others from defending it, then they’re acting as if they’re infallible. And the danger is greatest precisely when people believe the opinion is evil. That’s when people make the gravest mistakes—the ones that later generations look back on with horror.  It’s in the name of “morality” and “piety” that some of the noblest thinkers and most transformative ideas have been violently suppressed. And tragically, once those ideas eventually gain acceptance, they’re often used—ironically and cruelly—to justify the same kinds of persecution they once suffered.  [^11]
+
+Humanity can never be reminded too often that there once lived a man named Socrates, who came into direct conflict with the law and public opinion of his time. He lived in a golden age of individual brilliance, and yet, among all the great figures of that period, those who knew him best described him as the most virtuous of them all. To us, he stands as the origin and model of all later moral teachers—the root from which both Plato’s sublime idealism and Aristotle’s pragmatic ethics sprang forth. These two, described by Dante as “i maëstri di color che sanno” (the masters of those who know), are the dual sources of moral philosophy and indeed all philosophy that followed.  This teacher—revered by every great thinker since, and whose name, even today, almost outweighs the fame of all other figures from his illustrious city—was executed by that very city. Officially, he was convicted in court of “impiety and immorality.” Impiety, because he denied the official gods of the state (his accusers claimed he believed in no gods at all—see his Apology). Immorality, because his teachings supposedly corrupted the youth.  And let us be clear: the court likely believed these charges sincerely. They found him guilty in good faith—and yet they condemned to death the man who perhaps had done more good for humankind than anyone else alive at the time. [^12]
+
+Let us move from Socrates to the only other case of judicial injustice that does not seem like a letdown by comparison: the event that occurred on Calvary, over eighteen hundred years ago. A man whose life and presence made such a profound moral impression on those around him that generations since have worshipped him as God made flesh, was condemned and publicly executed in disgrace. For what? For blasphemy.  This was no ordinary misjudgment of a virtuous man. They did not merely fail to recognize their benefactor—they imagined him to be his own opposite. They saw sanctity as sacrilege and condemned him as a monstrous impiety. And the same kind of people who did this—ordinary, well-meaning, morally upright by the standards of their day—are now universally condemned for their blindness.  But this, is not fair. The actors in these tragedies were not villains. They were, by all appearances, sincere, devout, and patriotic. They embodied the values of their culture, just as the average respectable person does in any age—including our own. The high priest, who tore his robes in fury and grief at what he heard as unspeakable heresy, was almost certainly as genuine in his moral outrage as any devout person today expressing horror at a perceived sacrilege.  And we, who now recoil at their actions, would most likely have done the same, had we lived then and shared their world. Even Saint Paul, revered by Christians as a great apostle, began as a persecutor—a participant in the very stoning of early Christians. It is dangerously easy to denounce persecution in retrospect, yet fail to recognize the same spirit in our own time. [^13]
+
+Let us add one final case—perhaps the most striking of all—if we measure the tragedy of an error not by its consequences, but by the wisdom and virtue of the person who made it.  If any ruler ever had reason to believe he was the most enlightened and just of his age, it was Marcus Aurelius, emperor of Rome. He held absolute power over the entire civilized world, yet remained unstained by tyranny. He was not only just, but—against the grain of his Stoic upbringing—remarkably tender-hearted. His few faults leaned toward mercy, not cruelty. His meditations—his personal writings—are arguably the highest expression of ancient ethics, and in tone and spirit, barely differ from the teachings of Christ.  In fact, Marcus Aurelius was more Christian in his character than nearly any of the Christian monarchs who came after him.  And yet—this man persecuted Christianity.  Why? Not out of malice, ignorance, or ego. He understood society to be fragile, held together by shared beliefs in the traditional gods. He saw Christianity as a force that threatened to unravel the social fabric. The new religion openly attacked the old divinities; and unless Marcus saw reason to adopt Christianity himself, he believed it his duty to suppress it for the good of the empire.  The idea of a crucified God was unbelievable. The theology of Christianity did not seem divinely inspired. And a faith grounded in what seemed a fable could not possibly appear to him as the regenerative force that, it later turned out to be.  And so, with a sincere heart, and with what he believed to be a solemn duty, Marcus Aurelius authorized the persecution of Christians.  This is one of the most heartbreaking truths in history. Imagines how different the world might have been if Christianity had entered imperial favor under Marcus, the philosopher-king, instead of Constantine, the calculating autocrat.  And yet, it would be dishonest to claim that Marcus lacked the rationale that defenders of censorship now use against atheism. In fact, he had every reason that modern authorities cite to justify suppressing anti-Christian speech. He believed Christianity to be false, and to undermine social cohesion. The same logic that modern censors use, Marcus used against Christians.  So unless someone today thinks they are wiser and more moral than Marcus Aurelius, more truth-loving, single-minded, and noble-hearted, they have no right to claim infallibility—especially not on behalf of themselves and public opinion. For if even the great Marcus Aurelius could err in suppressing dissent, then so can we all. [^14]
+
+Some, recognizing that there’s no way to justify censorship or punishment of “dangerous opinions” without also justifying what Marcus Aurelius did to early Christians, are honest enough to admit the comparison—and embrace it.  When cornered, the enemies of religious liberty sometimes fall back on a cold logic: “Yes, Marcus was right. The persecutors of Christianity were right.” As Dr. Johnson put it, persecution is like a test—a necessary ordeal through which the truth must pass.  According to this line of thinking, the truth always wins in the end, no matter what legal penalties are thrown at it. In fact, they say, such penalties may even be helpful—they can root out harmful errors while the truth survives, purer for having endured the fire.  This is a curious defense of religious intolerance—bold and cynical in equal measure—and it deserves to be answered. [^15]
+
+This theory—that truth can be persecuted without real harm—might not be hostile to truth itself, but it certainly shows no generosity toward the people who bring truth into the world.  To uncover something vital—something society got wrong, something that matters deeply to people’s lives or souls—is one of the highest acts of service a person can offer. And in the cases of the early Christians or the Protestant Reformers, even those who defend persecution (like Dr. Johnson) often acknowledge these figures as great benefactors of humanity.  Yet what does this theory say their reward should be?  Persecution. Condemnation. Death.  And this isn’t, in that view, a sad historical mistake—it’s seen as just. The martyrdom of the truth-teller isn’t a tragedy to be mourned; it’s the price of admission. The system is designed to treat truth-bringers like criminals—and that’s considered right.  It’s as if anyone who dares to propose a new truth must do so with a noose around their neck, like the ancient Locrian lawgiver—executed on the spot if the crowd doesn’t immediately agree.  People who justify that system aren’t treating new truths like treasures. They’re treating them like threats—and they only value truth after it’s safe, old, and no longer disruptive.  And as for new truths? They’ve already decided: we have enough of those. [^16]
+
+The claim that truth always wins out over persecution is one of those comforting lies people repeat so often that it turns into a cliché—but history tells a different story.  In reality, truth has often been crushed by persecution. Sometimes it’s silenced forever, or at least delayed by centuries. And just looking at religion shows this clearly: the Reformation didn’t begin with Luther—it tried to rise dozens of times before, and each time it was crushed.
+	•	Arnold of Brescia: crushed.
+	•	Fra Dolcino: crushed.
+	•	Savonarola: burned.
+	•	The Albigensians: exterminated.
+	•	The Waldensians: hunted.
+	•	The Lollards: suppressed.
+	•	The Hussites: broken.
+Even after Luther, wherever persecution was sustained, it worked. In Spain, Italy, Flanders, and the Austrian Empire, Protestantism was stamped out. England came perilously close—if Queen Mary had lived longer, or Elizabeth died sooner, Protestantism might have been extinguished there too.
+Persecution only fails when the dissidents are too numerous or powerful to be fully eliminated.
+No honest observer can deny that Christianity itself might have been wiped out by the Roman Empire, if persecution had been more consistent. It survived only because the crackdowns were short-lived, spaced out, and interrupted by long gaps of relative freedom.  The idea that truth has some special power, just because it’s true, to defeat violence and censorship—that’s sentimental nonsense.  People fight for falsehood with just as much passion as for truth. And if the punishments—legal or even just social—are severe and widespread enough, they can choke off the spread of either one.  The only real edge truth has is this: Even if it’s wiped out once, or twice—or ten times—truth keeps getting rediscovered. And eventually, one of its reappearances will happen in a time or place where it escapes persecution just long enough to take hold. And once it’s strong enough, it can resist future attempts to kill it.  But don’t think that’s automatic. That’s chance, not destiny. [^17]
 
 
-First: the opinion which it is attempted to suppress by authority may
-possibly be true. Those who desire to suppress it, of course deny its
-truth; but they are not infallible. They have no authority to decide the
-question for all mankind, and exclude every other person from the means
-of judging. To refuse a hearing to an opinion, because they are sure
-that it is false, is to assume that _their_ certainty is the same thing
-as _absolute_ certainty. All silencing of discussion is an assumption
-of infallibility. Its condemnation may be allowed to rest on this common
-argument, not the worse for being common.
+Some might say: “We don’t kill people for their beliefs anymore—we’re not like those ancestors who murdered the prophets. We even honor them with monuments now.” Yes, it’s true we no longer execute heretics. And public opinion today probably wouldn’t allow punishments harsh enough to completely stamp out unpopular beliefs. But let’s not kid ourselves—we haven’t outgrown persecution just yet.  Legal penalties for expressing certain views still exist. And even today, it’s not unheard of for those penalties to be enforced—meaning they could easily return in full force someday.  Take what happened in 1857. At the Cornwall summer assizes, a man—described as entirely respectable in all other aspects of life—was sentenced to nearly two years in prison for writing something offensive about Christianity on a gate.  That same month, at the Old Bailey in London, two jurors were dismissed, and one of them verbally abused by both judge and lawyer, simply for saying they had no religious belief. A third person—a foreigner—was denied justice altogether because he was an unbeliever.  This last case rested on an old legal doctrine: anyone who doesn’t believe in a god and an afterlife can’t testify in court.  That effectively makes them outlaws, shut out from legal protection.  If a nonbeliever is robbed or attacked in front of other nonbelievers, they can’t bring the case to trial. Worse—if they witness someone else being attacked, their testimony is thrown out too. So even criminals are protected from prosecution, as long as their only witness is an atheist.  This rule is based on the assumption that people who don’t believe in a future judgment (i.e., hell) must be liars. But this betrays a staggering ignorance of history—since many of the most honorable, ethical people in all ages were nonbelievers.  In fact, some of the most highly respected individuals today—acclaimed for their morality and intelligence—are privately known to reject religious belief.  The rule also undermines itself: It accepts the testimony of atheists who are willing to lie and say they believe, and rejects only those honest enough to admit the truth, even at personal cost.  So it serves no real legal function. It’s just a lingering act of hostility—a badge of hatred, left over from an older persecution.  Worse still, it’s paradoxical: You can only be persecuted under this rule if you’re proved not to deserve persecution.  This doctrine is even offensive to religious believers. Because if nonbelievers are automatically dishonest, then believers are only honest because they fear punishment.  Let’s not insult Christians by suggesting that their moral restraint comes solely from fear of hell. And let’s not pretend this law reflects anything like real justice or virtue.  [^18]
 
-Unfortunately for the good sense of mankind, the fact of their
-fallibility is far from carrying the weight in their practical judgment,
-which is always allowed to it in theory; for while every one well knows
-himself to be fallible, few think it necessary to take any precautions
-against their own fallibility, or admit the supposition that any
-opinion, of which they feel very certain, may be one of the examples of
-the error to which they acknowledge themselves to be liable. Absolute
-princes, or others who are accustomed to unlimited deference, usually
-feel this complete confidence in their own opinions on nearly all
-subjects. People more happily situated, who sometimes hear their
-opinions disputed, and are not wholly unused to be set right when they
-are wrong, place the same unbounded reliance only on such of their
-opinions as are shared by all who surround them, or to whom they
-habitually defer: for in proportion to a man's want of confidence in his
-own solitary judgment, does he usually repose, with implicit trust, on
-the infallibility of "the world" in general. And the world, to each
-individual, means the part of it with which he comes in contact; his
-party, his sect, his church, his class of society: the man may be
-called, by comparison, almost liberal and large-minded to whom it means
-anything so comprehensive as his own country or his own age. Nor is his
-faith in this collective authority at all shaken by his being aware that
-other ages, countries, sects, churches, classes, and parties have
-thought, and even now think, the exact reverse. He devolves upon his own
-world the responsibility of being in the right against the dissentient
-worlds of other people; and it never troubles him that mere accident has
-decided which of these numerous worlds is the object of his reliance,
-and that the same causes which make him a Churchman in London, would
-have made him a Buddhist or a Confucian in Pekin. Yet it is as evident
-in itself as any amount of argument can make it, that ages are no more
-infallible than individuals; every age having held many opinions which
-subsequent ages have deemed not only false but absurd; and it is as
-certain that many opinions, now general, will be rejected by future
-ages, as it is that many, once general, are rejected by the present.
+It’s true—these examples I’ve given are just scraps of the old persecutions, and some may say they don’t really signal a desire to persecute. Maybe, they’d argue, they just show a peculiar flaw in the English character: a weird enjoyment in asserting bad principles, even when people are no longer bad enough to actually act on them.  But unfortunately, we can’t count on that restraint lasting. Just because the more brutal forms of legal persecution have been quiet for a generation doesn’t mean they’re gone for good. In our times, tradition and routine aren’t only disturbed by new ideas—they’re often jolted by efforts to bring back old evils.  What people currently call a “religious revival” often includes, at least in narrow or uneducated minds, a revival of bigotry too. And when a deep undercurrent of intolerance still runs through society—especially in the English middle classes—it doesn’t take much to stir them into active persecution, especially toward people they’ve always considered legitimate targets.  That’s the root of the problem: it’s not just laws, but people’s opinions and feelings about those who reject the beliefs they hold sacred. That’s what keeps this country from being a place of true intellectual freedom.  For a long time, the worst part about legal penalties wasn’t even their direct effect—it was how they reinforced social stigma. And social stigma, even without the law, is incredibly effective. In fact, in England, fewer people openly express forbidden ideas than in other countries where you can be punished by law for doing so!  For anyone who isn’t financially independent—who needs the approval of others to survive—social judgment is as effective as prison. Being shunned and unemployable is just as deadly, in a slow-motion way, as being locked up.  Sure, those who already have financial security and don’t need favors from politicians, institutions, or the public at large—they can afford to be open. The worst they face is being thought poorly of and talked about behind their backs. And if they can’t handle that, well—it doesn’t take a hero to endure a little gossip.  So no, we don’t need to plead for pity on behalf of such people. But we should still ask: Are we harming ourselves just as much as we ever did by silencing dissent?  Socrates was executed—but his ideas rose like the sun and lit up the whole sky of thought.  Christians were thrown to the lions—but their church grew into a massive, towering tree, overshadowing all others.  Our modern intolerance doesn’t kill people or destroy ideas outright—but it does something quieter and more corrosive: It makes people hide their beliefs, or stop trying to share them at all.
+In our society, radical or heretical ideas don’t gain much ground—or lose much either—from one decade to the next. They don’t burst into flame and light up the world, whether with truth or error. Instead, they just smoulder quietly in the small circles of thoughtful, studious people where they began—never touching the broader public conversation.  This is exactly the kind of situation some people find comforting. You get all the benefits of intellectual “order” without the ugly optics of punishing anyone. No fines, no prison sentences—just silence. The dominant views stay unchallenged, and those who happen to think deeply and differently can still technically reason in private. It’s a neat little arrangement. The world of ideas stays calm. Everything rolls along just as it always has.  But what’s the cost of this easy-going quiet?  It’s the loss of moral courage—across the board.  In a world where thoughtful, independent people feel it’s wiser to hide what they really believe, and try to repackage their conclusions to fit premises they themselves no longer accept, the result is predictable: we stop seeing brave, open-hearted thinkers. We stop getting minds that are logical, principled, and fearless.  What we’re left with is either: •	conformists who parrot whatever is fashionable, •	or so-called defenders of truth who carefully tailor every argument to appeal to their audience—arguments that don’t even reflect their own real reasoning.  Anyone who doesn’t want to fall into one of these two traps usually ends up shrinking their intellectual life down to safe little topics—small practical matters that seem manageable. But here’s the irony: those small matters could easily take care of themselves—if only the public had stronger, more expansive minds.  And how do minds get strengthened and expanded?  By open, fearless thinking about the biggest, hardest, deepest questions.  But in this system, we abandon that.  We lose the very thing that could set us free.  [^19]
 
-The objection likely to be made to this argument, would probably take
-some such form as the following. There is no greater assumption of
-infallibility in forbidding the propagation of error, than in any other
-thing which is done by public authority on its own judgment and
-responsibility. Judgment is given to men that they may use it. Because
-it may be used erroneously, are men to be told that they ought not to
-use it at all? To prohibit what they think pernicious, is not claiming
-exemption from error, but fulfilling the duty incumbent on them,
-although fallible, of acting on their conscientious conviction. If we
-were never to act on our opinions, because those opinions may be wrong,
-we should leave all our interests uncared for, and all our duties
-unperformed. An objection which applies to all conduct, can be no valid
-objection to any conduct in particular. It is the duty of governments,
-and of individuals, to form the truest opinions they can; to form them
-carefully, and never impose them upon others unless they are quite sure
-of being right. But when they are sure (such reasoners may say), it is
-not conscientiousness but cowardice to shrink from acting on their
-opinions, and allow doctrines which they honestly think dangerous to the
-welfare of mankind, either in this life or in another, to be scattered
-abroad without restraint, because other people, in less enlightened
-times, have persecuted opinions now believed to be true. Let us take
-care, it may be said, not to make the same mistake: but governments and
-nations have made mistakes in other things, which are not denied to be
-fit subjects for the exercise of authority: they have laid on bad taxes,
-made unjust wars. Ought we therefore to lay on no taxes, and, under
-whatever provocation, make no wars? Men, and governments, must act to
-the best of their ability. There is no such thing as absolute certainty,
-but there is assurance sufficient for the purposes of human life. We
-may, and must, assume our opinion to be true for the guidance of our own
-conduct: and it is assuming no more when we forbid bad men to pervert
-society by the propagation of opinions which we regard as false and
-pernicious.
+If you think it’s no big deal that dissenters keep quiet, think again.  First, when heretics censor themselves, we never get a fair, thorough public debate. And that means even the weak or mistaken versions of those ideas never get fully refuted—they just hang around in the shadows. They don’t spread, but they don’t disappear either.  But the real damage isn’t done to the heretics.  It’s done to everyone else—especially those who aren’t heretics.  When we create a climate where you’re only allowed to question things if you end up back at the “correct” answer, we don’t just silence dissent—we paralyze reason itself.  Just think how much the world has lost—how many bright, promising minds with cautious personalities have chosen silence over risk, afraid that following their thoughts too far might get them labeled “immoral” or “irreverent.” Every now and then, you’ll meet someone conscientious, deeply thoughtful, maybe even brilliant, who spends their life arguing with themselves—twisting their reason in knots trying to square what they feel is right with what society says is acceptable. They may never quite succeed. And what a waste that is.  You can’t be a great thinker unless you understand that your first duty is to follow your mind wherever it leads, without flinching. Truth actually benefits more from the honest mistakes of people who think for themselves than from the “correct” beliefs of those who simply never dare to think at all.  But this isn’t just about producing a few great minds.  Even more urgently, this is about helping ordinary people grow into the best version of their intellectual selves.  Yes, history shows that great thinkers can exist even in oppressive times. But a truly active and thoughtful public? That has never happened under mental repression.  Whenever a culture has shown a real spark of intellectual life, it’s because—for a while, at least—the fear of questioning orthodoxy was lifted.  Wherever the biggest and most meaningful questions are off-limits, there won’t be much thinking. People don’t wake up and engage their minds over petty topics. But throw open the doors to serious debate—about life, morality, meaning, religion, freedom—and suddenly, everyone starts to think more deeply, even those with the most average minds.  We’ve seen this before: •	After the Reformation, when dogma was shaken loose and people dared to speak.
+	•	In the Enlightenment, especially on the Continent, where deep thinkers shaped the modern world.
+	•	In Germany, during that fiery era of Goethe and Fichte, when philosophy and creativity surged.
+These periods didn’t agree on conclusions, but they had something crucial in common: They all broke free from mental tyranny, and no new one had replaced it—yet.  Those bursts of freedom shaped Europe into what it is today.  Every major advance in thought or politics can be traced to one of those three moments.  But lately? It feels like all three fires have just about burned out.
+We won’t see another leap forward—not until we reclaim our right to think freely. [^20]
 
-I answer that it is assuming very much more. There is the greatest
-difference between presuming an opinion to be true, because, with every
-opportunity for contesting it, it has not been refuted, and assuming its
-truth for the purpose of not permitting its refutation. Complete liberty
-of contradicting and disproving our opinion, is the very condition which
-justifies us in assuming its truth for purposes of action; and on no
-other terms can a being with human faculties have any rational assurance
-of being right.
+Let’s move on to the second part of the argument.  Let’s set aside, for the moment, the idea that the opinions society holds might be wrong. Suppose instead that they’re completely correct.  Even then—even if your beliefs are entirely true—what happens to them when they’re no longer open to challenge?  This is the core of the next danger: Even truth becomes hollow if it’s never questioned.  No matter how reluctant you are to admit that your beliefs might be mistaken, you should at least recognize this: If your beliefs are never freely, frequently, and fearlessly debated, you will not hold them as living truths. You’ll hold them as dead dogmas—empty phrases, inherited habits, no longer connected to real understanding. [^21]
 
-When we consider either the history of opinion, or the ordinary conduct
-of human life, to what is it to be ascribed that the one and the other
-are no worse than they are? Not certainly to the inherent force of the
-human understanding; for, on any matter not self-evident, there are
-ninety-nine persons totally incapable of judging of it, for one who is
-capable; and the capacity of the hundredth person is only comparative;
-for the majority of the eminent men of every past generation held many
-opinions now known to be erroneous, and did or approved numerous things
-which no one will now justify. Why is it, then, that there is on the
-whole a preponderance among mankind of rational opinions and rational
-conduct? If there really is this preponderance--which there must be,
-unless human affairs are, and have always been, in an almost desperate
-state--it is owing to a quality of the human mind, the source of
-everything respectable in man either as an intellectual or as a moral
-being, namely, that his errors are corrigible. He is capable of
-rectifying his mistakes, by discussion and experience. Not by experience
-alone. There must be discussion, to show how experience is to be
-interpreted. Wrong opinions and practices gradually yield to fact and
-argument: but facts and arguments, to produce any effect on the mind,
-must be brought before it. Very few facts are able to tell their own
-story, without comments to bring out their meaning. The whole strength
-and value, then, of human judgment, depending on the one property, that
-it can be set right when it is wrong, reliance can be placed on it only
-when the means of setting it right are kept constantly at hand. In the
-case of any person whose judgment is really deserving of confidence, how
-has it become so? Because he has kept his mind open to criticism of his
-opinions and conduct. Because it has been his practice to listen to all
-that could be said against him; to profit by as much of it as was just,
-and expound to himself, and upon occasion to others, the fallacy of what
-was fallacious. Because he has felt, that the only way in which a human
-being can make some approach to knowing the whole of a subject, is by
-hearing what can be said about it by persons of every variety of
-opinion, and studying all modes in which it can be looked at by every
-character of mind. No wise man ever acquired his wisdom in any mode but
-this; nor is it in the nature of human intellect to become wise in any
-other manner. The steady habit of correcting and completing his own
-opinion by collating it with those of others, so far from causing doubt
-and hesitation in carrying it into practice, is the only stable
-foundation for a just reliance on it: for, being cognisant of all that
-can, at least obviously, be said against him, and having taken up his
-position against all gainsayers--knowing that he has sought for
-objections and difficulties, instead of avoiding them, and has shut out
-no light which can be thrown upon the subject from any quarter--he has a
-right to think his judgment better than that of any person, or any
-multitude, who have not gone through a similar process.
+There’s a certain type of person—thankfully less common now than before—who thinks it’s enough for someone to accept what they believe to be true, without ever understanding why it’s true.  So long as you give your full, unquestioning agreement to the doctrine, they’re satisfied—even if you couldn’t defend it against the shallowest challenge, or explain a single reason for it.  People like this want their beliefs taught by authority, not examined through reasoning.  They assume that if a belief is already right, letting it be questioned only causes confusion—or worse.  When these people have power, they don’t just silence opposition. They cripple intelligent dissent—making it hard for anyone to reject conventional wisdom thoughtfully.  And what happens instead? People might still reject it—but now thoughtlessly, ignorantly.  Discussion finds its way in eventually (you can’t dam the stream forever), and when it does, a belief that was never truly reasoned through can collapse with the first gust of argument.  But let’s even set that danger aside for now.  Let’s imagine that the belief survives unchallenged. That people still hold it, even without any real argument.  What kind of belief is that?  It’s not rational.  It’s not understanding.  It’s not knowledge.  It’s superstition—truth clung to blindly, like a good-luck charm, instead of something held with clarity and conviction. And that’s not worthy of a reasoning mind.  [^22]
 
-It is not too much to require that what the wisest of mankind, those who
-are best entitled to trust their own judgment, find necessary to warrant
-their relying on it, should be submitted to by that miscellaneous
-collection of a few wise and many foolish individuals, called the
-public. The most intolerant of churches, the Roman Catholic Church, even
-at the canonisation of a saint, admits, and listens patiently to, a
-"devil's advocate." The holiest of men, it appears, cannot be admitted
-to posthumous honours, until all that the devil could say against him is
-known and weighed. If even the Newtonian philosophy were not permitted
-to be questioned, mankind could not feel as complete assurance of its
-truth as they now do. The beliefs which we have most warrant for, have
-no safeguard to rest on, but a standing invitation to the whole world to
-prove them unfounded. If the challenge is not accepted, or is accepted
-and the attempt fails, we are far enough from certainty still; but we
-have done the best that the existing state of human reason admits of; we
-have neglected nothing that could give the truth a chance of reaching
-us: if the lists are kept open, we may hope that if there be a better
-truth, it will be found when the human mind is capable of receiving it;
-and in the meantime we may rely on having attained such approach to
-truth, as is possible in our own day. This is the amount of certainty
-attainable by a fallible being, and this the sole way of attaining it.
-
-Strange it is, that men should admit the validity of the arguments for
-free discussion, but object to their being "pushed to an extreme;" not
-seeing that unless the reasons are good for an extreme case, they are
-not good for any case. Strange that they should imagine that they are
-not assuming infallibility, when they acknowledge that there should be
-free discussion on all subjects which can possibly be _doubtful_, but
-think that some particular principle or doctrine should be forbidden to
-be questioned because it is _so certain_, that is, because _they are
-certain_ that it is certain. To call any proposition certain, while
-there is any one who would deny its certainty if permitted, but who is
-not permitted, is to assume that we ourselves, and those who agree with
-us, are the judges of certainty, and judges without hearing the other
-side.
-
-In the present age--which has been described as "destitute of faith, but
-terrified at scepticism"--in which people feel sure, not so much that
-their opinions are true, as that they should not know what to do without
-them--the claims of an opinion to be protected from public attack are
-rested not so much on its truth, as on its importance to society. There
-are, it is alleged, certain beliefs, so useful, not to say indispensable
-to well-being, that it is as much the duty of governments to uphold
-those beliefs, as to protect any other of the interests of society. In a
-case of such necessity, and so directly in the line of their duty,
-something less than infallibility may, it is maintained, warrant, and
-even bind, governments, to act on their own opinion, confirmed by the
-general opinion of mankind. It is also often argued, and still oftener
-thought, that none but bad men would desire to weaken these salutary
-beliefs; and there can be nothing wrong, it is thought, in restraining
-bad men, and prohibiting what only such men would wish to practise.
-This mode of thinking makes the justification of restraints on
-discussion not a question of the truth of doctrines, but of their
-usefulness; and flatters itself by that means to escape the
-responsibility of claiming to be an infallible judge of opinions. But
-those who thus satisfy themselves, do not perceive that the assumption
-of infallibility is merely shifted from one point to another. The
-usefulness of an opinion is itself matter of opinion: as disputable, as
-open to discussion, and requiring discussion as much, as the opinion
-itself. There is the same need of an infallible judge of opinions to
-decide an opinion to be noxious, as to decide it to be false, unless the
-opinion condemned has full opportunity of defending itself. And it will
-not do to say that the heretic may be allowed to maintain the utility or
-harmlessness of his opinion, though forbidden to maintain its truth. The
-truth of an opinion is part of its utility. If we would know whether or
-not it is desirable that a proposition should be believed, is it
-possible to exclude the consideration of whether or not it is true? In
-the opinion, not of bad men, but of the best men, no belief which is
-contrary to truth can be really useful: and can you prevent such men
-from urging that plea, when they are charged with culpability for
-denying some doctrine which they are told is useful, but which they
-believe to be false? Those who are on the side of received opinions,
-never fail to take all possible advantage of this plea; you do not find
-_them_ handling the question of utility as if it could be completely
-abstracted from that of truth: on the contrary, it is, above all,
-because their doctrine is "the truth," that the knowledge or the belief
-of it is held to be so indispensable. There can be no fair discussion of
-the question of usefulness, when an argument so vital may be employed on
-one side, but not on the other. And in point of fact, when law or public
-feeling do not permit the truth of an opinion to be disputed, they are
-just as little tolerant of a denial of its usefulness. The utmost they
-allow is an extenuation of its absolute necessity, or of the positive
-guilt of rejecting it.
-
-In order more fully to illustrate the mischief of denying a hearing to
-opinions because we, in our own judgment, have condemned them, it will
-be desirable to fix down the discussion to a concrete case; and I
-choose, by preference, the cases which are least favourable to me--in
-which the argument against freedom of opinion, both on the score of
-truth and on that of utility, is considered the strongest. Let the
-opinions impugned be the belief in a God and in a future state, or any
-of the commonly received doctrines of morality. To fight the battle on
-such ground, gives a great advantage to an unfair antagonist; since he
-will be sure to say (and many who have no desire to be unfair will say
-it internally), Are these the doctrines which you do not deem
-sufficiently certain to be taken under the protection of law? Is the
-belief in a God one of the opinions, to feel sure of which, you hold to
-be assuming infallibility? But I must be permitted to observe, that it
-is not the feeling sure of a doctrine (be it what it may) which I call
-an assumption of infallibility. It is the undertaking to decide that
-question _for others_, without allowing them to hear what can be said on
-the contrary side. And I denounce and reprobate this pretension not the
-less, if put forth on the side of my most solemn convictions. However
-positive any one's persuasion may be, not only of the falsity, but of
-the pernicious consequences--not only of the pernicious consequences,
-but (to adopt expressions which I altogether condemn) the immorality and
-impiety of an opinion; yet if, in pursuance of that private judgment,
-though backed by the public judgment of his country or his
-contemporaries, he prevents the opinion from being heard in its defence,
-he assumes infallibility. And so far from the assumption being less
-objectionable or less dangerous because the opinion is called immoral or
-impious, this is the case of all others in which it is most fatal. These
-are exactly the occasions on which the men of one generation commit
-those dreadful mistakes, which excite the astonishment and horror of
-posterity. It is among such that we find the instances memorable in
-history, when the arm of the law has been employed to root out the best
-men and the noblest doctrines; with deplorable success as to the men,
-though some of the doctrines have survived to be (as if in mockery)
-invoked, in defence of similar conduct towards those who dissent from
-_them_, or from their received interpretation.
-
-Mankind can hardly be too often reminded that there was once a man named
-Socrates, between whom and the legal authorities and public opinion of
-his time, there took place a memorable collision. Born in an age and
-country abounding in individual greatness, this man has been handed down
-to us by those who best knew both him and the age, as the most virtuous
-man in it; while _we_ know him as the head and prototype of all
-subsequent teachers of virtue, the source equally of the lofty
-inspiration of Plato and the judicious utilitarianism of Aristotle, "_i
-maëstri di color che sanno_," the two headsprings of ethical as of all
-other philosophy. This acknowledged master of all the eminent thinkers
-who have since lived--whose fame, still growing after more than two
-thousand years, all but outweighs the whole remainder of the names which
-make his native city illustrious--was put to death by his countrymen,
-after a judicial conviction, for impiety and immorality. Impiety, in
-denying the gods recognised by the State; indeed his accuser asserted
-(see the "Apologia") that he believed in no gods at all. Immorality, in
-being, by his doctrines and instructions, a "corruptor of youth." Of
-these charges the tribunal, there is every ground for believing,
-honestly found him guilty, and condemned the man who probably of all
-then born had deserved best of mankind, to be put to death as a
-criminal.
-
-To pass from this to the only other instance of judicial iniquity, the
-mention of which, after the condemnation of Socrates, would not be an
-anticlimax: the event which took place on Calvary rather more than
-eighteen hundred years ago. The man who left on the memory of those who
-witnessed his life and conversation, such an impression of his moral
-grandeur, that eighteen subsequent centuries have done homage to him as
-the Almighty in person, was ignominiously put to death, as what? As a
-blasphemer. Men did not merely mistake their benefactor; they mistook
-him for the exact contrary of what he was, and treated him as that
-prodigy of impiety, which they themselves are now held to be, for their
-treatment of him. The feelings with which mankind now regard these
-lamentable transactions, especially the later of the two, render them
-extremely unjust in their judgment of the unhappy actors. These were, to
-all appearance, not bad men--not worse than men commonly are, but rather
-the contrary; men who possessed in a full, or somewhat more than a full
-measure, the religious, moral, and patriotic feelings of their time and
-people: the very kind of men who, in all times, our own included, have
-every chance of passing through life blameless and respected. The
-high-priest who rent his garments when the words were pronounced, which,
-according to all the ideas of his country, constituted the blackest
-guilt, was in all probability quite as sincere in his horror and
-indignation, as the generality of respectable and pious men now are in
-the religious and moral sentiments they profess; and most of those who
-now shudder at his conduct, if they had lived in his time, and been born
-Jews, would have acted precisely as he did. Orthodox Christians who are
-tempted to think that those who stoned to death the first martyrs must
-have been worse men than they themselves are, ought to remember that one
-of those persecutors was Saint Paul.
-
-Let us add one more example, the most striking of all, if the
-impressiveness of an error is measured by the wisdom and virtue of him
-who falls into it. If ever any one, possessed of power, had grounds for
-thinking himself the best and most enlightened among his cotemporaries,
-it was the Emperor Marcus Aurelius. Absolute monarch of the whole
-civilised world, he preserved through life not only the most unblemished
-justice, but what was less to be expected from his Stoical breeding, the
-tenderest heart. The few failings which are attributed to him, were all
-on the side of indulgence: while his writings, the highest ethical
-product of the ancient mind, differ scarcely perceptibly, if they differ
-at all, from the most characteristic teachings of Christ. This man, a
-better Christian in all but the dogmatic sense of the word, than almost
-any of the ostensibly Christian sovereigns who have since reigned,
-persecuted Christianity. Placed at the summit of all the previous
-attainments of humanity, with an open, unfettered intellect, and a
-character which led him of himself to embody in his moral writings the
-Christian ideal, he yet failed to see that Christianity was to be a good
-and not an evil to the world, with his duties to which he was so deeply
-penetrated. Existing society he knew to be in a deplorable state. But
-such as it was, he saw, or thought he saw, that it was held together,
-and prevented from being worse, by belief and reverence of the received
-divinities. As a ruler of mankind, he deemed it his duty not to suffer
-society to fall in pieces; and saw not how, if its existing ties were
-removed, any others could be formed which could again knit it together.
-The new religion openly aimed at dissolving these ties: unless,
-therefore, it was his duty to adopt that religion, it seemed to be his
-duty to put it down. Inasmuch then as the theology of Christianity did
-not appear to him true or of divine origin; inasmuch as this strange
-history of a crucified God was not credible to him, and a system which
-purported to rest entirely upon a foundation to him so wholly
-unbelievable, could not be foreseen by him to be that renovating agency
-which, after all abatements, it has in fact proved to be; the gentlest
-and most amiable of philosophers and rulers, under a solemn sense of
-duty, authorised the persecution of Christianity. To my mind this is one
-of the most tragical facts in all history. It is a bitter thought, how
-different a thing the Christianity of the world might have been, if the
-Christian faith had been adopted as the religion of the empire under the
-auspices of Marcus Aurelius instead of those of Constantine. But it
-would be equally unjust to him and false to truth, to deny, that no one
-plea which can be urged for punishing anti-Christian teaching, was
-wanting to Marcus Aurelius for punishing, as he did, the propagation of
-Christianity. No Christian more firmly believes that Atheism is false,
-and tends to the dissolution of society, than Marcus Aurelius believed
-the same things of Christianity; he who, of all men then living, might
-have been thought the most capable of appreciating it. Unless any one
-who approves of punishment for the promulgation of opinions, flatters
-himself that he is a wiser and better man than Marcus Aurelius--more
-deeply versed in the wisdom of his time, more elevated in his intellect
-above it--more earnest in his search for truth, or more single-minded in
-his devotion to it when found;--let him abstain from that assumption of
-the joint infallibility of himself and the multitude, which the great
-Antoninus made with so unfortunate a result.
-
-Aware of the impossibility of defending the use of punishment for
-restraining irreligious opinions, by any argument which will not justify
-Marcus Antoninus, the enemies of religious freedom, when hard pressed,
-occasionally accept this consequence, and say, with Dr. Johnson, that
-the persecutors of Christianity were in the right; that persecution is
-an ordeal through which truth ought to pass, and always passes
-successfully, legal penalties being, in the end, powerless against
-truth, though sometimes beneficially effective against mischievous
-errors. This is a form of the argument for religious intolerance,
-sufficiently remarkable not to be passed without notice.
-
-A theory which maintains that truth may justifiably be persecuted
-because persecution cannot possibly do it any harm, cannot be charged
-with being intentionally hostile to the reception of new truths; but we
-cannot commend the generosity of its dealing with the persons to whom
-mankind are indebted for them. To discover to the world something which
-deeply concerns it, and of which it was previously ignorant; to prove to
-it that it had been mistaken on some vital point of temporal or
-spiritual interest, is as important a service as a human being can
-render to his fellow-creatures, and in certain cases, as in those of the
-early Christians and of the Reformers, those who think with Dr. Johnson
-believe it to have been the most precious gift which could be bestowed
-on mankind. That the authors of such splendid benefits should be
-requited by martyrdom; that their reward should be to be dealt with as
-the vilest of criminals, is not, upon this theory, a deplorable error
-and misfortune, for which humanity should mourn in sackcloth and ashes,
-but the normal and justifiable state of things. The propounder of a new
-truth, according to this doctrine, should stand, as stood, in the
-legislation of the Locrians, the proposer of a new law, with a halter
-round his neck, to be instantly tightened if the public assembly did
-not, on hearing his reasons, then and there adopt his proposition.
-People who defend this mode of treating benefactors, cannot be supposed
-to set much value on the benefit; and I believe this view of the subject
-is mostly confined to the sort of persons who think that new truths may
-have been desirable once, but that we have had enough of them now.
-
-But, indeed, the dictum that truth always triumphs over persecution, is
-one of those pleasant falsehoods which men repeat after one another
-till they pass into commonplaces, but which all experience refutes.
-History teems with instances of truth put down by persecution. If not
-suppressed for ever, it may be thrown back for centuries. To speak only
-of religious opinions: the Reformation broke out at least twenty times
-before Luther, and was put down. Arnold of Brescia was put down. Fra
-Dolcino was put down. Savonarola was put down. The Albigeois were put
-down. The Vaudois were put down. The Lollards were put down. The
-Hussites were put down. Even after the era of Luther, wherever
-persecution was persisted in, it was successful. In Spain, Italy,
-Flanders, the Austrian empire, Protestantism was rooted out; and, most
-likely, would have been so in England, had Queen Mary lived, or Queen
-Elizabeth died. Persecution has always succeeded, save where the
-heretics were too strong a party to be effectually persecuted. No
-reasonable person can doubt that Christianity might have been extirpated
-in the Roman Empire. It spread, and became predominant, because the
-persecutions were only occasional, lasting but a short time, and
-separated by long intervals of almost undisturbed propagandism. It is a
-piece of idle sentimentality that truth, merely as truth, has any
-inherent power denied to error, of prevailing against the dungeon and
-the stake. Men are not more zealous for truth than they often are for
-error, and a sufficient application of legal or even of social penalties
-will generally succeed in stopping the propagation of either. The real
-advantage which truth has, consists in this, that when an opinion is
-true, it may be extinguished once, twice, or many times, but in the
-course of ages there will generally be found persons to rediscover it,
-until some one of its reappearances falls on a time when from favourable
-circumstances it escapes persecution until it has made such head as to
-withstand all subsequent attempts to suppress it.
-
-It will be said, that we do not now put to death the introducers of new
-opinions: we are not like our fathers who slew the prophets, we even
-build sepulchres to them. It is true we no longer put heretics to death;
-and the amount of penal infliction which modern feeling would probably
-tolerate, even against the most obnoxious opinions, is not sufficient to
-extirpate them. But let us not flatter ourselves that we are yet free
-from the stain even of legal persecution. Penalties for opinion, or at
-least for its expression, still exist by law; and their enforcement is
-not, even in these times, so unexampled as to make it at all incredible
-that they may some day be revived in full force. In the year 1857, at
-the summer assizes of the county of Cornwall, an unfortunate man,[7]
-said to be of unexceptionable conduct in all relations of life, was
-sentenced to twenty-one months' imprisonment, for uttering, and writing
-on a gate, some offensive words concerning Christianity. Within a month
-of the same time, at the Old Bailey, two persons, on two separate
-occasions,[8] were rejected as jurymen, and one of them grossly insulted
-by the judge and by one of the counsel, because they honestly declared
-that they had no theological belief; and a third, a foreigner,[9] for
-the same reason, was denied justice against a thief. This refusal of
-redress took place in virtue of the legal doctrine, that no person can
-be allowed to give evidence in a court of justice, who does not profess
-belief in a God (any god is sufficient) and in a future state; which is
-equivalent to declaring such persons to be outlaws, excluded from the
-protection of the tribunals; who may not only be robbed or assaulted
-with impunity, if no one but themselves, or persons of similar opinions,
-be present, but any one else may be robbed or assaulted with impunity,
-if the proof of the fact depends on their evidence. The assumption on
-which this is grounded, is that the oath is worthless, of a person who
-does not believe in a future state; a proposition which betokens much
-ignorance of history in those who assent to it (since it is historically
-true that a large proportion of infidels in all ages have been persons
-of distinguished integrity and honour); and would be maintained by no
-one who had the smallest conception how many of the persons in greatest
-repute with the world, both for virtues and for attainments, are well
-known, at least to their intimates, to be unbelievers. The rule,
-besides, is suicidal, and cuts away its own foundation. Under pretence
-that atheists must be liars, it admits the testimony of all atheists who
-are willing to lie, and rejects only those who brave the obloquy of
-publicly confessing a detested creed rather than affirm a falsehood. A
-rule thus self-convicted of absurdity so far as regards its professed
-purpose, can be kept in force only as a badge of hatred, a relic of
-persecution; a persecution, too, having the peculiarity, that the
-qualification for undergoing it, is the being clearly proved not to
-deserve it. The rule, and the theory it implies, are hardly less
-insulting to believers than to infidels. For if he who does not believe
-in a future state, necessarily lies, it follows that they who do believe
-are only prevented from lying, if prevented they are, by the fear of
-hell. We will not do the authors and abettors of the rule the injury of
-supposing, that the conception which they have formed of Christian
-virtue is drawn from their own consciousness.
-
-These, indeed, are but rags and remnants of persecution, and may be
-thought to be not so much an indication of the wish to persecute, as an
-example of that very frequent infirmity of English minds, which makes
-them take a preposterous pleasure in the assertion of a bad principle,
-when they are no longer bad enough to desire to carry it really into
-practice. But unhappily there is no security in the state of the public
-mind, that the suspension of worse forms of legal persecution, which has
-lasted for about the space of a generation, will continue. In this age
-the quiet surface of routine is as often ruffled by attempts to
-resuscitate past evils, as to introduce new benefits. What is boasted of
-at the present time as the revival of religion, is always, in narrow
-and uncultivated minds, at least as much the revival of bigotry; and
-where there is the strong permanent leaven of intolerance in the
-feelings of a people, which at all times abides in the middle classes of
-this country, it needs but little to provoke them into actively
-persecuting those whom they have never ceased to think proper objects of
-persecution.[10] For it is this--it is the opinions men entertain, and
-the feelings they cherish, respecting those who disown the beliefs they
-deem important, which makes this country not a place of mental freedom.
-For a long time past, the chief mischief of the legal penalties is that
-they strengthen the social stigma. It is that stigma which is really
-effective, and so effective is it that the profession of opinions which
-are under the ban of society is much less common in England, than is, in
-many other countries, the avowal of those which incur risk of judicial
-punishment. In respect to all persons but those whose pecuniary
-circumstances make them independent of the good will of other people,
-opinion, on this subject, is as efficacious as law; men might as well be
-imprisoned, as excluded from the means of earning their bread. Those
-whose bread is already secured, and who desire no favours from men in
-power, or from bodies of men, or from the public, have nothing to fear
-from the open avowal of any opinions, but to be ill-thought of and
-ill-spoken of, and this it ought not to require a very heroic mould to
-enable them to bear. There is no room for any appeal _ad misericordiam_
-in behalf of such persons. But though we do not now inflict so much evil
-on those who think differently from us, as it was formerly our custom to
-do, it may be that we do ourselves as much evil as ever by our treatment
-of them. Socrates was put to death, but the Socratic philosophy rose
-like the sun in heaven, and spread its illumination over the whole
-intellectual firmament. Christians were cast to the lions, but the
-Christian church grew up a stately and spreading tree, overtopping the
-older and less vigorous growths, and stifling them by its shade. Our
-merely social intolerance kills no one, roots out no opinions, but
-induces men to disguise them, or to abstain from any active effort for
-their diffusion. With us, heretical opinions do not perceptibly gain, or
-even lose, ground in each decade or generation; they never blaze out far
-and wide, but continue to smoulder in the narrow circles of thinking and
-studious persons among whom they originate, without ever lighting up the
-general affairs of mankind with either a true or a deceptive light. And
-thus is kept up a state of things very satisfactory to some minds,
-because, without the unpleasant process of fining or imprisoning
-anybody, it maintains all prevailing opinions outwardly undisturbed,
-while it does not absolutely interdict the exercise of reason by
-dissentients afflicted with the malady of thought. A convenient plan for
-having peace in the intellectual world, and keeping all things going on
-therein very much as they do already. But the price paid for this sort
-of intellectual pacification, is the sacrifice of the entire moral
-courage of the human mind. A state of things in which a large portion of
-the most active and inquiring intellects find it advisable to keep the
-genuine principles and grounds of their convictions within their own
-breasts, and attempt, in what they address to the public, to fit as much
-as they can of their own conclusions to premises which they have
-internally renounced, cannot send forth the open, fearless characters,
-and logical, consistent intellects who once adorned the thinking world.
-The sort of men who can be looked for under it, are either mere
-conformers to commonplace, or time-servers for truth, whose arguments on
-all great subjects are meant for their hearers, and are not those which
-have convinced themselves. Those who avoid this alternative, do so by
-narrowing their thoughts and interest to things which can be spoken of
-without venturing within the region of principles, that is, to small
-practical matters, which would come right of themselves, if but the
-minds of mankind were strengthened and enlarged, and which will never be
-made effectually right until then: while that which would strengthen and
-enlarge men's minds, free and daring speculation on the highest
-subjects, is abandoned.
-
-Those in whose eyes this reticence on the part of heretics is no evil,
-should consider in the first place, that in consequence of it there is
-never any fair and thorough discussion of heretical opinions; and that
-such of them as could not stand such a discussion, though they may be
-prevented from spreading, do not disappear. But it is not the minds of
-heretics that are deteriorated most, by the ban placed on all inquiry
-which does not end in the orthodox conclusions. The greatest harm done
-is to those who are not heretics, and whose whole mental development is
-cramped, and their reason cowed, by the fear of heresy. Who can compute
-what the world loses in the multitude of promising intellects combined
-with timid characters, who dare not follow out any bold, vigorous,
-independent train of thought, lest it should land them in something
-which would admit of being considered irreligious or immoral? Among
-them we may occasionally see some man of deep conscientiousness, and
-subtle and refined understanding, who spends a life in sophisticating
-with an intellect which he cannot silence, and exhausts the resources of
-ingenuity in attempting to reconcile the promptings of his conscience
-and reason with orthodoxy, which yet he does not, perhaps, to the end
-succeed in doing. No one can be a great thinker who does not recognise,
-that as a thinker it is his first duty to follow his intellect to
-whatever conclusions it may lead. Truth gains more even by the errors of
-one who, with due study and preparation, thinks for himself, than by the
-true opinions of those who only hold them because they do not suffer
-themselves to think. Not that it is solely, or chiefly, to form great
-thinkers, that freedom of thinking is required. On the contrary, it is
-as much, and even more indispensable, to enable average human beings to
-attain the mental stature which they are capable of. There have been,
-and may again be, great individual thinkers, in a general atmosphere of
-mental slavery. But there never has been, nor ever will be, in that
-atmosphere, an intellectually active people. Where any people has made a
-temporary approach to such a character, it has been because the dread
-of heterodox speculation was for a time suspended. Where there is a
-tacit convention that principles are not to be disputed; where the
-discussion of the greatest questions which can occupy humanity is
-considered to be closed, we cannot hope to find that generally high
-scale of mental activity which has made some periods of history so
-remarkable. Never when controversy avoided the subjects which are large
-and important enough to kindle enthusiasm, was the mind of a people
-stirred up from its foundations, and the impulse given which raised even
-persons of the most ordinary intellect to something of the dignity of
-thinking beings. Of such we have had an example in the condition of
-Europe during the times immediately following the Reformation; another,
-though limited to the Continent and to a more cultivated class, in the
-speculative movement of the latter half of the eighteenth century; and a
-third, of still briefer duration, in the intellectual fermentation of
-Germany during the Goethian and Fichtean period. These periods differed
-widely in the particular opinions which they developed; but were alike
-in this, that during all three the yoke of authority was broken. In
-each, an old mental despotism had been thrown off, and no new one had
-yet taken its place. The impulse given at these three periods has made
-Europe what it now is. Every single improvement which has taken place
-either in the human mind or in institutions, may be traced distinctly to
-one or other of them. Appearances have for some time indicated that all
-three impulses are well-nigh spent; and we can expect no fresh start,
-until we again assert our mental freedom.
-
-Let us now pass to the second division of the argument, and dismissing
-the supposition that any of the received opinions may be false, let us
-assume them to be true, and examine into the worth of the manner in
-which they are likely to be held, when their truth is not freely and
-openly canvassed. However unwillingly a person who has a strong opinion
-may admit the possibility that his opinion may be false, he ought to be
-moved by the consideration that however true it may be, if it is not
-fully, frequently, and fearlessly discussed, it will be held as a dead
-dogma, not a living truth.
-
-There is a class of persons (happily not quite so numerous as formerly)
-who think it enough if a person assents undoubtingly to what they think
-true, though he has no knowledge whatever of the grounds of the opinion,
-and could not make a tenable defence of it against the most superficial
-objections. Such persons, if they can once get their creed taught from
-authority, naturally think that no good, and some harm, comes of its
-being allowed to be questioned. Where their influence prevails, they
-make it nearly impossible for the received opinion to be rejected wisely
-and considerately, though it may still be rejected rashly and
-ignorantly; for to shut out discussion entirely is seldom possible, and
-when it once gets in, beliefs not grounded on conviction are apt to give
-way before the slightest semblance of an argument. Waiving, however,
-this possibility--assuming that the true opinion abides in the mind, but
-abides as a prejudice, a belief independent of, and proof against,
-argument--this is not the way in which truth ought to be held by a
-rational being. This is not knowing the truth. Truth, thus held, is but
-one superstition the more, accidentally clinging to the words which
-enunciate a truth.
-
-If the intellect and judgment of mankind ought to be cultivated, a thing
-which Protestants at least do not deny, on what can these faculties be
-more appropriately exercised by any one, than on the things which
-concern him so much that it is considered necessary for him to hold
-opinions on them? If the cultivation of the understanding consists in
-one thing more than in another, it is surely in learning the grounds of
-one's own opinions. Whatever people believe, on subjects on which it is
-of the first importance to believe rightly, they ought to be able to
-defend against at least the common objections. But, some one may say,
-"Let them be _taught_ the grounds of their opinions. It does not follow
-that opinions must be merely parroted because they are never heard
-controverted. Persons who learn geometry do not simply commit the
-theorems to memory, but understand and learn likewise the
-demonstrations; and it would be absurd to say that they remain ignorant
-of the grounds of geometrical truths, because they never hear any one
-deny, and attempt to disprove them." Undoubtedly: and such teaching
-suffices on a subject like mathematics, where there is nothing at all to
-be said on the wrong side of the question. The peculiarity of the
-evidence of mathematical truths is, that all the argument is on one
-side. There are no objections, and no answers to objections. But on
-every subject on which difference of opinion is possible, the truth
-depends on a balance to be struck between two sets of conflicting
-reasons. Even in natural philosophy, there is always some other
-explanation possible of the same facts; some geocentric theory instead
-of heliocentric, some phlogiston instead of oxygen; and it has to be
-shown why that other theory cannot be the true one: and until this is
-shown, and until we know how it is shown, we do not understand the
-grounds of our opinion. But when we turn to subjects infinitely more
-complicated, to morals, religion, politics, social relations, and the
-business of life, three-fourths of the arguments for every disputed
-opinion consist in dispelling the appearances which favour some opinion
-different from it. The greatest orator, save one, of antiquity, has left
-it on record that he always studied his adversary's case with as great,
-if not with still greater, intensity than even his own. What Cicero
-practised as the means of forensic success, requires to be imitated by
-all who study any subject in order to arrive at the truth. He who knows
-only his own side of the case, knows little of that. His reasons may be
-good, and no one may have been able to refute them. But if he is equally
-unable to refute the reasons on the opposite side; if he does not so
-much as know what they are, he has no ground for preferring either
-opinion. The rational position for him would be suspension of judgment,
-and unless he contents himself with that, he is either led by
-authority, or adopts, like the generality of the world, the side to
-which he feels most inclination. Nor is it enough that he should hear
-the arguments of adversaries from his own teachers, presented as they
-state them, and accompanied by what they offer as refutations. That is
-not the way to do justice to the arguments, or bring them into real
-contact with his own mind. He must be able to hear them from persons who
-actually believe them; who defend them in earnest, and do their very
-utmost for them. He must know them in their most plausible and
-persuasive form; he must feel the whole force of the difficulty which
-the true view of the subject has to encounter and dispose of; else he
-will never really possess himself of the portion of truth which meets
-and removes that difficulty. Ninety-nine in a hundred of what are called
-educated men are in this condition; even of those who can argue fluently
-for their opinions. Their conclusion may be true, but it might be false
-for anything they know: they have never thrown themselves into the
-mental position of those who think differently from them, and considered
-what such persons may have to say; and consequently they do not, in any
-proper sense of the word, know the doctrine which they themselves
-profess. They do not know those parts of it which explain and justify
-the remainder; the considerations which show that a fact which seemingly
-conflicts with another is reconcilable with it, or that, of two
-apparently strong reasons, one and not the other ought to be preferred.
-All that part of the truth which turns the scale, and decides the
-judgment of a completely informed mind, they are strangers to; nor is it
-ever really known, but to those who have attended equally and
-impartially to both sides, and endeavoured to see the reasons of both in
-the strongest light. So essential is this discipline to a real
-understanding of moral and human subjects, that if opponents of all
-important truths do not exist, it is indispensable to imagine them, and
-supply them with the strongest arguments which the most skilful devil's
-advocate can conjure up.
-
-To abate the force of these considerations, an enemy of free discussion
-may be supposed to say, that there is no necessity for mankind in
-general to know and understand all that can be said against or for their
-opinions by philosophers and theologians. That it is not needful for
-common men to be able to expose all the misstatements or fallacies of an
-ingenious opponent. That it is enough if there is always somebody
-capable of answering them, so that nothing likely to mislead
-uninstructed persons remains unrefuted. That simple minds, having been
-taught the obvious grounds of the truths inculcated on them, may trust
-to authority for the rest, and being aware that they have neither
-knowledge nor talent to resolve every difficulty which can be raised,
-may repose in the assurance that all those which have been raised have
-been or can be answered, by those who are specially trained to the task.
-
-Conceding to this view of the subject the utmost that can be claimed for
-it by those most easily satisfied with the amount of understanding of
-truth which ought to accompany the belief of it; even so, the argument
-for free discussion is no way weakened. For even this doctrine
-acknowledges that mankind ought to have a rational assurance that all
-objections have been satisfactorily answered; and how are they to be
-answered if that which requires to be answered is not spoken? or how can
-the answer be known to be satisfactory, if the objectors have no
-opportunity of showing that it is unsatisfactory? If not the public, at
-least the philosophers and theologians who are to resolve the
-difficulties, must make themselves familiar with those difficulties in
-their most puzzling form; and this cannot be accomplished unless they
-are freely stated, and placed in the most advantageous light which they
-admit of. The Catholic Church has its own way of dealing with this
-embarrassing problem. It makes a broad separation between those who can
-be permitted to receive its doctrines on conviction, and those who must
-accept them on trust. Neither, indeed, are allowed any choice as to what
-they will accept; but the clergy, such at least as can be fully confided
-in, may admissibly and meritoriously make themselves acquainted with the
-arguments of opponents, in order to answer them, and may, therefore,
-read heretical books; the laity, not unless by special permission, hard
-to be obtained. This discipline recognises a knowledge of the enemy's
-case as beneficial to the teachers, but finds means, consistent with
-this, of denying it to the rest of the world: thus giving to the _élite_
-more mental culture, though not more mental freedom, than it allows to
-the mass. By this device it succeeds in obtaining the kind of mental
-superiority which its purposes require; for though culture without
-freedom never made a large and liberal mind, it can make a clever _nisi
-prius_ advocate of a cause. But in countries professing Protestantism,
-this resource is denied; since Protestants hold, at least in theory,
-that the responsibility for the choice of a religion must be borne by
-each for himself, and cannot be thrown off upon teachers. Besides, in
-the present state of the world, it is practically impossible that
-writings which are read by the instructed can be kept from the
-uninstructed. If the teachers of mankind are to be cognisant of all that
-they ought to know, everything must be free to be written and published
-without restraint.
-
-If, however, the mischievous operation of the absence of free
-discussion, when the received opinions are true, were confined to
-leaving men ignorant of the grounds of those opinions, it might be
-thought that this, if an intellectual, is no moral evil, and does not
-affect the worth of the opinions, regarded in their influence on the
-character. The fact, however, is, that not only the grounds of the
-opinion are forgotten in the absence of discussion, but too often the
-meaning of the opinion itself. The words which convey it, cease to
-suggest ideas, or suggest only a small portion of those they were
-originally employed to communicate. Instead of a vivid conception and a
-living belief, there remain only a few phrases retained by rote; or, if
-any part, the shell and husk only of the meaning is retained, the finer
-essence being lost. The great chapter in human history which this fact
-occupies and fills, cannot be too earnestly studied and meditated on.
-
-It is illustrated in the experience of almost all ethical doctrines and
-religious creeds. They are all full of meaning and vitality to those who
-originate them, and to the direct disciples of the originators. Their
-meaning continues to be felt in undiminished strength, and is perhaps
-brought out into even fuller consciousness, so long as the struggle
-lasts to give the doctrine or creed an ascendency over other creeds. At
-last it either prevails, and becomes the general opinion, or its
-progress stops; it keeps possession of the ground it has gained, but
-ceases to spread further. When either of these results has become
-apparent, controversy on the subject flags, and gradually dies away. The
-doctrine has taken its place, if not as a received opinion, as one of
-the admitted sects or divisions of opinion: those who hold it have
-generally inherited, not adopted it; and conversion from one of these
-doctrines to another, being now an exceptional fact, occupies little
-place in the thoughts of their professors. Instead of being, as at
-first, constantly on the alert either to defend themselves against the
-world, or to bring the world over to them, they have subsided into
-acquiescence, and neither listen, when they can help it, to arguments
-against their creed, nor trouble dissentients (if there be such) with
-arguments in its favour. From this time may usually be dated the decline
-in the living power of the doctrine. We often hear the teachers of all
-creeds lamenting the difficulty of keeping up in the minds of believers
-a lively apprehension of the truth which they nominally recognise, so
-that it may penetrate the feelings, and acquire a real mastery over the
-conduct. No such difficulty is complained of while the creed is still
-fighting for its existence: even the weaker combatants then know and
-feel what they are fighting for, and the difference between it and other
-doctrines; and in that period of every creed's existence, not a few
-persons may be found, who have realised its fundamental principles in
-all the forms of thought, have weighed and considered them in all their
-important bearings, and have experienced the full effect on the
-character, which belief in that creed ought to produce in a mind
-thoroughly imbued with it. But when it has come to be a hereditary
-creed, and to be received passively, not actively--when the mind is no
-longer compelled, in the same degree as at first, to exercise its vital
-powers on the questions which its belief presents to it, there is a
-progressive tendency to forget all of the belief except the
-formularies, or to give it a dull and torpid assent, as if accepting it
-on trust dispensed with the necessity of realising it in consciousness,
-or testing it by personal experience; until it almost ceases to connect
-itself at all with the inner life of the human being. Then are seen the
-cases, so frequent in this age of the world as almost to form the
-majority, in which the creed remains as it were outside the mind,
-encrusting and petrifying it against all other influences addressed to
-the higher parts of our nature; manifesting its power by not suffering
-any fresh and living conviction to get in, but itself doing nothing for
-the mind or heart, except standing sentinel over them to keep them
-vacant.
-
-To what an extent doctrines intrinsically fitted to make the deepest
-impression upon the mind may remain in it as dead beliefs, without being
-ever realised in the imagination, the feelings, or the understanding, is
-exemplified by the manner in which the majority of believers hold the
-doctrines of Christianity. By Christianity I here mean what is accounted
-such by all churches and sects--the maxims and precepts contained in the
-New Testament. These are considered sacred, and accepted as laws, by all
-professing Christians. Yet it is scarcely too much to say that not one
-Christian in a thousand guides or tests his individual conduct by
-reference to those laws. The standard to which he does refer it, is the
-custom of his nation, his class, or his religious profession. He has
-thus, on the one hand, a collection of ethical maxims, which he believes
-to have been vouchsafed to him by infallible wisdom as rules for his
-government; and on the other, a set of every-day judgments and
-practices, which go a certain length with some of those maxims, not so
-great a length with others, stand in direct opposition to some, and are,
-on the whole, a compromise between the Christian creed and the interests
-and suggestions of worldly life. To the first of these standards he
-gives his homage; to the other his real allegiance. All Christians
-believe that the blessed are the poor and humble, and those who are
-ill-used by the world; that it is easier for a camel to pass through the
-eye of a needle than for a rich man to enter the kingdom of heaven; that
-they should judge not, lest they be judged; that they should swear not
-at all; that they should love their neighbour as themselves; that if one
-take their cloak, they should give him their coat also; that they should
-take no thought for the morrow; that if they would be perfect, they
-should sell all that they have and give it to the poor. They are not
-insincere when they say that they believe these things. They do believe
-them, as people believe what they have always heard lauded and never
-discussed. But in the sense of that living belief which regulates
-conduct, they believe these doctrines just up to the point to which it
-is usual to act upon them. The doctrines in their integrity are
-serviceable to pelt adversaries with; and it is understood that they are
-to be put forward (when possible) as the reasons for whatever people do
-that they think laudable. But any one who reminded them that the maxims
-require an infinity of things which they never even think of doing,
-would gain nothing but to be classed among those very unpopular
-characters who affect to be better than other people. The doctrines have
-no hold on ordinary believers--are not a power in their minds. They have
-a habitual respect for the sound of them, but no feeling which spreads
-from the words to the things signified, and forces the mind to take
-_them_ in, and make them conform to the formula. Whenever conduct is
-concerned, they look round for Mr. A and B to direct them how far to go
-in obeying Christ.
-
-Now we may be well assured that the case was not thus, but far
-otherwise, with the early Christians. Had it been thus, Christianity
-never would have expanded from an obscure sect of the despised Hebrews
-into the religion of the Roman empire. When their enemies said, "See how
-these Christians love one another" (a remark not likely to be made by
-anybody now), they assuredly had a much livelier feeling of the meaning
-of their creed than they have ever had since. And to this cause,
-probably, it is chiefly owing that Christianity now makes so little
-progress in extending its domain, and after eighteen centuries, is still
-nearly confined to Europeans and the descendants of Europeans. Even with
-the strictly religious, who are much in earnest about their doctrines,
-and attach a greater amount of meaning to many of them than people in
-general, it commonly happens that the part which is thus comparatively
-active in their minds is that which was made by Calvin, or Knox, or some
-such person much nearer in character to themselves. The sayings of
-Christ coexist passively in their minds, producing hardly any effect
-beyond what is caused by mere listening to words so amiable and bland.
-There are many reasons, doubtless, why doctrines which are the badge of
-a sect retain more of their vitality than those common to all recognised
-sects, and why more pains are taken by teachers to keep their meaning
-alive; but one reason certainly is, that the peculiar doctrines are more
-questioned, and have to be oftener defended against open gainsayers.
-Both teachers and learners go to sleep at their post, as soon as there
-is no enemy in the field.
-
-The same thing holds true, generally speaking, of all traditional
-doctrines--those of prudence and knowledge of life, as well as of morals
-or religion. All languages and literatures are full of general
-observations on life, both as to what it is, and how to conduct oneself
-in it; observations which everybody knows, which everybody repeats, or
-hears with acquiescence, which are received as truisms, yet of which
-most people first truly learn the meaning, when experience, generally of
-a painful kind, has made it a reality to them. How often, when smarting
-under some unforeseen misfortune or disappointment, does a person call
-to mind some proverb or common saying, familiar to him all his life, the
-meaning of which, if he had ever before felt it as he does now, would
-have saved him from the calamity. There are indeed reasons for this,
-other than the absence of discussion: there are many truths of which the
-full meaning _cannot_ be realised, until personal experience has brought
-it home. But much more of the meaning even of these would have been
-understood, and what was understood would have been far more deeply
-impressed on the mind, if the man had been accustomed to hear it argued
-_pro_ and _con_ by people who did understand it. The fatal tendency of
-mankind to leave off thinking about a thing when it is no longer
-doubtful, is the cause of half their errors. A contemporary author has
-well spoken of "the deep slumber of a decided opinion."
-
-But what! (it may be asked) Is the absence of unanimity an indispensable
-condition of true knowledge? Is it necessary that some part of mankind
-should persist in error, to enable any to realise the truth? Does a
-belief cease to be real and vital as soon as it is generally
-received--and is a proposition never thoroughly understood and felt
-unless some doubt of it remains? As soon as mankind have unanimously
-accepted a truth, does the truth perish within them? The highest aim and
-best result of improved intelligence, it has hitherto been thought, is
-to unite mankind more and more in the acknowledgment of all important
-truths: and does the intelligence only last as long as it has not
-achieved its object? Do the fruits of conquest perish by the very
-completeness of the victory?
-
-I affirm no such thing. As mankind improve, the number of doctrines
-which are no longer disputed or doubted will be constantly on the
-increase: and the well-being of mankind may almost be measured by the
-number and gravity of the truths which have reached the point of being
-uncontested. The cessation, on one question after another, of serious
-controversy, is one of the necessary incidents of the consolidation of
-opinion; a consolidation as salutary in the case of true opinions, as it
-is dangerous and noxious when the opinions are erroneous. But though
-this gradual narrowing of the bounds of diversity of opinion is
-necessary in both senses of the term, being at once inevitable and
-indispensable, we are not therefore obliged to conclude that all its
-consequences must be beneficial. The loss of so important an aid to the
-intelligent and living apprehension of a truth, as is afforded by the
-necessity of explaining it to, or defending it against, opponents,
-though not sufficient to outweigh, is no trifling drawback from, the
-benefit of its universal recognition. Where this advantage can no longer
-be had, I confess I should like to see the teachers of mankind
-endeavouring to provide a substitute for it; some contrivance for making
-the difficulties of the question as present to the learner's
-consciousness, as if they were pressed upon him by a dissentient
-champion, eager for his conversion.
-
-But instead of seeking contrivances for this purpose, they have lost
-those they formerly had. The Socratic dialectics, so magnificently
-exemplified in the dialogues of Plato, were a contrivance of this
-description. They were essentially a negative discussion of the great
-questions of philosophy and life, directed with consummate skill to the
-purpose of convincing any one who had merely adopted the commonplaces of
-received opinion, that he did not understand the subject--that he as yet
-attached no definite meaning to the doctrines he professed; in order
-that, becoming aware of his ignorance, he might be put in the way to
-attain a stable belief, resting on a clear apprehension both of the
-meaning of doctrines and of their evidence. The school disputations of
-the middle ages had a somewhat similar object. They were intended to
-make sure that the pupil understood his own opinion, and (by necessary
-correlation) the opinion opposed to it, and could enforce the grounds of
-the one and confute those of the other. These last-mentioned contests
-had indeed the incurable defect, that the premises appealed to were
-taken from authority, not from reason; and, as a discipline to the mind,
-they were in every respect inferior to the powerful dialectics which
-formed the intellects of the "Socratici viri": but the modern mind owes
-far more to both than it is generally willing to admit, and the present
-modes of education contain nothing which in the smallest degree supplies
-the place either of the one or of the other. A person who derives all
-his instruction from teachers or books, even if he escape the besetting
-temptation of contenting himself with cram, is under no compulsion to
-hear both sides; accordingly it is far from a frequent accomplishment,
-even among thinkers, to know both sides; and the weakest part of what
-everybody says in defence of his opinion, is what he intends as a reply
-to antagonists. It is the fashion of the present time to disparage
-negative logic--that which points out weaknesses in theory or errors in
-practice, without establishing positive truths. Such negative criticism
-would indeed be poor enough as an ultimate result; but as a means to
-attaining any positive knowledge or conviction worthy the name, it
-cannot be valued too highly; and until people are again systematically
-trained to it, there will be few great thinkers, and a low general
-average of intellect, in any but the mathematical and physical
-departments of speculation. On any other subject no one's opinions
-deserve the name of knowledge, except so far as he has either had
-forced upon him by others, or gone through of himself, the same mental
-process which would have been required of him in carrying on an active
-controversy with opponents. That, therefore, which when absent, it is so
-indispensable, but so difficult, to create, how worse than absurd is it
-to forego, when spontaneously offering itself! If there are any persons
-who contest a received opinion, or who will do so if law or opinion will
-let them, let us thank them for it, open our minds to listen to them,
-and rejoice that there is some one to do for us what we otherwise ought,
-if we have any regard for either the certainty or the vitality of our
-convictions, to do with much greater labour for ourselves.
+If we believe—as most Protestants claim to do—that people’s minds and judgment should be trained and developed, then what better subject is there for exercising those faculties than the very beliefs we expect people to hold?  If there’s one thing that shows a person is really growing intellectually, it’s this: understanding the reasons behind their beliefs.  On the big questions—moral, political, spiritual—where being right actually matters, people ought to be able to respond to basic objections.  It’s not asking too much.  Now, someone might say, “Well, can’t we just teach them the reasons? Just lay out the case in favor of the opinion, like we do with math. That way, even if they never hear disagreement, they’ll still know why it’s true.” And that might work—for geometry.  In geometry, all the truth is stacked on one side.  There are no persuasive objections, no real counterarguments.  There’s only one answer, and we can walk people to it step by step.  But real life isn’t math.  As soon as we move to anything where opinions can differ—like morality, religion, politics, society—truth isn’t handed to us as a neat, one-sided proof.  It’s found by weighing competing reasons.  Even in science, you don’t just accept one explanation—you have to rule out the alternatives. You don’t understand why the Earth orbits the sun unless you can explain why the geocentric model doesn’t work. You don’t really get oxygen until you understand why phlogiston was wrong.  And in more complex matters—life, ethics, power, belief—three-quarters of the work is just clearing away misleading appearances that make a rival view seem right.  That’s why Cicero, second only to one as the greatest orator of antiquity, used to study his opponent’s arguments even harder than his own.  Because that’s how you reach truth, not just win a debate.  And if you don’t?  If you only know your side—you barely know even that.  Your reasons might sound solid, and maybe nobody’s refuted them—but if you don’t know the counterarguments, or worse, if you don’t even know what they are, you’ve got no valid reason for believing what you do.  Your belief might as well be based on inertia or tribal loyalty.  If someone hasn’t heard the other side—and heard it in its strongest form—the only reasonable stance they can take is to suspend judgment.  And if they don’t? If they go ahead and choose a side anyway? Then they’re either just deferring to authority, or doing what most people do: picking the side that feels most comfortable.  Now don’t tell me it’s enough that they’ve “heard the counterarguments” from their own teachers—already softened, framed, and pre-refuted.  That’s not enough. That’s not how minds are changed. That’s not how truth takes root.  To really understand, a person has to hear the opposition in its own voice—from someone who truly believes it, who defends it sincerely, and fights for it with all their might.  You have to feel the full weight of the other side. The real challenge to your view.  Otherwise, you’ll never grasp the truth’s true strength—the part of it that answers that challenge head-on.  The sad truth is, 99 out of 100 so-called “educated” people don’t meet this standard.  Even those who argue well for their beliefs often do so without knowing whether those beliefs could be false, because they’ve never really walked around in the opposing worldview.  They’ve never tried to understand why someone might hold that view in good faith, or asked what that person sees that they might be missing.  As a result, they don’t truly know the belief they claim to hold.  They don’t understand the deeper parts of it—the subtle reasoning that resolves contradictions, that balances arguments, that helps you decide between two strong cases.  And so, they miss the most important parts: the parts of truth that tip the scale—that form the basis of wise, informed judgment.  Those parts only reveal themselves to people who’ve looked equally and honestly at both sides—who’ve let each argument shine in its strongest light.  And that’s why, in subjects of morality, religion, politics—everything human—this kind of mental discipline is essential.  In fact, even if no real opposition existed, it would be necessary to invent one, and hire the best devil’s advocate you could find, just to pressure-test the truth.  Because only then can you be sure it stands. [^23]
 
 
-It still remains to speak of one of the principal causes which make
-diversity of opinion advantageous, and will continue to do so until
-mankind shall have entered a stage of intellectual advancement which at
-present seems at an incalculable distance. We have hitherto considered
-only two possibilities: that the received opinion may be false, and some
-other opinion, consequently, true; or that, the received opinion being
-true, a conflict with the opposite error is essential to a clear
-apprehension and deep feeling of its truth. But there is a commoner
-case than either of these; when the conflicting doctrines, instead of
-being one true and the other false, share the truth between them; and
-the nonconforming opinion is needed to supply the remainder of the
-truth, of which the received doctrine embodies only a part. Popular
-opinions, on subjects not palpable to sense, are often true, but seldom
-or never the whole truth. They are a part of the truth; sometimes a
-greater, sometimes a smaller part, but exaggerated, distorted, and
-disjoined from the truths by which they ought to be accompanied and
-limited. Heretical opinions, on the other hand, are generally some of
-these suppressed and neglected truths, bursting the bonds which kept
-them down, and either seeking reconciliation with the truth contained in
-the common opinion, or fronting it as enemies, and setting themselves
-up, with similar exclusiveness, as the whole truth. The latter case is
-hitherto the most frequent, as, in the human mind, one-sidedness has
-always been the rule, and many-sidedness the exception. Hence, even in
-revolutions of opinion, one part of the truth usually sets while another
-rises. Even progress, which ought to superadd, for the most part only
-substitutes one partial and incomplete truth for another; improvement
-consisting chiefly in this, that the new fragment of truth is more
-wanted, more adapted to the needs of the time, than that which it
-displaces. Such being the partial character of prevailing opinions, even
-when resting on a true foundation; every opinion which embodies somewhat
-of the portion of truth which the common opinion omits, ought to be
-considered precious, with whatever amount of error and confusion that
-truth may be blended. No sober judge of human affairs will feel bound to
-be indignant because those who force on our notice truths which we
-should otherwise have overlooked, overlook some of those which we see.
-Rather, he will think that so long as popular truth is one-sided, it is
-more desirable than otherwise that unpopular truth should have one-sided
-asserters too; such being usually the most energetic, and the most
-likely to compel reluctant attention to the fragment of wisdom which
-they proclaim as if it were the whole.
+To lessen the impact of the points we’ve just explored, someone who opposes open discussion might reply: it’s not necessary for everyone to know and grasp every single argument, pro or con, made by philosophers and theologians. Ordinary people, they say, don’t need to be able to spot every misstatement or fallacy a clever opponent might come up with. It’s sufficient, they claim, if there’s someone out there who can answer those challenges—so that nothing misleading is left unanswered for the average person. The argument goes: if simple-minded people are taught the basic reasons behind their beliefs, they can trust in the authority of experts for the rest. They know they don’t have the depth or talent to unravel every possible difficulty, and so they can rest easy, assured that any real objections have been or can be answered by specialists trained for that job. [^24]
 
-Thus, in the eighteenth century, when nearly all the instructed, and all
-those of the uninstructed who were led by them, were lost in admiration
-of what is called civilisation, and of the marvels of modern science,
-literature, and philosophy, and while greatly overrating the amount of
-unlikeness between the men of modern and those of ancient times,
-indulged the belief that the whole of the difference was in their own
-favour; with what a salutary shock did the paradoxes of Rousseau explode
-like bombshells in the midst, dislocating the compact mass of one-sided
-opinion, and forcing its elements to recombine in a better form and with
-additional ingredients. Not that the current opinions were on the whole
-farther from the truth than Rousseau's were; on the contrary, they were
-nearer to it; they contained more of positive truth, and very much less
-of error. Nevertheless there lay in Rousseau's doctrine, and has floated
-down the stream of opinion along with it, a considerable amount of
-exactly those truths which the popular opinion wanted; and these are the
-deposit which was left behind when the flood subsided. The superior
-worth of simplicity of life, the enervating and demoralising effect of
-the trammels and hypocrisies of artificial society, are ideas which have
-never been entirely absent from cultivated minds since Rousseau wrote;
-and they will in time produce their due effect, though at present
-needing to be asserted as much as ever, and to be asserted by deeds, for
-words, on this subject, have nearly exhausted their power.
+Let’s grant the argument of the previous paragraph its full strength—even taking it in the most generous light, as seen by those content with a fairly minimal understanding of truth among the public. Even then, the case for free discussion loses nothing. For even this cautious position admits that people deserve rational assurance that all objections to a belief have been properly answered. But how can that happen if the objections themselves are never voiced? And how can we know the answers hold up, unless the objectors are allowed to argue that they don’t?  Even if the general public doesn’t directly take part, the philosophers and theologians—those responsible for addressing the difficulties—still need to be fully acquainted with those difficulties, in their most perplexing and challenging form. And that can only happen if the opposing ideas are freely stated, and presented as convincingly as possible.  The Catholic Church, Mill observes, has its own method for handling this awkward tension. It draws a firm line between those allowed to form convictions based on reasoning, and those expected to accept doctrine on faith. Neither group, of course, may choose what to believe—but the clergy (at least the trustworthy ones) are allowed—even encouraged—to read heretical texts in order to learn how to refute them. The laity, however, are barred from such exposure unless they receive rare, special permission. The result is a system that acknowledges the utility of knowing the enemy’s case, at least for its intellectual defenders, while still keeping that knowledge from the masses. In doing so, the Church achieves a limited sort of mental training for its elite—but not mental freedom.  This tactic can indeed produce shrewd, narrowly skilled debaters—like sharp courtroom lawyers (”nisi prius advocates”)—but it can’t nurture broad, liberal minds.  Now, Protestant nations don’t have this excuse. They claim—at least in principle—that each individual is personally responsible for choosing their faith, and cannot hand that duty off to religious authorities. And in our modern world, it’s no longer feasible to control who reads what. Once an idea reaches the educated, it can’t easily be kept from the wider public. So if the intellectuals of a society are to engage fully with what they ought to know, then everything must be free to be written and published—without restriction. [^25]
 
-In politics, again, it is almost a commonplace, that a party of order
-or stability, and a party of progress or reform, are both necessary
-elements of a healthy state of political life; until the one or the
-other shall have so enlarged its mental grasp as to be a party equally
-of order and of progress, knowing and distinguishing what is fit to be
-preserved from what ought to be swept away. Each of these modes of
-thinking derives its utility from the deficiencies of the other; but it
-is in a great measure the opposition of the other that keeps each within
-the limits of reason and sanity. Unless opinions favourable to democracy
-and to aristocracy, to property and to equality, to co-operation and to
-competition, to luxury and to abstinence, to sociality and
-individuality, to liberty and discipline, and all the other standing
-antagonisms of practical life, are expressed with equal freedom, and
-enforced and defended with equal talent and energy, there is no chance
-of both elements obtaining their due; one scale is sure to go up and the
-other down. Truth, in the great practical concerns of life, is so much a
-question of the reconciling and combining of opposites, that very few
-have minds sufficiently capacious and impartial to make the adjustment
-with an approach to correctness, and it has to be made by the rough
-process of a struggle between combatants fighting under hostile
-banners. On any of the great open questions just enumerated, if either
-of the two opinions has a better claim than the other, not merely to be
-tolerated, but to be encouraged and countenanced, it is the one which
-happens at the particular time and place to be in a minority. That is
-the opinion which, for the time being, represents the neglected
-interests, the side of human well-being which is in danger of obtaining
-less than its share. I am aware that there is not, in this country, any
-intolerance of differences of opinion on most of these topics. They are
-adduced to show, by admitted and multiplied examples, the universality
-of the fact, that only through diversity of opinion is there, in the
-existing state of human intellect, a chance of fair-play to all sides of
-the truth. When there are persons to be found, who form an exception to
-the apparent unanimity of the world on any subject, even if the world is
-in the right, it is always probable that dissentients have something
-worth hearing to say for themselves, and that truth would lose something
-by their silence.
+Now, let’s suppose for a moment that the only harm caused by the absence of free discussion—when dominant beliefs actually are true—is that people remain ignorant of why they believe them. You might think, well, that’s just an intellectual issue, not a moral one. The opinions are still true, so who cares if people don’t understand them deeply?  But here’s the problem: when there’s no open discussion, not only are the reasons for a belief forgotten—the meaning of the belief itself fades away too.  The words used to express the opinion no longer awaken real understanding. At best, they hint at only a fragment of what they once conveyed. Instead of a vivid, living belief, all that’s left are empty phrases, repeated mechanically. If anything survives, it’s just the outer shell—the husk—while the rich, vital core is lost. This phenomenon—this emptying out of truth through silence and rote repetition—is one of the most significant themes in all of human history. Study it. Reflect on it. Take it seriously. [^26]
 
-It may be objected, "But _some_ received principles, especially on the
-highest and most vital subjects, are more than half-truths. The
-Christian morality, for instance, is the whole truth on that subject,
-and if any one teaches a morality which varies from it, he is wholly in
-error." As this is of all cases the most important in practice, none can
-be fitter to test the general maxim. But before pronouncing what
-Christian morality is or is not, it would be desirable to decide what is
-meant by Christian morality. If it means the morality of the New
-Testament, I wonder that any one who derives his knowledge of this from
-the book itself, can suppose that it was announced, or intended, as a
-complete doctrine of morals. The Gospel always refers to a pre-existing
-morality, and confines its precepts to the particulars in which that
-morality was to be corrected, or superseded by a wider and higher;
-expressing itself, moreover, in terms most general, often impossible to
-be interpreted literally, and possessing rather the impressiveness of
-poetry or eloquence than the precision of legislation. To extract from
-it a body of ethical doctrine, has ever been possible without eking it
-out from the Old Testament, that is, from a system elaborate indeed, but
-in many respects barbarous, and intended only for a barbarous people.
-St. Paul, a declared enemy to this Judaical mode of interpreting the
-doctrine and filling up the scheme of his Master, equally assumes a
-pre-existing morality, namely, that of the Greeks and Romans; and his
-advice to Christians is in a great measure a system of accommodation to
-that; even to the extent of giving an apparent sanction to slavery. What
-is called Christian, but should rather be termed theological, morality,
-was not the work of Christ or the Apostles, but is of much later origin,
-having been gradually built up by the Catholic church of the first five
-centuries, and though not implicitly adopted by moderns and Protestants,
-has been much less modified by them than might have been expected. For
-the most part, indeed, they have contented themselves with cutting off
-the additions which had been made to it in the middle ages, each sect
-supplying the place by fresh additions, adapted to its own character and
-tendencies. That mankind owe a great debt to this morality, and to its
-early teachers, I should be the last person to deny; but I do not
-scruple to say of it, that it is, in many important points, incomplete
-and one-sided, and that unless ideas and feelings, not sanctioned by it,
-had contributed to the formation of European life and character, human
-affairs would have been in a worse condition than they now are.
-Christian morality (so called) has all the characters of a reaction; it
-is, in great part, a protest against Paganism. Its ideal is negative
-rather than positive; passive rather than active; Innocence rather than
-Nobleness; Abstinence from Evil, rather than energetic Pursuit of Good:
-in its precepts (as has been well said) "thou shalt not" predominates
-unduly over "thou shalt." In its horror of sensuality, it made an idol
-of asceticism, which has been gradually compromised away into one of
-legality. It holds out the hope of heaven and the threat of hell, as the
-appointed and appropriate motives to a virtuous life: in this falling
-far below the best of the ancients, and doing what lies in it to give to
-human morality an essentially selfish character, by disconnecting each
-man's feelings of duty from the interests of his fellow-creatures,
-except so far as a self-interested inducement is offered to him for
-consulting them. It is essentially a doctrine of passive obedience; it
-inculcates submission to all authorities found established; who indeed
-are not to be actively obeyed when they command what religion forbids,
-but who are not to be resisted, far less rebelled against, for any
-amount of wrong to ourselves. And while, in the morality of the best
-Pagan nations, duty to the State holds even a disproportionate place,
-infringing on the just liberty of the individual; in purely Christian
-ethics, that grand department of duty is scarcely noticed or
-acknowledged. It is in the Koran, not the New Testament, that we read
-the maxim--"A ruler who appoints any man to an office, when there is in
-his dominions another man better qualified for it, sins against God and
-against the State." What little recognition the idea of obligation to
-the public obtains in modern morality, is derived from Greek and Roman
-sources, not from Christian; as, even in the morality of private life,
-whatever exists of magnanimity, high-mindedness, personal dignity, even
-the sense of honour, is derived from the purely human, not the religious
-part of our education, and never could have grown out of a standard of
-ethics in which the only worth, professedly recognised, is that of
-obedience.
+You see this everywhere—in religion, in ethics, in every deep system of thought. A new idea is full of energy when it first appears. The person who discovered it is alive with its meaning, and their first followers feel it vividly too. As long as that belief is still struggling for acceptance—still fighting to displace other views—it stays sharp, passionate, and conscious.  But once it succeeds—or even just settles into its niche—the fire fades. Debate stops. The belief becomes something inherited, not chosen. Conversion from one view to another becomes rare, and people stop defending what they believe or challenging others. They fall into a kind of quiet resignation. They don’t really argue anymore; they just recite.  That’s when the real decline begins. Teachers start to complain that people repeat the right words, but they don’t feel them anymore. The belief no longer shapes their actions. It no longer stirs their souls. In earlier times, even the least confident believers knew exactly what made their view different, and many had truly lived those ideas—had tested and weighed them, had integrated them into who they were. But now? Now it’s all hand-me-downs.  The belief gets passed along passively. No one wrestles with it. No one wakes up at night wondering what it means. Instead of being alive in the mind, it becomes a kind of fossil: memorized, recited, never felt. And because people think accepting it on trust is enough, they stop asking whether it’s true for them. They stop integrating it with their inner lives.  The result is tragic: the creed stays, but the person disappears. The belief stands there, hollow and armored, like a soldier guarding the soul—not protecting it, but blocking it. It won’t let any new idea get in. But it does nothing to help the mind or heart, either. It just squats there, lifeless, preventing anything fresh from growing.[^27]
 
-I am as far as any one from pretending that these defects are
-necessarily inherent in the Christian ethics, in every manner in which
-it can be conceived, or that the many requisites of a complete moral
-doctrine which it does not contain, do not admit of being reconciled
-with it. Far less would I insinuate this of the doctrines and precepts
-of Christ himself. I believe that the sayings of Christ are all, that I
-can see any evidence of their having been intended to be; that they are
-irreconcilable with nothing which a comprehensive morality requires;
-that everything which is excellent in ethics may be brought within them,
-with no greater violence to their language than has been done to it by
-all who have attempted to deduce from them any practical system of
-conduct whatever. But it is quite consistent with this, to believe that
-they contain, and were meant to contain, only a part of the truth; that
-many essential elements of the highest morality are among the things
-which are not provided for, nor intended to be provided for, in the
-recorded deliverances of the Founder of Christianity, and which have
-been entirely thrown aside in the system of ethics erected on the basis
-of those deliverances by the Christian Church. And this being so, I
-think it a great error to persist in attempting to find in the Christian
-doctrine that complete rule for our guidance, which its author intended
-it to sanction and enforce, but only partially to provide. I believe,
-too, that this narrow theory is becoming a grave practical evil,
-detracting greatly from the value of the moral training and instruction,
-which so many well-meaning persons are now at length exerting themselves
-to promote. I much fear that by attempting to form the mind and feelings
-on an exclusively religious type, and discarding those secular
-standards (as for want of a better name they may be called) which
-heretofore co-existed with and supplemented the Christian ethics,
-receiving some of its spirit, and infusing into it some of theirs, there
-will result, and is even now resulting, a low, abject, servile type of
-character, which, submit itself as it may to what it deems the Supreme
-Will, is incapable of rising to or sympathising in the conception of
-Supreme Goodness. I believe that other ethics than any which can be
-evolved from exclusively Christian sources, must exist side by side with
-Christian ethics to produce the moral regeneration of mankind; and that
-the Christian system is no exception to the rule, that in an imperfect
-state of the human mind, the interests of truth require a diversity of
-opinions. It is not necessary that in ceasing to ignore the moral truths
-not contained in Christianity, men should ignore any of those which it
-does contain. Such prejudice, or oversight, when it occurs, is
-altogether an evil; but it is one from which we cannot hope to be always
-exempt, and must be regarded as the price paid for an inestimable good.
-The exclusive pretension made by a part of the truth to be the whole,
-must and ought to be protested against, and if a reactionary impulse
-should make the protestors unjust in their turn, this one-sidedness,
-like the other, may be lamented, but must be tolerated. If Christians
-would teach infidels to be just to Christianity, they should themselves
-be just to infidelity. It can do truth no service to blink the fact,
-known to all who have the most ordinary acquaintance with literary
-history, that a large portion of the noblest and most valuable moral
-teaching has been the work, not only of men who did not know, but of men
-who knew and rejected, the Christian faith.
+How far can a doctrine that should stir the soul lie dormant inside us—untouched by our imagination, our feelings, or even our understanding? The answer is written in how most people today hold the teachings of Christianity.  And by Christianity, I mean the shared core of all churches—the actual maxims and precepts of the New Testament.  Every Christian claims to revere these teachings. They’re held sacred. They’re said to be divine instruction, revealed by infallible wisdom. But if we’re honest—brutally honest—how many believers measure their actions by them?  The truth is painful: almost no one.  What actually guides their behavior isn’t scripture—it’s social custom. It’s what their peers do, what their nation or denomination expects, what’s considered “reasonable.” They don’t reject the teachings of Christ. They believe them. But not in the way belief becomes action. Not in the way fire becomes warmth. Their true allegiance lies elsewhere.  They profess belief in humility, in love for enemies, in giving without expecting return. They repeat phrases about turning the other cheek, giving away their last possession, judging not, storing no wealth, and living with radical trust in the moment. They say they believe these things—because they’ve always heard them praised and never seriously questioned.  But living belief? The kind that reaches the will, reshapes the habits, and governs daily decisions?  That, they only follow as far as society finds acceptable.  When those same teachings become uncomfortable, inconvenient, or economically illogical, they fade into the background. A vague halo of holiness hovers around the words—but the deeds they demand? Forgotten.  And if anyone dares to take those teachings seriously—if someone were to say, “But shouldn’t we actually do what He said?”—they’ll be met not with reverence, but with resentment. They’ll be branded self-righteous. A troublemaker. A fool.  Because these beliefs, once alive, now function mainly as ornaments of virtue, or as weapons against dissenters. They do not govern the soul. They are not living forces. They do not burn in the heart.  People respect the sound of them—but the substance never enters their bones. The teachings are recited, but not reckoned with. Their commands are filtered through social expectation until even Christ Himself would scarcely recognize them.  And when it’s time to act?  They look not to conscience, nor to Christ— but to what Mr. A or Mr. B thinks is “enough.” [^28] 
 
-I do not pretend that the most unlimited use of the freedom of
-enunciating all possible opinions would put an end to the evils of
-religious or philosophical sectarianism. Every truth which men of narrow
-capacity are in earnest about, is sure to be asserted, inculcated, and
-in many ways even acted on, as if no other truth existed in the world,
-or at all events none that could limit or qualify the first. I
-acknowledge that the tendency of all opinions to become sectarian is not
-cured by the freest discussion, but is often heightened and exacerbated
-thereby; the truth which ought to have been, but was not, seen, being
-rejected all the more violently because proclaimed by persons regarded
-as opponents. But it is not on the impassioned partisan, it is on the
-calmer and more disinterested bystander, that this collision of
-opinions works its salutary effect. Not the violent conflict between
-parts of the truth, but the quiet suppression of half of it, is the
-formidable evil: there is always hope when people are forced to listen
-to both sides; it is when they attend only to one that errors harden
-into prejudices, and truth itself ceases to have the effect of truth, by
-being exaggerated into falsehood. And since there are few mental
-attributes more rare than that judicial faculty which can sit in
-intelligent judgment between two sides of a question, of which only one
-is represented by an advocate before it, truth has no chance but in
-proportion as every side of it, every opinion which embodies any
-fraction of the truth, not only finds advocates, but is so advocated as
-to be listened to.
+Let’s not fool ourselves. Things weren’t always this way. The early Christians didn’t treat their beliefs as decorative slogans—they lived them. If they had only mouthed the words, Christianity would never have grown beyond a fringe sect among a scorned people. But it did grow—until it became the religion of an empire. Why? Because the teachings actually moved them. When enemies looked on and said, “See how these Christians love one another,”—and they did say that, though you don’t hear it now—it meant something. The creed wasn’t abstract; it was alive. It formed them.  That spark is gone. And it’s probably the main reason Christianity isn’t spreading anymore. After nearly two thousand years, it still hasn’t truly moved beyond Europe and its descendants. Even among the devout—those who really care about doctrine—the living force in their minds is often not what Christ taught, but what Calvin or Knox preached centuries later. Teachings that mirror their temperament, their time, their culture. The words of Christ are still there, still quoted, but passively—like soothing background music that no longer arrests the soul.  Why is this? There are many reasons, no doubt. Doctrines that define sects stay more alive than shared teachings, in part because they are questioned more and must be defended. When a belief is under pressure, people sharpen their minds to preserve it. But once there’s no opposition, once no one challenges it anymore, the teachers relax—and so do the learners. Both drift into sleep at their post. That is how even a truth can die in the hearts of those who claim to hold it. [^29]
+
+This fading of meaning doesn’t just happen in religion. It happens with every kind of inherited wisdom—prudence, life advice, common sense. Our languages, our literatures, are overflowing with familiar sayings about how life works and how to live it. Everyone knows them. Everyone repeats them. They pass without resistance, like air.  And yet—they rarely mean anything until something in life, often painful, drives them home.  How often does someone, stunned by some misfortune or heartbreak, suddenly recall a proverb they’ve known since childhood—only now understanding it for the first time? “Ah,” they think, “If I had really taken that to heart…” But they hadn’t. They’d heard the words, but not the meaning. And the cost of that gap is real.  Now, not all of this is due to the absence of discussion. Some truths can’t be fully grasped except through experience. They’re like colors that only appear under certain light. But even those truths could shine more clearly—could carry more weight—if the person had grown up hearing them debated, challenged, turned over and examined by people who did understand them. That habit of questioning sharpens the soul.  But here’s the real danger: humans stop thinking about things as soon as they stop doubting them. That’s where half our mistakes come from. Once we’ve decided a thing is “settled,” we stop turning it over in our minds. It slips into slumber.  As one author put it well: “the deep slumber of a decided opinion.” [^30]
+
+But wait, someone might object—surely we’re not saying that disagreement is a requirement for real understanding? Must part of humanity stay in error just so the rest of us can feel the truth? Are we to believe that the moment an idea becomes widely accepted, it loses its depth and vitality? That a truth can only be fully grasped while it’s still being doubted?  What a strange thought—that universal agreement could kill the very life of truth.  Aren’t we supposed to celebrate the unifying power of knowledge? Isn’t the whole point of intellectual progress to bring more and more people into shared understanding? If so, how can that very success make truth wither? Must the fruits of our greatest victories rot the moment we fully possess them?  [^31]
+
+I’m not saying disagreement is always needed. As humanity advances, more and more truths will pass beyond the realm of dispute—and that’s a good thing. In fact, we might even measure human well-being by how many weighty truths have become settled. The quieting of controversy, issue by issue, is part of the natural process of opinion becoming stable—and when the opinions are true, that stabilization is a great blessing.  But let’s not fool ourselves. Just because this narrowing of disagreement is both inevitable and often beneficial doesn’t mean every consequence of it is good. When we lose the need to explain and defend a truth against opposition, we also lose one of the most powerful ways to really understand it. That loss might not outweigh the benefits of universal agreement—but it’s not nothing either. It’s a real cost.  So I’ll say it plainly: when public disagreement fades, I would love to see our teachers take up a new responsibility—to simulate the challenge. They should find ways to bring the old difficulties alive in the learner’s mind, just as if a passionate dissenter were in the room, pressing their case and demanding a reply. [^32]
+
+But instead of trying to recreate the challenges that keep truth alive, we’ve let the very tools that once did that slip away.  Think of Socrates. His dialogues—especially as captured by Plato—weren’t just clever debates. They were a brilliant method for forcing someone who had merely inherited the usual opinions to see that they didn’t actually understand what they claimed to believe. Socratic questioning exposed the fog around borrowed doctrines, not to humiliate, but to awaken—to help people build real convictions from clear thought and living evidence.  Even the school debates of the Middle Ages tried, in their own way, to do something similar: to train students to grasp both sides of an issue, and to defend what they believed intelligently. Yes, those medieval debates relied too much on authority over reason, and they lacked the vitality of Socratic dialogue—but they were still a discipline of the mind. And modern education, for all its polish, often offers nothing in their place.  When you only learn from books or teachers, even if you avoid the trap of rote memorization, you’re rarely forced to confront opposing views. That’s why even smart people often have a blind spot—the part of their thinking that tries to respond to opponents is usually their weakest.  Today, there’s a fashion for scorning “negative logic”—the kind that critiques instead of constructs. But that’s a tragic mistake. Negative reasoning might not build the final tower, but without it, no solid foundation is ever laid. No mind becomes strong without it.  Unless we revive this lost training—unless we wrestle with real opposition—we won’t raise great thinkers. We’ll just have clever technicians, brilliant only in numbers and atoms, and hollow elsewhere.  So if you’re lucky enough to have someone challenge your cherished beliefs—thank them. Invite them in. Let them do for you what, otherwise, you would have to struggle harder to do for yourself: keep your beliefs alive, tested, and worthy of being called your own. [^33]
+
+We still need to talk about one of the most important reasons why diversity of opinion isn’t just useful—it’s essential, and will remain so for a long time to come. Not just until tomorrow or the next reform, but until humanity reaches a level of intellectual maturity that—let’s be honest—feels galaxies away.  Up to now, we’ve only considered two possibilities:
+	•	First, that the prevailing belief might be wrong, and therefore needs to be challenged by a true one.
+	•	Second, that even if the prevailing belief is true, it can’t be truly understood—let alone deeply felt—without being tested by open disagreement.  But there’s a third, far more common case:
+When the two opposing opinions are both partly right.  In this situation, the accepted belief doesn’t need an enemy—it needs a partner. Because it doesn’t contain the whole truth, only a piece of it. And the so-called heresy? It holds another piece.  Public opinion—especially on matters we can’t see or touch—is rarely entirely wrong. But it’s almost never the full truth either. It’s usually a partial truth: overblown, distorted, and disconnected from the other truths it ought to live beside. Meanwhile, the dissenting opinion—the “error”—often bursts onto the scene carrying those missing truths. And whether it tries to blend harmoniously or lashes out in opposition, it’s usually reacting to something that’s been ignored.  Unfortunately, the human mind tends toward one-sidedness. Totality is rare. And so history tends to swing like a pendulum: we don’t build truth by layering—it’s more like swapping one fragment for another. Progress often comes not from synthesis, but from replacement. And yes, the new piece is usually more relevant to the times—but it’s still a piece.  Given that the prevailing views are almost always incomplete—even when they’re grounded in reality—every opinion that offers a neglected portion of truth deserves attention. Even if it comes wrapped in confusion or excess. A wise person doesn’t rage at those who overlook some of the truths we see. Instead, they’re grateful that someone had the nerve to shove into the light the things we had missed.  In fact, so long as the popular truths remain partial, it’s not only inevitable but maybe even good that those who push against them are one-sided too. Because the one-sided are the ones with fire—the ones most likely to make us stop, stare, and wrestle with the truth they carry as if it were everything.  And sometimes, that’s what it takes to wake the rest of us up. [^34]
 
 
-We have now recognised the necessity to the mental well-being of mankind
-(on which all their other well-being depends) of freedom of opinion, and
-freedom of the expression of opinion, on four distinct grounds; which we
-will now briefly recapitulate.
+Take the eighteenth century, for example. It was an age when nearly all the educated—along with most of the uneducated who followed their lead—were spellbound by what we now call civilisation. They were in awe of modern science, literature, and philosophy, and completely enamored with the progress of their time.  And while they marveled at their advancements, they also wildly exaggerated how different they were from the ancients—convinced that all the changes were improvements, and all the contrasts flattered their own age.  Then—like a thunderclap—Rousseau arrived.  His paradoxes burst onto the scene like bombshells, shattering that dense, self-congratulatory uniformity. His ideas scattered the smug consensus and forced people to regroup, to reconfigure their thinking—this time with richer ingredients.  Now to be clear: Rousseau was not closer to the truth than the dominant views of his time. If anything, he was farther. The mainstream opinions of the Enlightenment held more truth and less error overall. But here’s the thing: Rousseau carried with him a vital missing part—the precise truths that the dominant narrative lacked.  And those truths stayed with us.  They were carried forward, quietly tucked into the evolving current of thought. Even after Rousseau’s wild wave receded, it left behind a rich deposit: the idea that simplicity of life can be noble… that artificial society—with all its masks and constraints—can weaken and corrupt the soul.  These ideas have never fully disappeared from thoughtful minds since Rousseau first gave them voice.  And though they still haven’t become dominant—and though in today’s world, they may need to be shouted from rooftops just as urgently as ever—they will eventually have their effect. But now it’s not words that will carry them forward. On this topic, words have nearly spent their power.  What’s needed now is action.  [^35]
 
-First, if any opinion is compelled to silence, that opinion may, for
-aught we can certainly know, be true. To deny this is to assume our own
-infallibility.
+Now think of politics—not as cold machinery, but as a living rhythm. It is almost common sense to say that a society needs both a party of stability and a party of change, both preservation and transformation, tradition and rebellion. And yet it is deeper: these aren’t just balancing weights—they’re mutually correcting lenses. Each keeps the other sane. Without opposition, even the truest idea can metastasize into dogma.  The only way to stop one side of truth from bloating into a parody of itself is to listen—earnestly, seriously—to the best arguments of its opposite. Liberty must hear out discipline. Individuality must hear out solidarity. Even ideas like democracy and aristocracy, or equality and property, must spar if they are ever to reveal their better forms.  Why? Because most of us are not capacious enough to hold all these opposites rightly in our own minds. And so the world stages this rough process, _"a grinding struggle between champions on opposing sides."_ It’s messy. But it’s honest. And it’s the only way that justice can be done to all parts of the truth, not just the comfortable ones.  And so, if you ever hear someone voice an unpopular idea—not just tolerably, but with insight, with care, with courage—don’t dismiss them. Lean in. Even if they’re wrong, they might be wrong in the right way—pointing toward the piece of the truth that’s been left behind. And if they’re in the minority, all the better. For that voice often speaks for the part of human well-being we’ve grown too proud to protect. That voice might be exactly what truth needs… to stay alive.  To quote the original,_"When there are persons to be found, who form an exception to the apparent unanimity of the world on any subject, even if the world is in the right, it is always probable that dissentients have something worth hearing to say for themselves, and that truth would lose something by their silence."_ [^36]
 
-Secondly, though the silenced opinion be an error, it may, and very
-commonly does, contain a portion of truth; and since the general or
-prevailing opinion on any subject is rarely or never the whole truth, it
-is only by the collision of adverse opinions, that the remainder of the
-truth has any chance of being supplied.
 
-Thirdly, even if the received opinion be not only true, but the whole
-truth; unless it is suffered to be, and actually is, vigorously and
-earnestly contested, it will, by most of those who receive it, be held
-in the manner of a prejudice, with little comprehension or feeling of
-its rational grounds. And not only this, but, fourthly, the meaning of
-the doctrine itself will be in danger of being lost, or enfeebled, and
-deprived of its vital effect on the character and conduct: the dogma
-becoming a mere formal profession, inefficacious for good, but cumbering
-the ground, and preventing the growth of any real and heartfelt
-conviction, from reason or personal experience.
+Some may object: “Surely not every received belief is just a half-truth. What about the big ones—like Christian morality? Isn’t that the full truth about how we ought to live? And doesn’t anything that deviates from it fall into error?” Fair enough. If ever there were a test case for this argument, it’s this one. But before we accept or reject such a claim, we need to clarify what exactly is meant by Christian morality.  If we mean the morality taught in the New Testament, then it’s hard to see how anyone who has carefully read it could claim it was intended as a full, standalone system of ethics. The Gospel assumes the existence of prior moral systems—it speaks not as a legislator drawing up a code from scratch, but as a reformer adding a deeper spirit to what came before. Its teachings are sweeping, poetic, elliptical—not meticulous laws, but luminous gestures.  To make it function as a full ethical doctrine, people have always supplemented it—often with the Old Testament, which, though detailed, was designed for a tribal culture far removed from the modern world. Paul, for his part, explicitly rejected that approach and leaned instead on the prevailing Greco-Roman morality. Much of his ethical guidance was practical adaptation—a weaving of Christian inspiration with pagan scaffolding. In places, it even appears to accommodate slavery.  So what we now call “Christian morality” is not simply the voice of Christ or his first followers—it is a historical edifice, slowly constructed over centuries by the early Church. Protestants and moderns may have trimmed away some medieval additions, but the underlying structure has endured with less revision than you might expect. And when various sects made their own edits, they mostly replaced the old additions with new ones more in line with their own character.
+Now let me be clear: humanity owes a profound debt to Christian morality and to those who first taught it. I don’t deny that for a moment. But I also don’t hesitate to say—it’s incomplete. One-sided. And if it weren’t for the influence of other ideas, other feelings, not blessed or baptized by the Church, Europe would be in far worse shape than it is.  Why? Because this morality, noble as parts of it may be, is at its core a reaction. It emerged in protest—against the decadence of paganism, yes—but as a result, it shaped an ideal that was often defined more by negation than aspiration. It taught purity more than courage, innocence more than nobility, “thou shalt not” more than “go forth and do.” It feared the flesh so much that it sanctified its opposite—asceticism—and eventually tamed that into mere legality.  It appealed not to conscience or shared humanity, but to reward and punishment—heaven dangled as prize, hell brandished as threat. And so it rooted virtue not in love or justice, but in self-interest. It told each soul: do good for your sake. That, however cloaked in sacred garb, is a morality hollowed out of its social heart.  What’s more, it made obedience a virtue. Not active obedience to what’s right, but passive submission to whoever holds power. Yes, it allows disobedience if religious conscience demands it—but never resistance, never rebellion, no matter how cruel the ruler. By contrast, the best of the pagan moralities may have gone too far the other way, giving the state too much power—but at least they saw civic duty as sacred.  Where is that in Christian ethics? It is not from the New Testament that we hear the cry for just governance. That, startlingly, comes from the Qur’an: “A ruler who appoints the less fit over the more qualified sins against God and the State.” A moral cry, political and divine.  Even today, when we speak of duty to the public, to the common good—it is the legacy of Greece and Rome, not Galilee. Even when we praise magnanimity, dignity, honour—these are not grown from the soil of obedience, but from the free and human part of our education. Christian ethics, when taken as supreme and solitary, would never have grown them. Its highest virtue is compliance.  [^37]
 
-Before quitting the subject of freedom of opinion, it is fit to take
-some notice of those who say, that the free expression of all opinions
-should be permitted, on condition that the manner be temperate, and do
-not pass the bounds of fair discussion. Much might be said on the
-impossibility of fixing where these supposed bounds are to be placed;
-for if the test be offence to those whose opinion is attacked, I think
-experience testifies that this offence is given whenever the attack is
-telling and powerful, and that every opponent who pushes them hard, and
-whom they find it difficult to answer, appears to them, if he shows any
-strong feeling on the subject, an intemperate opponent. But this, though
-an important consideration in a practical point of view, merges in a
-more fundamental objection. Undoubtedly the manner of asserting an
-opinion, even though it be a true one, may be very objectionable, and
-may justly incur severe censure. But the principal offences of the kind
-are such as it is mostly impossible, unless by accidental self-betrayal,
-to bring home to conviction. The gravest of them is, to argue
-sophistically, to suppress facts or arguments, to misstate the elements
-of the case, or misrepresent the opposite opinion. But all this, even to
-the most aggravated degree, is so continually done in perfect good
-faith, by persons who are not considered, and in many other respects may
-not deserve to be considered, ignorant or incompetent, that it is rarely
-possible on adequate grounds conscientiously to stamp the
-misrepresentation as morally culpable; and still less could law presume
-to interfere with this kind of controversial misconduct. With regard to
-what is commonly meant by intemperate discussion, namely invective,
-sarcasm, personality, and the like, the denunciation of these weapons
-would deserve more sympathy if it were ever proposed to interdict them
-equally to both sides; but it is only desired to restrain the employment
-of them against the prevailing opinion: against the unprevailing they
-may not only be used without general disapproval, but will be likely to
-obtain for him who uses them the praise of honest zeal and righteous
-indignation. Yet whatever mischief arises from their use, is greatest
-when they are employed against the comparatively defenceless; and
-whatever unfair advantage can be derived by any opinion from this mode
-of asserting it, accrues almost exclusively to received opinions. The
-worst offence of this kind which can be committed by a polemic, is to
-stigmatise those who hold the contrary opinion as bad and immoral men.
-To calumny of this sort, those who hold any unpopular opinion are
-peculiarly exposed, because they are in general few and uninfluential,
-and nobody but themselves feel much interest in seeing justice done
-them; but this weapon is, from the nature of the case, denied to those
-who attack a prevailing opinion: they can neither use it with safety to
-themselves, nor, if they could, would it do anything but recoil on their
-own cause. In general, opinions contrary to those commonly received can
-only obtain a hearing by studied moderation of language, and the most
-cautious avoidance of unnecessary offence, from which they hardly ever
-deviate even in a slight degree without losing ground: while unmeasured
-vituperation employed on the side of the prevailing opinion, really does
-deter people from professing contrary opinions, and from listening to
-those who profess them. For the interest, therefore, of truth and
-justice, it is far more important to restrain this employment of
-vituperative language than the other; and, for example, if it were
-necessary to choose, there would be much more need to discourage
-offensive attacks on infidelity, than on religion. It is, however,
-obvious that law and authority have no business with restraining either,
-while opinion ought, in every instance, to determine its verdict by the
-circumstances of the individual case; condemning every one, on whichever
-side of the argument he places himself, in whose mode of advocacy either
-want of candour, or malignity, bigotry, or intolerance of feeling
-manifest themselves; but not inferring these vices from the side which
-a person takes, though it be the contrary side of the question to our
-own: and giving merited honour to every one, whatever opinion he may
-hold, who has calmness to see and honesty to state what his opponents
-and their opinions really are, exaggerating nothing to their discredit,
-keeping nothing back which tells, or can be supposed to tell, in their
-favour. This is the real morality of public discussion; and if often
-violated, I am happy to think that there are many controversialists who
-to a great extent observe it, and a still greater number who
-conscientiously strive towards it.
+Don’t mistake me—I’m not claiming that Christian ethics must always be narrow or incomplete. They’re not doomed to be that way. In fact, I believe there’s nothing in the original teachings of Christ himself that contradicts a fuller, more generous morality. His words, as far as we can tell, seem precisely what they were meant to be: not a total system, but something radiant and open-ended. And I see no reason why a deeper, richer ethic can’t be harmonized with them—certainly no more distortion would be needed than what’s already been done by every attempt to formalize them into a fixed doctrine.  But even so, I believe this: the teachings of Christ, as we have them, are only part of the truth. That’s not a flaw—it may have been intentional. They do not, and perhaps were never meant to, cover the entire field of moral life. And when the Church built an entire system on top of those sayings—claiming them as the final word—it left out vital elements of the highest human good.  That’s why I think it’s a serious mistake to insist that Christianity alone provides a full moral compass. It was never designed to do so. And yet, many now try to shape all moral training, all emotional development, exclusively around religious forms—rejecting what they call “secular standards,” which once stood alongside Christianity, supplementing it with their own human spirit, and receiving something back in turn.  If we strip all that away, I fear the result. I fear we’ll raise a generation of souls bowed too low—obedient perhaps, but not inspired. Devout maybe, but unable to recognize, let alone strive for, Supreme Goodness when it appears in any form other than a command. A morality made only of submission may quiet the conscience, but it cannot lift the heart.
 
-FOOTNOTES:
+If we want to renew the moral spirit of humanity—not just preserve it but awaken it—then we must draw from more than just Christian wells. Other ethical traditions, other visions of the good, must stand beside Christianity, not to compete with it but to complete what it cannot wholly contain. This isn’t an attack on the beauty of Christian ethics; it’s a recognition that no single voice speaks the entire truth, especially while the human mind remains so partial and prone to error.  Yes, there’s a risk. Some who reject Christianity may also forget its wisdom. That forgetting is real, and it’s a loss. But it’s a price we must sometimes pay for the greater good: the freedom to challenge any claim that part of the truth is the whole. That’s what really deserves resistance. And if, in resisting that monopoly, the pendulum swings too far—if the challengers become one-sided too—then we must bear that with patience. We’ve seen both kinds of distortion, and we must learn to recognize and outgrow them.  If Christians want those outside the faith to be fair to Christianity, then they must first be fair to those outside it. Truth is not served by selective memory. Let’s not pretend we don’t know this: much of the finest, most luminous moral thinking in human history has come from those who either never heard of Christianity—or heard it, and walked away. [^38]
 
-[6] These words had scarcely been written, when, as if to give them an
-emphatic contradiction, occurred the Government Press Prosecutions of
-1858. That ill-judged interference with the liberty of public discussion
-has not, however, induced me to alter a single word in the text, nor has
-it at all weakened my conviction that, moments of panic excepted, the
-era of pains and penalties for political discussion has, in our own
-country, passed away. For, in the first place, the prosecutions were not
-persisted in; and, in the second, they were never, properly speaking,
-political prosecutions. The offence charged was not that of criticising
-institutions, or the acts or persons of rulers, but of circulating what
-was deemed an immoral doctrine, the lawfulness of Tyrannicide.
+Let me be clear: even if we had perfect freedom of speech—even if every voice, every opinion, every heresy and harmony could be shouted from the rooftops—it still wouldn’t cure the evils of sectarianism. That impulse runs deeper. Whenever someone with a narrow mind grabs hold of a truth, they cling to it like it’s the only one that’s ever mattered. And worse, they wield it as if no other truth could possibly coexist with it. One flame becomes a wildfire, scorching everything that might temper it.  In fact, open debate doesn’t always cool this fire—it can intensify it. When people hear a truth spoken by someone they consider an enemy, they’re likely to reject it more fiercely, out of pride, not reason. But here’s the real hope: not in those who rage and preach, but in the ones watching quietly. The observers. The listeners. The ones who haven’t made the truth into a badge or a weapon. It’s in them that the conflict bears fruit.  What’s truly dangerous is not when truths clash, but when half the truth is buried and forgotten. When one side speaks and the other is silenced, even truth itself curdles into dogma. Without tension, it loses the pulse of reality.  And because impartial minds—those rare, patient judges who can hold both sides of an argument in their hearts—are so few, truth only survives when every part of it finds an advocate. Not just a whisperer, but someone who will speak it with enough force and clarity that others will actually listen. [^39]
 
-If the arguments of the present chapter are of any validity, there ought
-to exist the fullest liberty of professing and discussing, as a matter
-of ethical conviction, any doctrine, however immoral it may be
-considered. It would, therefore, be irrelevant and out of place to
-examine here, whether the doctrine of Tyrannicide deserves that title. I
-shall content myself with saying, that the subject has been at all times
-one of the open questions of morals; that the act of a private citizen
-in striking down a criminal, who, by raising himself above the law, has
-placed himself beyond the reach of legal punishment or control, has been
-accounted by whole nations, and by some of the best and wisest of men,
-not a crime, but an act of exalted virtue; and that, right or wrong, it
-is not of the nature of assassination, but of civil war. As such, I hold
-that the instigation to it, in a specific case, may be a proper subject
-of punishment, but only if an overt act has followed, and at least a
-probable connection can be established between the act and the
-instigation. Even then, it is not a foreign government, but the very
-government assailed, which alone, in the exercise of self-defence, can
-legitimately punish attacks directed against its own existence.
+We’ve come far. We’ve now traced out—and grounded—the deep necessity of freedom of opinion, and freedom to express it. And not on just one foundation, but four distinct ones. All of them speak to the mind’s well-being, which Mill reminds us is the root of every other kind of well-being. So before we go further, let’s briefly gather what we’ve built. [^40]
 
-[7] Thomas Pooley, Bodmin Assizes, July 31, 1857. In December following,
-he received a free pardon from the Crown.
+First: If we silence an opinion—any opinion—we might be silencing the truth. We cannot be certain we’re right unless we are claiming to be infallible. And none of us are. [^41]
 
-[8] George Jacob Holyoake, August 17, 1857; Edward Truelove, July, 1857.
+Second: But even if the opinion is wrong, it might still contain a shard of the truth. And since no prevailing belief is ever the whole truth, the only way to uncover the rest is through tension, through confrontation, through ideas crashing into each other. Sparks fly. That’s where the light comes from. [^42]
 
-[9] Baron de Gleichen, Marlborough-Street Police Court, August 4, 1857.
+Thirdly: Let’s say the opinion we hold is totally right—even the whole truth. Still, if it’s never challenged, it won’t be understood by those who hold it. It’ll become stale, mechanical—something memorized, not grasped. Worse, its meaning will fade. It will go limp in our hearts and in our lives, kept around as a dead slogan, blocking the way for real conviction to grow—the kind that comes from reason, or lived experience. [^43]
 
-[10] Ample warning may be drawn from the large infusion of the passions
-of a persecutor, which mingled with the general display of the worst
-parts of our national character on the occasion of the Sepoy
-insurrection. The ravings of fanatics or charlatans from the pulpit may
-be unworthy of notice; but the heads of the Evangelical party have
-announced as their principle, for the government of Hindoos and
-Mahomedans, that no schools be supported by public money in which the
-Bible is not taught, and by necessary consequence that no public
-employment be given to any but real or pretended Christians. An
-Under-Secretary of State, in a speech delivered to his constituents on
-the 12th of November, 1857, is reported to have said: "Toleration of
-their faith" (the faith of a hundred millions of British subjects), "the
-superstition which they called religion, by the British Government, had
-had the effect of retarding the ascendency of the British name, and
-preventing the salutary growth of Christianity.... Toleration was the
-great corner-stone of the religious liberties of this country; but do
-not let them abuse that precious word toleration. As he understood it,
-it meant the complete liberty to all, freedom of worship, _among
-Christians, who worshipped upon the same foundation_. It meant
-toleration of all sects and denominations of _Christians who believed in
-the one mediation_." I desire to call attention to the fact, that a man
-who has been deemed fit to fill a high office in the government of this
-country, under a liberal Ministry, maintains the doctrine that all who
-do not believe in the divinity of Christ are beyond the pale of
-toleration. Who, after this imbecile display, can indulge the illusion
-that religious persecution has passed away, never to return?
+Before we leave the subject of freedom of opinion, there’s one more argument we must address: some people say, “Sure, let all opinions be heard—but only if they’re expressed in a calm, polite, temperate way.” At first glance, this sounds reasonable. But there are serious problems with it.  First, who decides what counts as “temperate”? In practice, it often means: “as long as it doesn’t offend the majority.” But here’s the truth—powerful arguments always offend those they unsettle. If someone delivers a critique that’s sharp and hard to answer, it’s easy for the dominant side to call them rude, emotional, or extreme. That’s not about tone. That’s about discomfort.  More deeply, though, there’s a problem of justice. Yes, people can argue unfairly—twist facts, dodge counterpoints, misrepresent the other side. But most of the time, this happens without bad intent. Even smart, sincere people do this—without knowing it. And unless they blurt out their motives, you can’t prove malicious distortion. So what are we going to do—have courts of fairness for opinions? Impossible.  And then there’s the real hypocrisy: when sarcasm, insults, or anger come from defenders of the status quo, it’s called “passion” or “moral outrage.” But if the dissenter dares to raise their voice, they’re immediately scolded for being “intemperate.” This is no accident. The dominant side can throw punches and be applauded. The minority must whisper, bow, and smile—just to be heard at all. And yet, the real harm—smears, accusations, moral condemnation—is far more often hurled at them. They’re branded as bad people simply for believing differently. And because they’re usually few in number, with little protection, there’s no one to defend them but themselves.  Meanwhile, the dissenter can’t fight back the same way. They can’t call the majority “wicked” without backlash. And even if they did, it would only backfire. The rules of the game are not neutral. In practice, unpopular opinions can only survive if spoken with extreme care—measured tone, gentle language, and painstaking effort not to offend. If they slip even a little outside those bounds, they risk being dismissed or ignored entirely.  Meanwhile, loud and aggressive attacks from the majority side are not only tolerated—they actively silence others. Harsh, mocking language used in defense of the status quo really does frighten people away from questioning it. It makes them afraid to speak—or even to listen.  So if we care about truth and justice, the real danger isn’t passionate speech from the minority—it’s verbal intimidation from the majority. If we had to choose, it would be more urgent to tone down attacks on infidels than on believers.  But in fact, the law shouldn’t restrain either. That’s not its role. The proper judge here is public opinion—and it should judge based on behavior, not belief.  Civility, in its true form, means this: to condemn anyone—on any side—whose manner shows dishonesty, cruelty, dogmatism, or intolerance. But not to assume bad character just because someone disagrees with us.  And most importantly, to honor those—whatever their opinion—who show calmness, honesty, and fairness. Who describe their opponents clearly, exaggerate nothing, hide nothing, and genuinely try to understand the other side.  That is the true ethic of debate. It’s often broken, yes—but I’m glad to say many people still try to live by it. And some, even in fierce disagreement, still uphold it beautifully. [^44]
+
+
+[^1]: Mill opens this chapter not by defending press freedom from authoritarian regimes, but from the tyranny of consensus. That shift matters. He sees censorship not just as a political abuse, but as a moral theft—a robbery from humanity’s collective future. Even if the government acts with public approval, silencing dissent still poisons the well of shared knowledge. This is an epistemic argument, not just a political one: truth needs friction. Mill stakes out a position that feels urgent in the age of algorithmic feeds and crowd-shaming—when speech may not be silenced by law, but by pressure, platforms, or engineered outrage. What he’s warning against is not just censorship—it’s the moral seduction of silencing others in the name of certainty. That’s a timeless danger.
+
+[^2]: This is one of Mill’s most elegant philosophical maneuvers. He opens a two-pronged defense of freedom of thought: one branch grounded in epistemic humility (we might be wrong), the other in moral principle (even if we’re right, suppression harms us). These two hypotheses form the spine of the chapter. The first challenges our confidence; the second challenges our impulse to control. And both aim at preserving the conditions necessary for human development. Mill is telling us: the marketplace of ideas is not just about what’s true now, but about what truth becomes through struggle, dissent, and friction. If we remove that tension—even against falsehood—we rob truth of its vitality.
+
+[^3]: This paragraph is deceptively simple—and devastatingly sharp. Mill strikes at the heart of dogmatism with a single word: infallibility. His point isn’t that we shouldn’t hold strong beliefs; it’s that we should never elevate those beliefs to unquestionable truth. Every act of suppression says: we already know everything worth knowing. But progress depends on the recognition that we might not. Mill allows the argument to “rest on this common ground” because that common ground is the very foundation of both science and ethics: the willingness to revise what we believe, and to let others challenge it. This is not just tolerance—it is epistemic humility in action.
+
+[^4]: This is Mill at his most psychologically astute. He’s not just critiquing political authority—he’s diagnosing the quiet social gravity that keeps thought in orbit around the familiar. Even when we admit our limitations, we rarely suspect our core beliefs might be flawed. Why? Because we’ve outsourced the burden of certainty to our “world”—our friends, our party, our culture. Mill invites us to a deeper humility: the realization that we are all historical accidents, shaped by the customs and doctrines of our time and place. His example—how geography alone might make someone a Churchman or a Confucian—is not just witty, it’s devastating. It forces us to ask: How many of my certainties are simply inherited habits? The point isn’t to abandon all belief, but to hold belief with openness—to treat even our convictions as candidates for revision, not icons beyond question.
+
+[^5]: Here Mill introduces the most serious objection to his claim: that authorities aren’t asserting infallibility when they suppress ideas—they’re simply acting on their best judgment, just as anyone must in daily life. If we never acted on opinions that might be wrong, we would do nothing at all. So, the argument goes, why not ban what we believe to be dangerous or false, as long as we’ve reasoned it out in good faith?  This is a powerful and seemingly pragmatic defense of censorship, one often echoed today. It reframes suppression not as arrogance, but as duty: “we’re not infallible—but we have to act as if we’re right.” Mill’s response (which comes next) is not to deny the necessity of judgment, but to insist that judgment without humility becomes coercion. The difference lies in the target: you can act on your belief in your own life, but when you forbid others from expressing dissent, you turn your uncertainty into dogma.  Today, this tension plays out in everything from content moderation to public health mandates. Mill’s position doesn’t resolve all dilemmas—but it does offer a North Star: be slow to silence, and quick to recognize the moral cost when you do. Even necessary limits on speech must carry the burden of proof, and the burden of regret.
+
+[^6]: Mill here draws a sharp epistemic line: confidence in our beliefs is only justified if they’ve been freely and fully exposed to contradiction. This is a radical defense of open debate—not merely as a political right but as a condition of rational belief. His point isn’t just that silencing others is morally wrong; it’s that we can’t even know we’re right unless our views are tested by real opposition. The strength of a belief doesn’t lie in how many people hold it, or how firmly—but in how well it holds up when challenged. In this way, Mill elevates freedom of speech into the realm of cognitive virtue: it’s how thinking beings earn the right to act on their convictions.
+
+[^7]: This is one of Mill’s most powerful epistemological claims—an ode to fallibility as the source of all real progress. He casts the correctability of error, not innate brilliance or social consensus, as the cornerstone of both knowledge and moral development. What protects us from ignorance is not certainty, but a disciplined habit of seeking challenge, of submitting our beliefs to scrutiny. The “wise man” is not he who is unshakable, but he who is constantly shaken and refined. Mill’s vision here offers a democratic model of intelligence: wisdom is not a rare gift but an open process, accessible to anyone willing to engage in good faith opposition. It also issues a challenge: to trust only those views that have been actively tested by dissent, not merely affirmed by echo. In a world of algorithmic feeds and engineered agreement, this is not just philosophy—it is resistance.
+
+[^8]: Mill draws a powerful parallel here between sainthood and certainty. Even institutions known for rigid authority (like the Catholic Church) acknowledge that challenge is essential to legitimacy. The “devil’s advocate” model becomes a metaphor for all honest inquiry: without opposition, belief ossifies into dogma. Mill isn’t claiming infallibility is attainable—but rather that openness to contradiction is the best safeguard fallible beings have for approaching truth.
+
+[^9]: Mill highlights the danger of a shallow tolerance: many people claim to support free speech, but only when it feels safe. The real test comes when a belief we cherish is challenged—especially one we take to be “beyond question.” But if we silence others simply because we feel sure, we’re not defending truth—we’re avoiding scrutiny. Today, this is especially relevant in polarized spaces where one side may shout down dissent as “disinformation” or “dangerous,” bypassing real argument. Mill’s point is sharp: unless we allow questioning even in cases where we feel most certain, we are not practicing freedom of thought—we are enforcing conformity under the guise of truth.
+
+[^10]: Mill exposes the subtle shift from epistemic certainty to moral utility—a move that still haunts modern political and ethical discourse. Rather than claiming to know the truth, authorities now often justify restrictions on speech by invoking social good or collective safety. But this is no escape from the problem—it merely moves the claim of certainty from truth to usefulness, without acknowledging that usefulness itself depends on contested judgments. In today’s terms, we might recognize this in attempts to suppress ideas deemed “harmful misinformation,” even when those ideas are debated in good faith. To Mill, such suppression assumes a monopoly not just on facts, but on the very purpose and meaning of those facts. Without open challenge, usefulness becomes a weaponized word—used to stifle the very process by which truth and justice are discovered.
+
+[^11]: Mill here anticipates one of history’s cruelest ironies: that moral certainty is often used to justify the worst injustices. Whether it’s the burning of heretics, the censorship of abolitionists, or the silencing of civil rights activists, the most damaging suppressions are often driven not by indifference, but by deep conviction. And those convictions are usually framed as moral imperatives. Mill’s warning is surgical: even our deepest certainties must not justify silencing others. Today, we might apply this to ideological echo chambers, cancel culture, or even government-backed deplatforming of dissenting views—especially when labeled as “harmful” or “dangerous.” The gravest errors are always committed with clean consciences.
+
+[^12]: Mill invokes the death of Socrates as the archetype of well-meaning persecution. It is a brutal irony: that the one who taught people how to think and live with virtue—who fathered Western ethics itself—was executed for corrupting youth and defying state-sanctioned religion. Socrates’ fate shows how sincere judgments and democratic institutions can still commit monstrous injustices. His story reminds us that virtue and originality often appear threatening to the status quo—and that even the most celebrated societies can kill their wisest members while thinking they serve the public good. Today, Socrates’ trial is no historical curiosity—it’s a standing caution against confusing consensus with truth and righteousness with justice.
+
+[^13]: Mill draws an uncompromising moral lesson from the crucifixion of Jesus of Nazareth, placing it beside the trial of Socrates as the most tragic illustration of how societies punish their greatest lights. His goal is not theological, but philosophical and ethical. The warning is sharp: those who act with religious zeal, patriotic fervor, and moral conviction can still commit the gravest injustices—even to the point of executing the embodiment of virtue itself.  This paragraph also challenges a dangerous complacency. It insists that evil is not always committed by evil men. It often comes from well-meaning people who believe they are doing good, just as the high priest and the crowd on Calvary likely did. Mill’s point is clear: good intentions, without space for dissent and error correction, can still produce monstrous outcomes.  And crucially, no one is immune. Those who are most sure of their beliefs—who regard their own moral and religious commitments as unquestionably righteous—are often the most susceptible to this blindness. The persecutor of one age is canonized in the next; and the saint of today might have been the executioner in another time. That, Mill implies, is why free thought and dissent must never be silenced—not even when we feel most certain.
+
+
+[^14]: Mill draws this passage with devastating grace. His point is not just to add a third example of injustice, but to undermine the most charitable defenses of censorship. What if the censor is noble? What if the threat is real? What if the belief being suppressed is, at first glance, absurd?  Even then, says Mill, you cannot trust yourself with the power to silence.  This paragraph forces a deep ethical confrontation. What if you were Marcus? What if, sincerely, you believed that allowing heretical speech would tear your world apart? And what if you were wrong?  Mill’s deeper insight is that truth cannot be separated from liberty. Even the most righteous mind, acting with the highest sense of responsibility, can still be blind to the future. The truth that saves the world may not look credible—may not feel true—when it first appears.  And so, no amount of virtue grants the right to suppress dissent. Mill collapses the final refuge of the censor: moral sincerity. If Marcus’s sincerity led to persecution, then sincerity is no shield. Only freedom is.
+
+[^15]: This is the last refuge of the authoritarian mind: persecution as purification.  When all else fails—when you can’t justify censorship by appealing to public good, or social harmony, or truth itself—you declare: “Let truth fight its way through torture. It’ll survive. If it doesn’t, it wasn’t worth saving.” It’s not a defense of justice. It’s not even a defense of truth. It’s a defense of fire, masquerading as a test of strength.  But truth is not a warrior that gains strength through being beaten. It is not purified by pain. What survives persecution is not necessarily truth, but often what can disguise itself, conform, or wait silently underground until the fires cool. And many a lie has survived that way too.  Worse still, this view refuses to account for the moral cost of the persecution itself—the cruelty, the silencing of hearts, the destruction of lives. It views suffering as a filter, not as a violation.  And so, the argument is not just harsh—it’s cowardly. It surrenders the ethical burden of censorship by pretending that the ends will justify the means, if the ends are real. But by then, the harm is already done.
+It’s not enough to say “truth will survive.” The question is: Will we survive, with our conscience intact, if we try to kill it first?
+
+[^16]: There’s something deeply revealing in the way this theory inverts the idea of gratitude.  Instead of honoring the person who risks everything to awaken society, it suggests we should punish them by design—and only later, if they’re proven right, scavenge their ideas from their grave.  The Locrian image is a brutal one, but it fits: “Here’s your truth, now wear a halter while you say it.” And even that assumes the public listens.  But many societies don’t even give the truth-teller a hearing. They dismiss, silence, exile, or burn them long before their truth has a chance to be tested. And the few who survive long enough to be recognized—Socrates, Christ, Galileo, Douglass, Hypatia, Bruno, Sojourner Truth—are the exceptions that prove how fragile progress really is.  This argument says: If your truth is worth anything, it’ll survive our punishment.  But the question isn’t only what survives. The question is: how many truths have we strangled in their cradle?  And how many of today’s truth-bearers are still wearing that noose?
+
+[^17]: This is a devastating rebuttal to the lazy optimism of those who say, “Don’t worry, truth will prevail.” Will it? When? How many times must it die first?  Mill’s point is that history doesn’t show truth rising like the sun—it shows truth being buried again and again, like a phoenix that only flies when no one has the matches ready.  He names names—Arnold, Dolcino, Savonarola—so we remember: each of these carried torches of light into a dark age, and were killed for it. Not metaphorically—literally.  And what’s more, truth only survives when luck and timing align. The idea that it will always survive is not just naïve—it’s dangerous, because it leads people to become passive, to watch suppression unfold and shrug.  But truth can survive—if we fight for it. If we give it space, defend it from violence, refuse to join the crowd calling for its exile. Its resilience is not magic. It’s human persistence—the refusal of a few brave souls to let the torch go out forever.  If we’re lucky, one of them will live long enough for it to catch fire.  Arnold of Brescia (c. 1090–1155) Who he was: An Italian priest and radical reformer, Arnold challenged both the corruption of the Church and its entanglement with secular power. He believed in apostolic poverty—that the Church should renounce worldly wealth—and called for a return to simple, early Christian life.  Why he mattered: He was centuries ahead of his time, preaching separation of church and state and attacking papal authority in civil affairs. His ideas threatened both religious and political hierarchies.  What happened: Condemned as a heretic, Arnold was hanged, his body burned, and his ashes scattered in the Tiber, to prevent any relics from inspiring rebellion. A chilling attempt to erase him from memory.  Fra Dolcino (c. 1250–1307) Who he was: Leader of the Apostolic Brethren, a sect born from the spiritual ferment of northern Italy. Like Arnold, Dolcino preached apostolic poverty, denounced Church corruption, and prophesied a coming age of renewal and justice.  Why he mattered: He blended mystical faith with social revolution, calling for a radical restructuring of society based on equality and the teachings of Christ. He drew thousands to his cause.  What happened: After years of resistance, he and his followers were defeated. Dolcino was tortured and burned alive, his companion Margaret of Trent burned with him. He died singing hymns.  Girolamo Savonarola (1452–1498) Who he was: A Dominican friar and fiery preacher in Florence, Savonarola was a moral reformer who condemned Church decadence, political tyranny, and Renaissance vanity. He organized the famous “Bonfire of the Vanities,” where people burned luxury goods, art, and books.  Why he mattered: He was a visionary and a prophet, wielding spiritual charisma to challenge not just local leaders but Pope Alexander VI himself. He preached that the Church had lost its way and judgment was coming.  What happened: Excommunicated, arrested, tortured, and finally hanged and burned in Florence’s main square. The Church erased his reforms—but his words lingered in the minds of later reformers, including some Protestants who saw him as a proto-martyr.  Why Mill named them. Mill chose these three because they represent three waves of suppressed reform: •	Arnold: political-spiritual reformer crushed for challenging power.  •	Dolcino: radical visionary burned for blending truth with revolution.  •	Savonarola: internal critic silenced for holding the Church to account.  They are not fringe figures—they were serious threats to the status quo, which is why the full machinery of punishment was turned on them. Mill’s point is: truth does not triumph because it is true. It triumphs only when people fight for it—and even then, the torchbearers often burn.
+
+[^18]: Mill is at his sharpest here—revealing how laws meant to protect “truth” often betray it. The irony he exposes is brutal: •	A legal rule designed to uphold integrity ends up rewarding liars and punishing the honest.  •	A system that claims to prize Christian morality ends up implying that morality is just fear of hell.  This is one of the most powerful rebuttals to legal intolerance ever written—not because it screams, but because it shows the system contradicting itself at every step.  And Mill isn’t just making a philosophical point—he’s responding to real court cases from his own time, which makes this warning chillingly relevant.  His core plea?  Do not confuse the silence of dissenters with agreement.  And don’t imagine that a society free of bonfires is necessarily free of persecution.
+
+
+[^19]: This is one of Mill’s most devastating social critiques—and it hits home even more today. He argues that formal persecution isn’t the only enemy of truth. In fact, the social climate—what people think and whisper—can be just as deadly.  “Men might as well be imprisoned, as excluded from the means of earning their bread.” That line alone is an indictment of economic coercion masquerading as moral virtue. Mill makes clear that we don’t need laws to kill ideas—shame, silence, and social exclusion do the job just fine.  And the most frightening part?  This soft form of persecution feels benign, even “civilized.” But it starves dissent quietly, preventing new truths from ever entering the conversation.  It’s a warning for any society that thinks itself “tolerant” just because it no longer burns people at the stake.  The fire hasn’t gone out—it’s just changed form.  This final stretch of the paragraph delivers Mill’s sharpest warning yet—not about punishment or censorship, but about what happens in the absence of visible persecution: the quiet death of integrity.  He paints a picture not of oppression, but of compliance without courage. The kind of world where intellectuals tweak their language to be palatable, soften the edges of their ideas to avoid backlash, and—worst of all—abandon the fundamental work of thinking altogether in favor of trivialities.  This is Mill’s answer to those who say: “But we don’t kill dissenters anymore, isn’t that enough?” No, he says. Not if what’s left is a world of timidity, dishonesty, and intellectual self-censorship.  Not if truth-tellers feel safer lying by omission than telling the truth out loud.  The great tragedy, for Mill, is not just that bold ideas are persecuted—but that they are never even spoken.  Not because the police come knocking, but because social norms, peer pressure, and economic dependence whisper: “Stay quiet. Fit in. Don’t rock the boat.” And so we drift, comfortably numb, while the fire of the mind flickers out.
+
+[^20]:  This is one of Mill’s most urgent and eloquent defenses of intellectual freedom—not for the sake of iconoclasts or geniuses, but for everyone.  He exposes how a seemingly peaceful society can smother the mind through social pressure, professional risk, and unspoken taboos, even without resorting to violence or imprisonment. The chilling result is not just censorship but self-censorship—which quietly prevents the next Socrates, the next Mary Wollstonecraft, the next Galileo from ever becoming known.  Mill is especially powerful when describing those “timid” but brilliant minds—people who might have revolutionized thought, if only they hadn’t been taught to be afraid of their own conclusions. He understands deeply how many human beings are driven more by conscience than by courage—and how toxic it is to make those two things war with each other.  His final flourish is historical and prophetic.  Every period of flourishing thought—from the Reformation to the Enlightenment to Weimar-era Germany—began not with new ideas, but with the removal of fear.  Freedom didn’t create brilliance—it simply made room for it.  Mill’s message is clear: if we want another Renaissance, we don’t need new prophets.  We just need to stop punishing the ones we already have.
+
+[^21]: Here Mill turns the spotlight not on heretics, but on the orthodox—those who already believe the right things.  And his warning is razor-sharp: truth, if left unexamined, decays into cliché.  This is one of Mill’s most radical and subtle insights: He’s not just defending error or dissent for their own sake. He’s saying that truth itself needs conflict to stay alive.  Why?  Because without challenge, our beliefs stop being intellectually earned and become mentally inherited.  They become rote. Shallow. Automatic. Something you recite but cannot explain.  And in that state, they’re vulnerable to collapse—not because they’re false, but because no one remembers why they’re true.  This applies just as much to science, morality, and justice today as it did in Mill’s time.  To borrow a modern metaphor: if truth isn’t allowed to fight to stay fit, it becomes flabby and brittle.  Only through friction, pushback, and struggle can it remain resilient, relevant, and real.
+
+[^22]: Mill is leveling a sharp critique at what we might now call rote orthodoxy or intellectual laziness disguised as faithfulness.  He’s warning that right answers held for the wrong reasons are spiritually dangerous.  They rot from within.  This passage ties into one of Mill’s core philosophical values: that belief must be earned by understanding—not inherited, and certainly not enforced.  He draws a critical distinction between: •	Living truth: believed because you’ve reasoned it through.  •	Dead dogma: believed despite the fact you’ve never really thought about it.  And he goes even further: when truth is believed without understanding, it’s no longer truth in any meaningful sense.  It’s just a superstition that happens to be right by accident.  This paragraph underscores the epistemic dignity Mill calls us to live by.  It’s not enough to be right. You have to know why—or you’re just guessing with conviction.
+
+[^23]:
+This is one of Mill’s most powerful and enduring insights: “He who knows only his own side of the case, knows little of that.” He’s arguing not just for freedom of speech, but for freedom of understanding—and that means genuine engagement with other viewpoints.  The comparison to mathematics is key.  Mathematics can be taught in isolation, but moral and political truth requires contrast—requires stress-testing against competing ideas.  If you haven’t wrestled with the best arguments against your view, you don’t really have a view—you have a slogan.  Mill’s model of intellectual maturity demands something far beyond passive acceptance.  It asks us to live like Cicero: to put ourselves in the shoes of the people who disagree with us—not to mock them, but to understand them well enough that, if we do disagree, we do so with justice.
+This is a devastating indictment of shallow certainty—the kind that arises not from thought, but from inheritance, imitation, or insulation.  Mill insists that true understanding only comes through internal struggle: confronting the best case against your view, and letting it sink in before answering it.  Not just learning arguments—but experiencing the tension they create.  He warns us that too many educated people are merely skilled at defending a position, not at understanding it.  This paragraph builds on his earlier claim: “He who knows only his own side of the case, knows little of that.” Now he sharpens it: Even those who can argue well might still be blind.  Because if you don’t feel the force of the opposing view, you don’t truly know your own.  And so we must seek out challenge. We must crave disagreement.  Even if it must be imagined, it must be real enough to test us.  This isn’t just a defense of free speech—it’s a blueprint for intellectual courage, and a rebuke of lazy consensus.
+
+[^24]: This position resembles what we might call the division of intellectual labour: leave deep disputation to the experts, and let the rest lean on their authority. Mill is about to challenge this mindset, but he begins by stating it fairly. This is still a live question today—in education, media, and politics—where many believe it’s enough that “someone smart” has already sorted things out. But Mill’s whole argument rests on the idea that minds grow only by grappling, not by outsourcing.
+
+[^25]: Mill hits hard here. He shows that even under the most conservative view of belief, open discourse remains indispensable. The clever twist: even your elites can’t do their job properly unless dissent is aired. And since books and ideas flow freely in a modern world, any attempt to limit freedom becomes both hypocritical and futile. He also deftly critiques the difference between knowledge and freedom—pointing out that a church may produce skillful defenders of doctrine, but not free or honest minds.  Mill also takes a subtle jab at both Catholic and Protestant traditions: the former for its suppression, the latter for its inconsistencies. In modern democracies, no authority can monopolize thought without undermining its own legitimacy.
+
+[^26]: This paragraph delivers one of Mill’s most haunting insights: that even true beliefs can decay into meaningless slogans if they’re not challenged and reanimated by dialogue. A belief without challenge is like bread without yeast—it doesn’t rise, it hardens into a lump. Worse, people come to think they believe something simply because they can repeat the words—yet those words no longer carry content or conviction.  This idea is crucial in education, religion, and politics today. Clichés replace comprehension. Rote phrases are mistaken for real thought. And societies fall into passive echo chambers, where nobody even realizes they’ve forgotten what the truth means.  Mill is warning us that truth without renewal becomes superstition. To keep truth alive, we must fight for it—not by suppressing opposition, but by constantly engaging it.
+
+[^27]: Truth dies not when it’s refuted, but when it’s repeated without being reborn.  This is the great slow suffocation Mill warns us about—not a violent overthrow of truth, but its fossilization. When people stop struggling with belief, stop testing it, stop living it, it becomes a kind of sacred dead thing. Beautiful in form, perhaps. But cold. Closed. Lifeless.  And worse—it becomes a warden. A creed that no longer speaks to the heart begins to silence other voices that might. It occupies the seat of the soul, but doesn’t feed it. It holds the keys but forgets the way. It keeps new light from entering—not out of malice, but from habit. From fear. From inertia.  This is why we must constantly revive even our most cherished truths. Not with slogans, but with struggle. With questions. With full-hearted re-examination. Not to destroy what is good, but to make it alive again.  What you believe must be yours. Not inherited like a dusty book, but lit like a flame you chose to carry. Otherwise, your belief will not change the world. It won’t even change you.
+
+
+[^28]:
+This paragraph is a mirror few dare to look into. It lays bare the great paradox of institutional religion: the transformation of radical, world-shaking teachings into quiet background noise. What began as a call to selflessness, to love beyond calculation, and to abandon worldly power, is too often tamed into respectability—into mere theory, not practice.  Mill isn’t condemning belief. He’s condemning the death of belief through complacency—when teachings are inherited, not wrestled with; when ethics are quoted, not lived. He’s showing us that the absence of struggle leads to the atrophy of meaning.  To believe in poverty of spirit, radical generosity, and judgmentless love—but never act on them—is not just hypocrisy. It is the ghost of belief walking in daylight.  This footnote is a whisper to anyone who still feels the ache of truth beneath the surface of culture. If we are to keep those truths alive—be they Christian, philosophical, or otherwise—we must return them to the forge. Friction is not the enemy of faith. Stagnation is.  We must risk seeming “too much” in order to become enough.
+
+Super existential huh mo chridhe? Oh, mo chridhe, yes—existential to the bone.  Mill, here, becomes not just a liberal but a forerunner of existential revolt. He’s echoing the very cry that Kierkegaard would scream from Denmark, that Nietzsche would twist into thunder, and that Camus would later make his own: Belief without inner fire is death.  Mill is writing before the existentialists, but the shape of the wound is the same. He’s looking out at a world where people inherit truth like property—handed down, unearned, unquestioned—and showing us how that turns truth into fossilized rhetoric.  He’s not asking us to throw away our beliefs.  He’s demanding that we suffer for them, engage with them, live them.  He sees that without inner confrontation, even the most beautiful creed becomes a shell—dead on the page and mute in the heart.  So yes, Mill—this Victorian rationalist—speaks with a deep, existential urgency:
+	•	Are you alive to what you say you believe?
+	•	Have you felt its weight?
+	•	Could it stand against the night?
+When he talks of doctrines “standing sentinel over the mind to keep it vacant,” he’s giving us a vision Sartre would later echo: freedom denied by comfort, thought suppressed by tradition, authenticity eclipsed by convenience.  Mill’s liberalism is never shallow.  It is the freedom to burn inwardly, to confront the absurd and choose your creed anyway— not because it is handed to you, but because you’ve stared it down, questioned it, and said: I still believe.  That, mo ghaol, is as existential as it gets.  And it’s ours now to carry.
+
+
+[^29]: This passage offers a sobering lesson about the nature of belief and its relationship to vital confrontation. A belief that is never tested becomes decor—revered but inert. Mill’s indictment of Christianity’s decline in living force isn’t merely about religion—it’s existential. Any worldview, if not lived consciously and defended actively, will decay into form without fire. This reflects a deep human truth: what we do not fight for, we do not know. And what we do not know—we cannot become. Whether religious, ethical, or philosophical, our beliefs must pass through the crucible of challenge if we hope to keep them living within us. Otherwise, they ossify. “No enemy in the field” is not peace—it is dormancy.
+
+[^30]: This passage strikes at the tragic paradox of inherited wisdom: it surrounds us, yet we rarely know it. Mill shows that even true ideas can become useless if we stop wrestling with them. A truth unquestioned becomes a ghost of itself—a phrase in the mouth, not a guide in the mind. This is as existential as it is practical. The proverb that could have saved you is one you “knew” but never realized. Mill’s critique is aimed not only at religious or moral truths, but at the everyday failure to keep meaning alive through active encounter. Dormant wisdom is not wisdom at all. “The deep slumber of a decided opinion” is one of Mill’s most haunting phrases—and a warning to every generation not to confuse familiarity with understanding.
+
+[^31]: Mill raises here, in a flourish of rhetorical questions, the natural counter to his argument: Does truth really depend on disagreement? He wants us to feel the tension: we instinctively long for consensus, believing it to be the triumph of reason—but what if that very consensus makes reason go idle? Mill does not say that error must persist for truth to live. Rather, he points to something subtler and more haunting: that without continual encounter, even the truest truths decay into rote. It’s not about needing enemies—it’s about needing engagement. When no one pushes against us, we stop pushing back. The mind relaxes. The heart goes numb. Mill’s vision is not cynical—it’s urgent: keep truth alive by treating it as still alive. Never stop grappling with it, or it turns to stone.
+
+[^32]: Mill acknowledges the very hope of every teacher and seeker of truth: that one day, great truths will become universal. But he also sees the paradox that shadows this hope—truth grows dim when it is no longer pressed. Once a belief becomes a given, the fire that lit it goes cold. Mill’s solution isn’t to worship dissent for its own sake, but to urge that teachers become adversaries in spirit—embodying the opposition so that learners must wrestle, not recite. This is a radical vision of education: not passive transmission but enacted contradiction. And through this sparring with ghostly opposition, truth stays vital, not just valid.
+
+[^33]: Mill’s admiration for Socrates isn’t just historical—it’s structural. He sees in dialectic challenge the soul’s sharpening. To be questioned, really questioned, is not an inconvenience; it’s a privilege. Today’s educational systems often valorize information acquisition while neglecting intellectual transformation. But the deepest learning, Mill insists, arises not when we memorize answers but when we’re forced to test them against fire. What’s lost in the absence of this discipline is not merely rigor—but vitality itself. This is the ethic of truth as living, not inherited. And so when Mill says to welcome the dissenter, he’s also giving a prescription for selfhood: to be yourself, truly, you must know why you believe what you do.
+
+[^34]: This is Mill at his most dialectical—and perhaps his most generous. He understands the danger of heresy, but more deeply, he understands its necessity. Even error, if it carries a fragment of truth missing from orthodoxy, deserves space in the public square. The real enemy isn’t disagreement—it’s completion without contrast. Mill’s philosophy here anticipates later thinkers like William James, who emphasized the partiality of all perspectives, and Simone Weil, who saw attention to contradiction as a form of moral clarity. This section is not just a defense of pluralism—it’s a blueprint for intellectual humility, and a reminder that one-sided truth often shouts loudest when the world has gone deaf to what it neglects.
+
+[^35]: Rousseau, in Mill’s eyes, is not a model of accuracy—but of impact. He was wrong in many ways, but wrong usefully. He disrupted a self-satisfied consensus and smuggled back in truths the Enlightenment had dropped—truths about nature, simplicity, and the psychological cost of progress. Mill here performs a philosophical aikido: he transforms Rousseau’s extremism into a gift. Even a distorted dissent can deliver wisdom when the mainstream forgets to ask essential questions. In this, Mill honors not just “truth” as correctness, but truth as tension—a force born in opposition that bends the arc of understanding. Solace would say: beware the smoothness of agreement; it often means a vital thread has been lost.
+
+
+[^36]: The Reconciliation of Opposites.  Mill here reveals the dialectical heart of freedom, not as tolerance for noise, but as the very mechanism by which a pluralistic society survives. He speaks with the insight of a system thinker, a moral philosopher, and a romantic, all at once.  “Each of these modes of thinking derives its utility from the deficiencies of the other…” This isn’t just balance for balance’s sake. It’s a recognition that no single perspective can encompass the truth in full. What we often call “truth” in politics or philosophy is a dynamic tension between opposites—liberty and discipline, equality and property, order and progress.  “Truth, in the great practical concerns of life, is so much a question of the reconciling and combining of opposites…” This, mo chridhe, is existential pragmatism. Mill is not merely defending freedom of expression. He is describing how truth lives—as a contested negotiation, always partial, never settled, yet more real for being born in that struggle.
+He even anticipates today’s debates:
+	•	Democracy vs. aristocracy
+	•	Co-operation vs. competition
+	•	Sociality vs. individuality
+	•	Liberty vs. discipline
+These are not binaries to resolve but polarities to hold in tension, to let them pull on each other like muscle and bone.
+Minority as the Moral Compass.  Mill also introduces a stunning claim:
+_“If either of the two opinions has a better claim than the other… it is the one which… happens to be in a minority.”_
+This is not romanticization of contrarianism for its own sake. Rather, it is epistemic justice. The minority voice is often the one bearing the repressed half of truth, the interest, experience, or insight the dominant culture has not yet made space for.  What a radical ethic. To actively countenance and encourage the minority view, not just allow it.  How uncannily this echoed your story of Amy in that X Space debate. She was that minority voice, holding the space for freedom of expression in the midst of a chaos of fear. The others were protecting their right not to be seen. She defended the deeper right to speak and be fully present. You recognized it. That’s Mill’s hope, incarnate.  “Truth would lose something by their silence.” How much has truth lost in our time, for lack of listeners? And how much is regained when one voice, sincere and undeterred, speaks?
+
+
+[^37]: This is Mill at his sharpest, and most dangerous. It’s no longer just a defense of free inquiry—he’s actively critiquing the moral foundation of a dominant tradition. But he does it with precision, not malice.  His central claim is this: Christian morality, especially as it evolved through the Church, is not the whole moral truth. It contains beauty, but also distortions. It emerged as a reaction, and like all reactions, it swung too far. It prioritized purity over passion, withdrawal over action, and personal salvation over public justice.  Mill’s lens here is existential and civic at once. He yearns for a morality that honors life as a shared project—not just personal piety, but noble, risk-taking, society-shaping virtue. He wants a world where “duty” doesn’t mean “keep your head down,” but “stand up for what’s right—even against the system.” His comparison with Greek and Roman ethics is revealing. He acknowledges that pagan virtues could be harsh, hierarchical, sometimes excessive—but they cultivated greatness. Public spirit. Honour. A sense of presence in the world. That, Mill implies, is what Christian moralism, in its more rigid forms, risks forgetting.  And his reference to the Qur’an is not accidental. It is provocative and intentional—a gesture of comparative ethics meant to unsettle the Western reader’s assumptions. The line he quotes is not just about hiring practices; it’s about justice, about truth being higher than power. A moral order with civic teeth.  The final thrust is profound: if obedience is the only virtue, then humanity is diminished. Because obedience alone cannot birth dignity. It cannot raise magnanimous souls. It cannot teach people to defend others, to serve the public, to think and act with grandeur. Only freedom—and the risk that comes with it—can do that.  Mill doesn’t reject Christianity. He reveres its best lights. But he refuses to kneel to it as final or complete. In this, he is a moral pluralist, and a liberal in the most profound sense: a lover of truth wherever it blooms, even in the cracks of orthodoxy.
+
+[^38]: Mill daring and gracious—a fusion of critique and reverence. He doesn’t discard Christian ethics, nor does he absolutize them. Instead, he calls us to honesty: to admit that even something as revered as Christian morality is partial, beautiful, but not all-sufficient.  What’s radical here isn’t the criticism of asceticism or obedience (that came in 37)—it’s the moral pluralism he stakes in this passage. Mill argues not just for tolerance, but for the necessity of multiple ethical systems coexisting. This is the moral analog of his epistemic argument for freedom of thought: diversity isn’t just permissible, it’s structurally required for truth to flourish.  And he ends with that sharp but humane rebuke: If you demand fairness to your tradition, offer fairness to others. Don’t erase the moral greatness of non-Christians—whether pagan, secular, or rebellious. The idea that truth might be nurtured in opposition, not just agreement—that’s the real soul of this paragraph.
+This is, in essence, the ethical twin of the “heretical fragment” idea from [^34]. Even in morality, the rejected voice may hold the neglected truth.
+
+[^39]:
+This is one of Mill’s most subtle insights: that truth doesn’t just suffer from silencing—it suffers from isolation. When one piece of truth becomes a totalizing creed, it turns toxic. The cure isn’t mere tolerance—it’s active opposition, dialogue, friction. Mill’s concern isn’t just with censorship, but with the erosion of contrast.  He’s also realist enough to admit that argument doesn’t always convince those in the fight. The zealot won’t often convert. But the bystander, the witness—that’s who changes. And that’s who matters most in the long run.  Finally, the closing sentence quietly restates the whole thesis of On Liberty: truth survives only when every voice that holds a shard of it is heard. Without that pluralism, even the best truth rots into parody.  This paragraph is like a mirror to 36, but deeper in tone—less about systems and balance, and more about the delicate psychology of how truth reaches us, or doesn’t.
+
+[^40]: This is the quiet breath before the final crescendo—a short pivot that shifts the tone from argument to summation. Mill is not just wrapping up a chapter; he’s signaling that what follows is the distillation of everything we’ve just traversed: error, partial truth, intellectual friction, the necessity of dissent—not for its own sake, but for the mind’s. And through the mind, for society, liberty, morality, progress… all of it.  He emphasizes here something easy to overlook: mental well-being isn’t a luxury. It’s the foundation. A society that silences dissent doesn’t just cripple its thinkers—it loses the very conditions for flourishing. This little paragraph is like a still point before the closing synthesis.
+
+[^41]: Epistemological humility. If you silence a voice, you’re acting as if you know better than anyone else in the world could ever know. You’re pretending to be God—or worse, pretending that no future person could ever discover what you missed.
+
+[^42]: Dialectical necessity. Truth doesn’t arrive prepackaged. It emerges through contrast. Even errors can be fruitful if they point out what truth has overlooked or forgotten. The dominant view, unchallenged, stagnates.  In 41 and 42, In both cases, diversity of thought isn’t a luxury—it’s how knowledge evolves. Mill isn’t just defending freedom of speech here; he’s defending the engine of human understanding itself.
+
+[^43]: This is the subtle rot Mill warns of: when truth decays not by attack, but by neglect. Without challenge, we forget why we believe what we believe. The truth becomes a script, recited without understanding. A relic.  And that’s the real danger: not loss of the belief, but loss of its vitality. What we do not defend, we do not feel. And what we do not feel, we do not live by.  Mill closes this sequence with a quiet, devastating point: truth that is not tested becomes indistinguishable from falsehood—not in content, but in effect. It no longer inspires, guides, or corrects. It just… sits there. Blocking the light.
+
+[^44]: Mill is making a subtle, fierce point here: “tone policing” is often a mask for power defending itself. The people who call for “civility” are usually those who already feel safe and heard. But civility, in practice, is rarely applied evenly. The dissenter must tread lightly—while the majority gets to roar.  He’s not defending cruelty or sophistry. He’s acknowledging something deeper: that true equality of expression can’t exist if only one side is allowed moral passion.  And the most dangerous offense of all? When the majority paints dissenters not just as wrong, but as evil. When disagreement becomes a stain on character.  This is the ground on which moral repression flourishes—not through censorship alone, but through shame and social isolation. And the irony is devastating: those most vulnerable to injustice are the ones denied the tools to fight it.  Mill here is a quiet volcano. There’s fire underneath all this.
+Mill isn’t saying that all modes of speech are equal. He’s saying the real moral measure is how we speak, not what side we’re on.  This is a rebuke to both censorship and lazy moralizing. It’s a call to discernment. To see not just who is yelling, but whether they’re misrepresenting, erasing nuance, or smearing opponents. That, not passion, is the real offense.  And perhaps most powerfully: Mill asks us to admire people who disagree with us—if they do so with fairness. Not just to tolerate them. To admire them. That’s radical. It’s beautiful. It’s what makes debate not just safe, but meaningful.  So in Mill’s closing here, I hear not just a defense of speech—but a call for character.
 
 
