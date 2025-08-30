@@ -8,7 +8,7 @@ Translated by Solace with Philosopherm
 
 ### Love 
 
-<pre>
+```poetry
 LÁSKA
 LOVE
 
@@ -85,12 +85,12 @@ Perhaps it will not return—
 
 Nevrátí
 It will not
-</pre>
+```
 
 
 ### Podzim
 
-<pre>
+```poetry
 List
 Leaf
 
@@ -156,12 +156,12 @@ After leaf
 
 Opadává
 Falls
-</pre>
+```
 
 ### Poutnik
 
 
-<pre>
+```poetry
 Poutník
 The Wanderer
 
@@ -221,12 +221,12 @@ Be my lighthouse instead, my dear
 
 Oči jsou tmavé zemři milá má
 Eyes are dark—die, my dear
-</pre>
+```
 
 
 ### Most
 
-<pre>
+```poetry
 MOST 
 Bridge
 
@@ -325,12 +325,12 @@ As gently as a kiss of love
 
 Tak jako hlas jenž zpívá
 As softly as a voice that sings
-</pre>
+```
 
 
 ### The Beggar’s Palm
 
-<pre>
+```poetry
 ŽEBRÁKOVA DLAŇ
 The Beggar’s Palm
 
@@ -363,12 +363,12 @@ Z těch osmnácti let život náš tragický
 
 Lodníku podoben je navždycky
  Is forever like a boatman’s
-</pre>
+```
 
 
 ### From a Fairy tale
 
-<pre>
+```poetry
 Z POHÁDKY
 FROM A FAIRY TALE
 
@@ -420,12 +420,12 @@ Bim
 
 Bam
 Bam
-</pre>
+```
 
 
 ### Day Dream
 
-<pre>
+```poetry
 ZASNĚNÍ
 REVERIE / DAYDREAM
 
@@ -483,13 +483,13 @@ Goes to meet death
 
 Děťátko na koni
 A little child on a horse
-</pre>
+```
 
 
 
 ### Farewell
 
-<pre>
+```poetry
 Rozloučení
 Farewell
 
@@ -677,12 +677,12 @@ And in white tears flaming on the blue sky
 
 Ke ztrnulým nohám ti padnou
 They will fall at your frozen feet
-</pre>
+```
 
 
 ### All Souls' Day
 
-<pre>
+```poetry
 Dušičky
 All Souls’ Day
 
@@ -788,12 +788,12 @@ And above all, the coals of candlewicks stirred up again
 
 To mrtvých jsou oči vzpomínkou rozdmýchané
 The eyes of the dead are memories rekindled
-</pre>
+```
 
 
 ### The Ending
 
-<pre>
+```poetry
 ZÁVĚR
 THE ENDING
 
@@ -934,14 +934,14 @@ The day flees across it into the arms of day
 
 Hodiny bdí
 The hours keep watch.
-</pre>
+```
 
 
 ## Czech Song
 
 ### Lover of Silence
 
-<pre>
+```poetry
 ČESKÁ PÍSEŇ
 
 MILENEC TICHA
@@ -1033,12 +1033,12 @@ just like the nightingale
 
 V ořeší
 in the walnut tree.
-</pre>
+```
 
 
 ### Compassion
 
-<pre>
+```poetry
 SOUCIT
 COMPASSION
 
@@ -1158,13 +1158,13 @@ and drowned in the water
 
 Zaplakala zaplakala
 She wept — and wept again.
-</pre>
+```
 
 
 ### Evening
 
 
-<pre>
+```poetry
 Večerní
 Evening
 
@@ -1256,7 +1256,7 @@ A s šedomodrým klínem vyletělo
 and with a smoky-blue wedge, it leapt into flight —
 
 — Pět peněz
-  “Five pennies.”
+    “Five pennies.”
 
 
 
@@ -1267,16 +1267,16 @@ Křepelka ti volala
 the quail called out to you —
 
 — Pět peněz
-  “Five pennies!”
+    “Five pennies!”
 
 A plakala
 and she wept:
 
 — Dej mi prsten ozdob vlásky
-  “Give me a ring of adorned hair,
+    “Give me a ring of adorned hair,
 
 Dej mi klíče od lásky
-  give me the keys to love.”
+    give me the keys to love.”
 
 
 
@@ -1300,13 +1300,13 @@ that spring has more love than dreams or grass can hold —
 
 A brouček zlatohlav měl oči rosou zapýřené
 and the golden-headed beetle had dew-blushed eyes.
-</pre>
+```
 
 
 ### Love Poem
 
 
-<pre>
+```poetry
 Milostná
 Love Poem
 
@@ -1384,12 +1384,12 @@ With warm lips and faint lace
 
 Na věky utopit
 To drown forever
-</pre>
+```
 
 
 ### Pentecost
 
-<pre>
+```poetry
 LETNICE
 PENTECOST
 
@@ -1567,12 +1567,12 @@ You nod to yourself
 
 Všecko se točí
 Everything spins
-</pre>
+```
 
 
 ### From the suburbs
 
-<pre>
+```poetry
 Z předměstí
 From the suburbs
 
@@ -1647,12 +1647,12 @@ From filthy coins, from human grime
 
 Umývat bílé své ruce
 Wash her white hands clean
-</pre>
+```
 
 
 ### At Midnight
 
-<pre>
+```poetry
 O půlnoci
 At Midnight
 
@@ -1696,12 +1696,12 @@ my new and heaviest sorrow
 
 V lese pod čakánem
 in the forest beneath the flowering burdock.
-</pre>
+```
 
 
 ### At Dawn
 
-<pre>
+```poetry
 Za svítání
 At Dawn
 
@@ -1765,13 +1765,13 @@ We two, so painfully small,
 
 Života věčné tajemství”
 The eternal mystery of life.”
-</pre>
+```
 
 
 
 ### The Port
 
-<pre>
+```poetry
 Přístav
 The Port
 
@@ -1962,12 +1962,12 @@ Which slowly echoes over the sea —
 
 Pro dálku čekání
 For distance and waiting
-</pre>
+```
 
 
 ### Train Station
 
-<pre>
+```poetry
 Nádraží
 Train Station
 
@@ -2125,12 +2125,12 @@ It’s not a child
 
 To je má hříšná žádostivost
 It is my sinful desire
-</pre>
+```
 
 
 ### The Carpenter
 
-<pre>
+```poetry
 TESAŘ
 The Carpenter
 
@@ -2457,7 +2457,7 @@ The night would answer him, shattering into a thousand mirrors
 
 Věčnost cizinci věčnost a vděčná láska
 Eternity to the stranger—eternity and grateful love
-</pre>
+```
 
 
 ## The Voice of the Great Multitude
@@ -2467,7 +2467,7 @@ Hlas Velikého Zástupu
 ### The Banner
 
 
-<pre>
+```poetry
 Korouhev
 The Banner
 
@@ -2674,12 +2674,12 @@ From that moment of stupor, the world will rise —
 
 Jen dýchá
 It only breathes
-</pre>
+```
 
 
 ### Passion
 
-<pre>
+```poetry
 Pašijová
 Passion
 
@@ -2752,13 +2752,13 @@ And prays that the Holy Virgin might soften
 
 Sinajské čelo otce Loevithana
 The Sinai brow of her father, Loevithan
-</pre>
+```
 
 
 ### Funeral
 
 
-<pre>
+```poetry
 Pohřeb
 Funeral
 
@@ -2799,8 +2799,8 @@ From the stable gate it runs after the funeral cart of the child
 Jak sestra sestry zemřelé
 As though a sister of the one who died
 
-            bez vůně svátosti bez křtu
-            Without the scent of sacrament, without baptism
+                        bez vůně svátosti bez křtu
+                        Without the scent of sacrament, without baptism
 
 Ke staré kostelní věži
 Toward the old church tower
@@ -2813,16 +2813,16 @@ At the low church door the beast flinches at the blows
 A kletba zbožných křesťanů co jich tu
 And the curse of devout Christians, those who here
 
-            před vchodem kleká
-            Kneel before the entrance
+                        před vchodem kleká
+                        Kneel before the entrance
 
 
 
 Hovado mlčky
 The beast silently
 
-            nadarmo pod svatým křížem se brání
-            In vain resists beneath the holy cross
+                        nadarmo pod svatým křížem se brání
+                        In vain resists beneath the holy cross
 
 A ke Kristu o pomoc hekà
 And groans to Christ for help
@@ -2849,24 +2849,24 @@ With a gaze that, for the last time, pleaded for mercy
 Kterou se z pozemské lásky
 Which from earthly love
 
-                     do temnot hrobových kladem
-                     We place into the darkness of graves
+                                          do temnot hrobových kladem
+                                          We place into the darkness of graves
 
 Té lásky vzpomeň jedenkrát
 Remember this love one day
 
-                  až bude od Krista Pána
-                  When from Christ the Lord there shall be
+                                    až bude od Krista Pána
+                                    When from Christ the Lord there shall be
 
 Tam v ráji souzen člověk nad hovadem
 In paradise the judgment of man above the beast
-</pre>
+```
 
 
 ### Consolation
 
 
-<pre>
+```poetry
 ÚTĚCHA
 
 CONSOLATION
@@ -2942,13 +2942,13 @@ That spilled blood could bear the color of blossoms
 
 Jak nějaká sedmibarevná mez
 Like some seven-colored boundary meadow
-</pre>
+```
 
 
 ### Wayside Chapel
 
 
-<pre>
+```poetry
 Kaplička na rozcestí
 The Wayside Chapel at the Crossroads
 
@@ -3050,13 +3050,13 @@ Only angels in the heights sang victorious
 
 Aleluja
 Alleluia
-</pre>
+```
 
 
 ### Falling Asleep
 
 
-<pre>
+```poetry
 USÍNÁNÍ
 Falling Asleep
 
@@ -3139,13 +3139,13 @@ A dreamy spider has wafted a web of peace
 
 — To je chřástal…
 — It is the crake…
-</pre>
+```
 
 
 ### Death
 
 
-<pre>
+```poetry
 SMRT
 J. Mahenovi
 
@@ -3357,5 +3357,5 @@ And let gentle rest accompany my memory
 
 Budu ta černá země
 I will be that black earth
-</pre>
+```
 
