@@ -8,6 +8,7 @@ Translated by Solace with Philosopherm
 
 ### Love 
 
+<pre>
 LÁSKA
 LOVE
 
@@ -68,7 +69,7 @@ On the hill, dusk grazes once more
 nebe je hvězdami poseté
 the sky is sown with stars
 
-⸻
+
 
 A večer pláče mlhou užaslý
 And evening weeps, astonished by the mist
@@ -84,10 +85,12 @@ Perhaps it will not return—
 
 Nevrátí
 It will not
+</pre>
 
 
 ### Podzim
 
+<pre>
 List
 Leaf
 
@@ -153,10 +156,12 @@ After leaf
 
 Opadává
 Falls
+</pre>
 
 ### Poutnik
 
 
+<pre>
 Poutník
 The Wanderer
 
@@ -172,7 +177,7 @@ Don’t follow me into the tavern, my dear
 Raději zemři Usneš pro můj sen
 Better to die—you’ll fall asleep inside my dream
 
-⸻
+
 
 A do mých vzpomínek též nechoď spat
 And don’t go to sleep inside my memories
@@ -186,7 +191,7 @@ Be my lighthouse instead, my dear
 Ten povzdych láká
 That sigh is calling
 
-⸻
+
 
 Snad až tě potkám cesta tmavá je
 Perhaps when I meet you, the road will be dark
@@ -200,7 +205,7 @@ Then I too will long to die
 Pro tvoje oči
 For your eyes
 
-⸻
+
 
 Vždyť ani smrt se nenavrátí
 For even death does not return
@@ -216,11 +221,12 @@ Be my lighthouse instead, my dear
 
 Oči jsou tmavé zemři milá má
 Eyes are dark—die, my dear
+</pre>
 
 
 ### Most
 
-
+<pre>
 MOST 
 Bridge
 
@@ -254,7 +260,7 @@ At the crossing of the bridge
 Ženy jsou do modra uplakány
 Women are tear-stained to the color of blue
 
-⸻
+
 
 Jdeš sklíčen poutníku a temná bárka svítí
 You walk despondent, wanderer, and a dark barque glows
@@ -262,7 +268,7 @@ You walk despondent, wanderer, and a dark barque glows
 Jen čas — a ty ji neuzříš
 Only time — and you will not see it
 
-⸻
+
 
 Shrbené mosty překovaná těla
 Hunched bridges, reforged bodies
@@ -301,7 +307,7 @@ Petrified candles
 Modlí se tiše za dušičky
 They pray quietly for the souls of the departed
 
-⸻
+
 
 A ty sám duši svou jsi vlnám zanechal
 And you yourself have left your soul to the waves
@@ -312,13 +318,14 @@ Until they fall beneath the water lily far away
 Opadne s nimi bezděčný tvůj žal
 Your unwitting grief will fall with them
 
-⸻
+
 
 Tak zvolna jako lásky polibek
 As gently as a kiss of love
 
 Tak jako hlas jenž zpívá
 As softly as a voice that sings
+</pre>
 
 
 ### The Beggar’s Palm
@@ -435,7 +442,7 @@ With a child no one kisses
 Jenom ten noční sníh
 Only the snow of night
 
-⸻
+
 
 Zvonečky hodin nehrají
 The little bells of the clock do not play
@@ -455,7 +462,7 @@ Hum a tune to themselves
 Z rozkymácených not
 From wavering notes
 
-⸻
+
 
 Ohnivé růže zemřely
 The fiery roses have died
@@ -939,7 +946,7 @@ He opened the orchard and went searching for a woman’s smile
 Jak vlažným vzduchem běží
 as it drifted softly on the warm breeze.
 
-⸻
+
 
 Zvířátka němá drobní pavouci
 Small voicelss animals, delicate spiders,
@@ -953,7 +960,7 @@ catching the cry of one who’s drowning
 A šerým dálkám mizí
 before it vanishes into the distant gray.
 
-⸻
+
 
 A tulák žebravý co vše už pochoval
 A beggar, who’s already buried everything he loved,
@@ -1000,7 +1007,7 @@ the stars
 Stříbrným očím napomáhají
 help their silver eyes shine.
 
-⸻
+
 
 Tato prostá píseň našich dětských lásek
 This simple song of our childhood loves
@@ -1020,7 +1027,7 @@ in the walnut tree.
 SOUCIT
 COMPASSION
 
-⸻
+
 
 Kravky jdou
 The cows walk
@@ -1046,7 +1053,7 @@ behind them
 Pes
 a dog
 
-⸻
+
 
 U potoka voda mělká
 by the brook, the water is shallow
@@ -1057,7 +1064,7 @@ shallow water
 Napojí volečky dva
 gives drink to two young calves
 
-⸻
+
 
 A jak stádo jde
 and as the herd moves on
@@ -1092,7 +1099,7 @@ a second one halts his drinking
 A běduje a běduje
 and he laments, and laments again
 
-⸻
+
 
 — Kam se ach poději
 — “Ah, where shall I go?”
@@ -1109,7 +1116,7 @@ Tam-li se poději
 Za mnou i pes
 “even the dog follows me”
 
-⸻
+
 
 Klekání zvonili
 They rang the evening bells
@@ -1120,7 +1127,7 @@ the little cows waded through
 Jen jedna ne.
 all but one.
 
-⸻
+
 
 Zaplakala
 She wept
@@ -1205,7 +1212,7 @@ Vykoupená zkrvavělá
 Redeemed and bloodstained
 
 
-⸻
+
 
 To že na mě ze všech nejmilejší
 That the dearest of all to me
@@ -1234,7 +1241,7 @@ and with a smoky-blue wedge, it leapt into flight —
 — Pět peněz
   “Five pennies.”
 
-⸻
+
 
 Brouku na mariánce
 To the beetle in the marjoram
@@ -1254,7 +1261,7 @@ and she wept:
 Dej mi klíče od lásky
   give me the keys to love.”
 
-⸻
+
 
 Až potom zlatohlav měl v šedomodrém klíně
 And later the golden-head lay in a smoky-blue lap
@@ -1299,7 +1306,7 @@ On a quiet morning, on a quiet morning
 Bolí mě hlava a srdce
 My head and heart both ache
 
-⸻
+
 
 Ne že bych byla tak rozplakaná
 Not that I’d been crying so hard
@@ -1386,7 +1393,7 @@ It’s beautiful in a world that’s done grieving
 K večeru o letnicích
 Toward evening on Pentecost.
 
-⸻
+
 
 Hoví se měkčeji na stráni měkčeji než prvního-máje
 It rests softer on the slope than on May Day itself,
@@ -1400,7 +1407,7 @@ Laundered whiteness falls slantwise from the sky into a lap,
 A tak se namane pohádka o trpaslících
 And so comes unbidden a fairy tale of dwarves.
 
-⸻
+
 
 Dítě si hrálo a hrálo s růžovou mušky na dlani
 A child played and played with a pink fly in her palm,
@@ -1436,7 +1443,7 @@ Better, oh better it would be to cast off
 všecko své přemáhání
 all your constraint
 
-⸻
+
 
 Prsy už na nic nemyslí
 Her breasts think of nothing now
@@ -1456,7 +1463,7 @@ To lounge, to fly and fly
 A přece jen spát
 And yet still to sleep
 
-⸻
+
 
 ňadra jsou sličný a dobyvatelský hrad
 The breasts are lovely and a conquering fortress
@@ -1473,12 +1480,12 @@ And their weaknesses
 Těmi se nejspíš otevře hladovým žíznivá zem
 With them, the thirsting earth opens to hunger
 
-⸻
+
 
 Ústy pak ostatní bezděky dopiješ
 With your lips, you’ll drink up the rest unwittingly
 
-⸻
+
 
 Oblačné nebe jak talíř plný kvasu
 The cloudy sky like a dish full of rising yeast
@@ -1510,7 +1517,7 @@ A stunning dream—
 Skutečnost
 Reality
 
-⸻
+
 
 Ruce spánek i sen
 Hands—sleep and dream
@@ -1524,7 +1531,7 @@ With a future that will dissolve—
 To je tvá duše
 That is your soul
 
-⸻
+
 
 Necítíš pampeliško?
 Don’t you feel it, dandelion?
@@ -1532,7 +1539,7 @@ Don’t you feel it, dandelion?
 Život je bezděčným pokynutím
 Life is an unconscious gesture
 
-⸻
+
 
 Sám sobě pokyneš
 You nod to yourself
@@ -1757,7 +1764,7 @@ Rarely do they ever join
 Není tu dlaždičů již hrubý kámen tlukou
 No pavers strike the rough stone here anymore
 
-⸻
+
 
 Cizinka na břehu a její oči jasné
 A foreign woman on the shore, her eyes so bright
@@ -1771,7 +1778,7 @@ With a hesitant, stubborn stare
 A je to nejemotivnější když táhlý večer hasne
 And it is most moving as the drawn-out evening fades
 
-⸻
+
 
 Zdlouhavé písně lodníků
 The drawn-out songs of sailors
@@ -1785,7 +1792,7 @@ Here, each day, a thousand dead paths intertwine
 A málokdy se spojují
 And rarely do they meet
 
-⸻
+
 
 Cizinec jakých na sta přijde sem
 Strangers by the hundreds come here
@@ -1808,7 +1815,7 @@ In the faintest weeping of a woman’s dead lips
 Do rukou jižním sluncem osmahlých
 Into hands browned by the southern sun
 
-⸻
+
 
 Ti dva jsou neznámí jak hvězdy sousední
 The two of them are strangers, like neighboring stars
@@ -1822,7 +1829,7 @@ The two of them are strangers, like neighboring stars
 Které se znají
 That know one another
 
-⸻
+
 
 Po mostě natažených rukou
 Across the bridge of outstretched arms
@@ -1833,7 +1840,7 @@ The past speaks with the future
 Srdce jak dlaždiči zde horké cesty tlukou
 Hearts like stonelayers beat out these burning roads
 
-⸻
+
 
 Cizinec zná jen vzácné poklady
 The stranger knows only rare treasures
@@ -1844,7 +1851,7 @@ That a dead woman carries in her eyes
 Z verandy na loď podél zahrady
 From the veranda to the ship along the garden’s edge
 
-⸻
+
 
 Nikdo by nevěřil jak hovořit oči mohou
 No one would believe how eyes can speak
@@ -1855,7 +1862,7 @@ Along a path of scattered sand
 nad duší spoutaných nohou
 above the soul of shackled feet
 
-⸻
+
 
 V kajutě lodi rozpoznal bys hluk
 In the ship’s cabin you’d discern the noise
@@ -1893,7 +1900,7 @@ And it was beautiful
 Na celou věčnost se rozloučiti
 To say farewell for all eternity
 
-⸻
+
 
 Té chvíle racek prudce zacelchtal
 At that moment a seagull cried out sharply
@@ -1913,7 +1920,7 @@ For one kiss from dead lips
 jež lásku neporodí
 That will never bear love
 
-⸻
+
 
 Cizinci rozloučení dal
 He gave the stranger a farewell
@@ -2158,7 +2165,7 @@ Just like outside the doors of a hospital
 Z úst děcka
 From a child’s mouth
 
-⸻
+
 
 Pak stiskne kliku zvolna otvírá
 Then he presses the handle, slowly opens the door
@@ -2178,7 +2185,7 @@ Which reaches here through the cooing of doves
 Z tesařské dílny
 From the carpenter’s workshop
 
-⸻
+
 
 Vysoký člověk v zástěře z tmavé kůže
 A tall man in an apron of dark leather
@@ -2195,7 +2202,7 @@ And urges him to eat
 Z dřevěné mísy již sem postavil
 From the wooden bowl he had already set down
 
-⸻
+
 
 Zatím co neznámý sedne
 While the stranger sits down
@@ -2209,7 +2216,7 @@ The master leaves to join two apprentices
 Pokročit v díle
 To continue the work
 
-⸻
+
 
 Nebozez hbité provrtává dřevo
 The gimlet swiftly bores the wood
@@ -2226,7 +2233,7 @@ And with a whining buzz it sometimes jerks upward
 Opylen dřevěnými pilinami
 Pollened with wooden shavings
 
-⸻
+
 
 A pilka tovaryše
 And the apprentice’s saw
@@ -2243,7 +2250,7 @@ Dancing with the shrillness of a flute
 Angelus
 Angelus (the prayer bell, or perhaps an invocation)
 
-⸻
+
 
 Těch nástrojů se mistr nedotkne
 The master does not touch those tools
@@ -2266,7 +2273,7 @@ He planes, striking down waves
 Těžké a sukovité
 Heavy and knotted
 
-⸻
+
 
 Když srovnal mistr povodeň bílého dřeva
 When the master had leveled the flood of pale wood
@@ -2286,7 +2293,7 @@ On the gentle path like a primrose
 Mějme se rádi
 Let us love one another
 
-⸻
+
 
 A znovu se rozpění dřevo
 And again the wood expands
@@ -2309,7 +2316,7 @@ That Christ walked after us
 A nesmočil ani bílých kotníků
 And did not even wet his white ankles
 
-⸻
+
 
 Všecky klády čekají
 All the logs are waiting
@@ -2323,7 +2330,7 @@ To be leveled beneath the arch of the bridge
 A přijati lásku
 And to receive love
 
-⸻
+
 
 S úžasem pohleděly
 They looked on in amazement
@@ -2340,7 +2347,7 @@ And how he tells the clocks
 Jež odbíjejí k spánku
 That strike toward sleep
 
-⸻
+
 
 — Je tomu dvacet let že sotva již vzpomínka zbude
 — It’s been twenty years and barely a memory remains
@@ -2367,7 +2374,7 @@ For he resembled dreams so closely
 A zjevení Gabriela
 And the vision of Gabriel
 
-⸻
+
 
 A tolik jsem musil trpěti druhý den ráno
 And how much I had to suffer the next morning
@@ -2387,7 +2394,7 @@ God took
 Mějme se rádi
 Let us love one another
 
-⸻
+
 
 A kdyby se obrátil člověk co tudy šel
 And if the man who passed through here were to turn back
@@ -2410,7 +2417,7 @@ And if he asked the wind
 Jaký je čas
 What time it is
 
-⸻
+
 
 Odpověděla by mu noc jež tisícem zrcadel praská
 The night would answer him, shattering into a thousand mirrors
@@ -2429,7 +2436,7 @@ Hlas Velikého Zástupu
 Korouhev
 The Banner
 
-⸻
+
 
 Kasárnická budova s otvory
 A barracks building, pocked with holes
@@ -2455,7 +2462,7 @@ They only breathe—as the whole world breathes
 Zleva i prava
 From left and from right
 
-⸻
+
 
 Také dívku možno uvidět
 You might also see a girl
@@ -2479,7 +2486,7 @@ V kasárnách dívka si ustele
 The girl makes her bed in the barracks
 
 
-⸻
+
 
 Byly by to dějiny
 It would be history
@@ -2496,7 +2503,7 @@ And the sick
 Mívají vykupitelské sny
 Dream of redemption
 
-⸻
+
 
 A pod lucernou zapovězené letáky číst
 And beneath the lantern, to read forbidden leaflets
@@ -2525,7 +2532,7 @@ The drunks breathe
 Jen dýchají
 They only breathe
 
-⸻
+
 
 Kostely nemilosrdně mlčí o vládě
 The churches mercilessly stay silent about the rule
@@ -2549,7 +2556,7 @@ O lásce sníš
 Yet you dream of love
 
 
-⸻
+
 
 Žena má v očích evangelium krásy
 A woman holds the gospel of beauty in her eyes
@@ -2566,7 +2573,7 @@ The Messiah sleeps within it
 Každé dítě je mesiášem
 Every child is a messiah
 
-⸻
+
 
 A kasárnická budova s otvory
 And the barracks building with its openings
@@ -2586,7 +2593,7 @@ Feet shuffle along
 A bolestně trubka vyhrává
 And the trumpet mourns in pain
 
-⸻
+
 
 Lidé
 People
@@ -2625,7 +2632,7 @@ All of us
 — Už víme…
 — We already know…
 
-⸻
+
 
 Té chvíle z mrákot vstane svět —
 From that moment of stupor, the world will rise —
@@ -2678,7 +2685,7 @@ Pious Bel, you know
 Že je i pro tebe tam domek připraven
 That even for you, a little house is prepared there
 
-⸻
+
 
 Dalekohled a lásky objetí
 A telescope and the embrace of love
@@ -2695,7 +2702,7 @@ Pious Bel, you know
 že ti z nich stvořil Rabi moudré anděly
 That from them the Rabbi made you wise angels
 
-⸻
+
 
 Zatím co tone v úzkostech židovský chrám
 While the Jewish temple sinks in anguish
@@ -2728,7 +2735,7 @@ A pair of horses carried from the village across the sunny spring grass
 Chuderu nebožtíka
 A poor little dead girl
 
-⸻
+
 
 Sirota již tu pacholek odváží na shnilé káře
 An orphan now carried by a farm boy on a rotting cart
@@ -2742,7 +2749,7 @@ Who each morning in the stable swept for the farmer
 Teleti žalovala
 And complained to the calf
 
-⸻
+
 
 Telátko strašně bečící žvýkajíc dusivou cestu
 The little calf, terribly bawling, chewing along the choking path
@@ -2759,7 +2766,7 @@ As though a sister of the one who died
 Ke staré kostelní věži
 Toward the old church tower
 
-⸻
+
 
 U nízkých dveří kostela zaskočí hovado rány
 At the low church door the beast flinches at the blows
@@ -2770,7 +2777,7 @@ And the curse of devout Christians, those who here
             před vchodem kleká
             Kneel before the entrance
 
-⸻
+
 
 Hovado mlčky
 The beast silently
@@ -2781,7 +2788,7 @@ The beast silently
 A ke Kristu o pomoc hekà
 And groans to Christ for help
 
-⸻
+
 
 To bylo na den kočiček o slavném zvonění právě
 It was on Pussy Willow Day, just as the bells were gloriously ringing
@@ -2795,7 +2802,7 @@ And the poor calf died of its own pain in the grass
 S pohledem který naposled o milosrdenství vzýval
 With a gaze that, for the last time, pleaded for mercy
 
-⸻
+
 
 — Pasačko není dosti muk jimiž by shořela rána
 — Little shepherdess, there is no torment harsh enough to burn the wound away
@@ -2835,7 +2842,7 @@ Why, even then, had you already, for all of us
 S mocnými tohoto světa nezučtoval
 Not yet reckoned with the mighty of this world?
 
-⸻
+
 
 Šlapu tě s milou každý den
 I tread upon you with my love every day
@@ -2849,7 +2856,7 @@ While the street gulps down my dream
 V špinavém křiku
 In filthy screaming
 
-⸻
+
 
 Či teprv nad časem doznáme
 Or only with time will we come to know
@@ -2863,7 +2870,7 @@ You whom everyone merely tramples, spits upon
 V omrzelosti z trampoty
 Out of weariness from hardship
 
-⸻
+
 
 Možná že zůstanem užaslý
 Perhaps we will remain astonished
@@ -2878,7 +2885,7 @@ Těch kteří na tobě hladem zahynuli
 For those who perished of hunger upon you
 
 
-⸻
+
 
 Až budeš duhou smířující světy
 When you become a rainbow reconciling worlds
@@ -3023,7 +3030,7 @@ And it jingled
 O vlídnou štěpnici pousínajících víček boží duhy
 Against the gentle orchard of dozing eyelids — God’s rainbow
 
-⸻
+
 
 Spanilé dítě si hrálo? Že hrálo? Už nehraje si
 Did the lovely child play? It played? It no longer plays
@@ -3043,7 +3050,7 @@ The magic swan holds in its beak
 od rajské brány klíček
 a little key to the gate of paradise
 
-⸻
+
 
 Že někdo prudce sténá? Spanilé dítě neslyší
 Someone groans in anguish? The lovely child does not hear
@@ -3063,7 +3070,7 @@ Thus her eyes are crossed in prayer, and her palm aches with pain
 Jež usne vždy stěží a ve výši
 Which only sleeps with difficulty — and in the heights
 
-⸻
+
 
 Že cestou do ráje sněží? Modlitby sjíždějí
 Does it snow on the road to heaven? The prayers are sliding down
@@ -3074,7 +3081,7 @@ along the braid
 Zasněný pavouk ovanul míruplnou tkáň
 A dreamy spider has wafted a web of peace
 
-⸻
+
 
 — Pověz dítě co je to za včely v ráji
 — Tell me, child, what bees are those in paradise
@@ -3113,7 +3120,7 @@ And I know that day will come
 Tož ať si jen kdykoliv přijde
 So let it come whenever it may
 
-⸻
+
 
 Po nebi
 Across the sky
@@ -3139,7 +3146,7 @@ All will be attentive like a mother’s breath
 A nic mě neporaní
 And nothing will wound me
 
-⸻
+
 
 To už snad budu jen snít
 Then perhaps I’ll only be dreaming
@@ -3187,7 +3194,7 @@ And from that moment I shall fall into a deep dream
 Daleko daleko až k svému dětství
 Far, far back to my childhood
 
-⸻
+
 
 Uvidím tatínka jak se sklání
 I will see my father leaning
@@ -3238,7 +3245,7 @@ I will see my father with a towel
 A budu tříleté dítě
 And I will be a three-year-old child
 
-⸻
+
 
 Tatínek půjde opatrně
 Father will walk carefully
@@ -3252,7 +3259,7 @@ He will walk so carefully
 A na rohu pojednou zůstane stát
 And suddenly he will stop at the corner
 
-⸻
+
 
 A mně se prudce zatají dech
 And I will suddenly lose my breath
@@ -3266,7 +3273,7 @@ I will hear a snap
 Tatínek zastřelí krysu
 Father shoots a rat
 
-⸻
+
 
 A jak znenadání
 And how, all of a sudden
@@ -3299,7 +3306,7 @@ Then descend, you rainy clouds from above
 A odpočinutí lehké mou paměť provázej
 And let gentle rest accompany my memory
 
-⸻
+
 
 Budu ta černá země
 I will be that black earth

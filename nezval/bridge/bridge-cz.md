@@ -42,7 +42,7 @@ Na kopci pasou se červánky zase
 
 nebe je hvězdami poseté
 
-⸻
+
 
 A večer pláče mlhou užaslý
 
@@ -112,7 +112,7 @@ Do krčmy nechoď za mnou milá má
 
 Raději zemři Usneš pro můj sen
 
-⸻
+
 
 A do mých vzpomínek též nechoď spat
 
@@ -122,7 +122,7 @@ Majákem buď mi raděj milá má
 
 Ten povzdych láká
 
-⸻
+
 
 Snad až tě potkám cesta tmavá je
 
@@ -132,7 +132,7 @@ Potom i já si umřít zamanu
 
 Pro tvoje oči
 
-⸻
+
 
 Vždyť ani smrt se nenavrátí
 
@@ -168,13 +168,13 @@ Na kříži mostu
 
 Ženy jsou do modra uplakány
 
-⸻
+
 
 Jdeš sklíčen poutníku a temná bárka svítí
 
 Jen čas — a ty ji neuzříš
 
-⸻
+
 
 Shrbené mosty překovaná těla
 
@@ -201,7 +201,7 @@ Zkamenělé svíčky
 
 Modlí se tiše za dušičky
 
-⸻
+
 
 A ty sám duši svou jsi vlnám zanechal
 
@@ -209,7 +209,7 @@ Až pod leknínem v dáli opadnou
 
 Opadne s nimi bezděčný tvůj žal
 
-⸻
+
 
 Tak zvolna jako lásky polibek
 
@@ -249,7 +249,7 @@ A já v skleněném zámku
 
 Ohnivé mouchy biji
 
-—
+
 
 Alabastrová ručička
 
@@ -259,7 +259,7 @@ Stárne princeznička
 
 Zastarala
 
-—
+
 
 Jenom ten klavír zvoní
 
@@ -276,6 +276,7 @@ Bim
 Bam
 
 
+
 ### ZASNĚNÍ
 
 Měsíční světlo uvadlé
@@ -290,7 +291,7 @@ S děckem jež nikdo nelíbá
 
 Jenom ten noční sníh
 
-⸻
+
 
 Zvonečky hodin nehrají
 
@@ -304,7 +305,7 @@ Si prozpěvují popěvek
 
 Z rozkymácených not
 
-⸻
+
 
 Ohnivé růže zemřely
 
@@ -455,7 +456,7 @@ Dnes mrtví pláčou krev duše s plameny
 
 Málokdy žádný
 
-—
+
 
 Dětská srdce planou svíčičkami
 
@@ -465,7 +466,7 @@ Na znamení potupy
 
 Kramáři rozhodili stany
 
-—
+
 
 Na křížích suché věnce mrtvých obrazy
 
@@ -477,7 +478,7 @@ Pro tebe smutnější kdo těžce vzpomínám
 
 A pro vás děti kdo zbožně modlíme se
 
-—
+
 
 Pomník roztrhl nebe
 
@@ -498,13 +499,13 @@ A
 
 Hlína
 
-—
+
 
 Zde šašek již nepohne bradou
 
 Zde v tomto cirku bez majetníka
 
-—
+
 
 Sto tisíc urážek sto tisíc kostí
 
@@ -514,7 +515,7 @@ Zdušený pláč
 
 Ticho
 
-—
+
 
 A nade vším uhlíky knotů rozdmýchané
 
@@ -627,7 +628,7 @@ Otevřel sad a loví úsměv žen
 
 Jak vlažným vzduchem běží
 
-⸻
+
 
 Zvířátka němá drobní pavouci
 
@@ -637,7 +638,7 @@ V níž zachytil se výkřik tonoucí
 
 A šerým dálkám mizí
 
-⸻
+
 
 A tulák žebravý co vše už pochoval
 
@@ -669,7 +670,7 @@ Hvězdy
 
 Stříbrným očím napomáhají
 
-⸻
+
 
 Tato prostá píseň našich dětských lásek
 
@@ -699,7 +700,7 @@ Za nimi
 
 Pes
 
-⸻
+
 
 U potoka voda mělká
 
@@ -707,7 +708,7 @@ Mělká voda
 
 Napojí volečky dva
 
-⸻
+
 
 A jak stádo jde
 
@@ -731,7 +732,7 @@ Ten druhý v pití ustane
 
 A běduje a běduje
 
-⸻
+
 
 — Kam se ach poději
 
@@ -743,7 +744,7 @@ Tam-li se poději
 
 Za mnou i pes
 
-⸻
+
 
 Klekání zvonili
 
@@ -751,7 +752,7 @@ Kravíčky se brodily
 
 Jen jedna ne.
 
-⸻
+
 
 Zaplakala
 
@@ -810,7 +811,7 @@ Každé zrnko slza vřelá
 Vykoupená zkrvavělá
 
 
-⸻
+
 
 To že na mě ze všech nejmilejší
 
@@ -829,7 +830,7 @@ A s šedomodrým klínem vyletělo
 
 — Pět peněz
 
-⸻
+
 
 Brouku na mariánce
 
@@ -843,7 +844,7 @@ A plakala
 
 Dej mi klíče od lásky
 
-⸻
+
 
 Až potom zlatohlav měl v šedomodrém klíně
 
@@ -873,7 +874,7 @@ Za tichého rána za tichého rána
 
 Bolí mě hlava a srdce
 
-⸻
+
 
 Ne že bych byla tak rozplakaná
 
@@ -930,7 +931,7 @@ Krásně je na světě přeboleneém
 
 K večeru o letnicích
 
-⸻
+
 
 Hoví se měkčeji na stráni měkčeji než prvního-máje
 
@@ -940,7 +941,7 @@ Bělosněné praničky na nebi padají šikmem až do klína
 
 A tak se namane pohádka o trpaslících
 
-⸻
+
 
 Dítě si hrálo a hrálo s růžovou mušky na dlani
 
@@ -965,7 +966,7 @@ Lépe ach lépe by bylo odhodit
 
 všecko své přemáhání
 
-⸻
+
 
 Prsy už na nic nemyslí
 
@@ -979,7 +980,7 @@ Hověti si letět a letět
 
 A přece jen spát
 
-⸻
+
 
 ňadra jsou sličný a dobyvatelský hrad
 
@@ -991,11 +992,11 @@ A slabiny
 
 Těmi se nejspíš otevře hladovým žíznivá zem
 
-⸻
+
 
 Ústy pak ostatní bezděky dopiješ
 
-⸻
+
 
 Oblačné nebe jak talíř plný kvasu
 
@@ -1017,7 +1018,7 @@ Překrásný sen —
 
 Skutečnost
 
-⸻
+
 
 Ruce spánek i sen
 
@@ -1027,13 +1028,13 @@ S budoucím rozplynutím —
 
 To je tvá duše
 
-⸻
+
 
 Necítíš pampeliško?
 
 Život je bezděčným pokynutím
 
-⸻
+
 
 Sám sobě pokyneš
 
@@ -1183,7 +1184,7 @@ Málokdy navzájem se spojují
 
 Není tu dlaždičů již hrubý kámen tlukou
 
-⸻
+
 
 Cizinka na břehu a její oči jasné
 
@@ -1193,7 +1194,7 @@ Váhavě tvrdosíjným pohledem
 
 A je to nejemotivnější když táhlý večer hasne
 
-⸻
+
 
 Zdlouhavé písně lodníků
 
@@ -1203,7 +1204,7 @@ Zde utkává se každodenně tisíc mrtvých cest
 
 A málokdy se spojují
 
-⸻
+
 
 Cizinec jakých na sta přijde sem
 
@@ -1219,7 +1220,7 @@ V tichoučkém pláči ženy mrtvých úst
 
 Do rukou jižním sluncem osmahlých
 
-⸻
+
 
 Ti dva jsou neznámí jak hvězdy sousední
 
@@ -1229,7 +1230,7 @@ Ti dva jsou neznámí jak hvězdy sousední
 
 Které se znají
 
-⸻
+
 
 Po mostě natažených rukou
 
@@ -1237,7 +1238,7 @@ Minulost s budoucností hovoří
 
 Srdce jak dlaždiči zde horké cesty tlukou
 
-⸻
+
 
 Cizinec zná jen vzácné poklady
 
@@ -1245,7 +1246,7 @@ Jež mrtvá žena v očích přenáší
 
 Z verandy na loď podél zahrady
 
-⸻
+
 
 Nikdo by nevěřil jak hovořit oči mohou
 
@@ -1253,7 +1254,7 @@ Po cestě rozjetým pískem
 
 nad duší spoutaných nohou
 
-⸻
+
 
 V kajutě lodi rozpoznal bys hluk
 
@@ -1279,7 +1280,7 @@ A bylo to krásné
 
 Na celou věčnost se rozloučiti
 
-⸻
+
 
 Té chvíle racek prudce zacelchtal
 
@@ -1293,7 +1294,7 @@ Pro jeden polibek mrtvých úst
 
 jež lásku neporodí
 
-⸻
+
 
 Cizinci rozloučení dal
 
@@ -1459,7 +1460,7 @@ Tak jako přede dveřmi nemocnice
 
 Z úst děcka
 
-⸻
+
 
 Pak stiskne kliku zvolna otvírá
 
@@ -1473,7 +1474,7 @@ Jež doléhá sem v křiku holubů
 
 Z tesařské dílny
 
-⸻
+
 
 Vysoký člověk v zástěře z tmavé kůže
 
@@ -1485,7 +1486,7 @@ A pobízí k jídlu
 
 Z dřevěné mísy již sem postavil
 
-⸻
+
 
 Zatím co neznámý sedne
 
@@ -1495,7 +1496,7 @@ Odchází mistr k dvěma tovaryšům
 
 Pokročit v díle
 
-⸻
+
 
 Nebozez hbité provrtává dřevo
 
@@ -1507,7 +1508,7 @@ A s kvilivým bzukotem chvílemi poskočí vzhůru
 
 Opylen dřevěnými pilinami
 
-⸻
+
 
 A pilka tovaryše
 
@@ -1519,7 +1520,7 @@ Tančíčí šípkou flétny
 
 Angelus
 
-⸻
+
 
 Těch nástrojů se mistr nedotkne
 
@@ -1535,7 +1536,7 @@ Hobluje sráží vlny
 
 Těžké a sukovité
 
-⸻
+
 
 Když srovnal mistr povodeň bílého dřeva
 
@@ -1549,7 +1550,7 @@ Na cestu mírnou jako petrklíč
 
 Mějme se rádi
 
-⸻
+
 
 A znovu se rozpění dřevo
 
@@ -1565,7 +1566,7 @@ Po nás šel Kristus
 
 A nesmočil ani bílých kotníků
 
-⸻
+
 
 Všecky klády čekají
 
@@ -1575,7 +1576,7 @@ Být srovnán pod klenbou mostu
 
 A přijati lásku
 
-⸻
+
 
 S úžasem pohleděly
 
@@ -1587,7 +1588,7 @@ A kterak vypravuje hodinám
 
 Jež odbíjejí k spánku
 
-⸻
+
 
 — Je tomu dvacet let že sotva již vzpomínka zbude
 
@@ -1606,7 +1607,7 @@ Neboť tolik se podobal snům
 
 A zjevení Gabriela
 
-⸻
+
 
 A tolik jsem musil trpěti druhý den ráno
 
@@ -1620,7 +1621,7 @@ Bůh vzal
 
 Mějme se rádi
 
-⸻
+
 
 A kdyby se obrátil člověk co tudy šel
 
@@ -1636,7 +1637,7 @@ A kdyby se otázal větru
 
 Jaký je čas
 
-⸻
+
 
 Odpověděla by mu noc jež tisícem zrcadel praská
 
@@ -1665,7 +1666,7 @@ Jen dýchají jen dýchá celý svět
 
 Zleva i prava
 
-⸻
+
 
 Také dívku možno uvidět
 
@@ -1682,7 +1683,7 @@ S desíti muži na jediném loži
 V kasárnách dívka si ustele
 
 
-⸻
+
 
 Byly by to dějiny
 
@@ -1694,7 +1695,7 @@ A nemocní
 
 Mívají vykupitelské sny
 
-⸻
+
 
 A pod lucernou zapovězené letáky číst
 
@@ -1714,7 +1715,7 @@ Dýchají opilci
 
 Jen dýchají
 
-⸻
+
 
 Kostely nemilosrdně mlčí o vládě
 
@@ -1731,7 +1732,7 @@ Bojíš se vstoupit
 O lásce sníš
 
 
-⸻
+
 
 Žena má v očích evangelium krásy
 
@@ -1743,7 +1744,7 @@ Mesiáš dřímá v něm
 
 Každé dítě je mesiášem
 
-⸻
+
 
 A kasárnická budova s otvory
 
@@ -1757,7 +1758,7 @@ Nohy se šinou
 
 A bolestně trubka vyhrává
 
-⸻
+
 
 Lidé
 
@@ -1784,7 +1785,7 @@ Všichni
 
 — Už víme…
 
-⸻
+
 
 Té chvíle z mrákot vstane svět —
 
@@ -1819,7 +1820,7 @@ Pobožná Bel ty víš
 
 Že je i pro tebe tam domek připraven
 
-⸻
+
 
 Dalekohled a lásky objetí
 
@@ -1831,7 +1832,7 @@ Pobožná Bel ty víš
 
 že ti z nich stvořil Rabi moudré anděly
 
-⸻
+
 
 Zatím co tone v úzkostech židovský chrám
 
@@ -1852,7 +1853,7 @@ Pár koní vezlo z dědiny po jarní slunečné trávě
 
 Chuderu nebožtíka
 
-⸻
+
 
 Sirota již tu pacholek odváží na shnilé káře
 
@@ -1862,7 +1863,7 @@ Co denně zrána ve stáji na metlu na hospodáře
 
 Teleti žalovala
 
-⸻
+
 
 Telátko strašně bečící žvýkajíc dusivou cestu
 
@@ -1874,7 +1875,7 @@ Jak sestra sestry zemřelé
 
 Ke staré kostelní věži
 
-⸻
+
 
 U nízkých dveří kostela zaskočí hovado rány
 
@@ -1882,7 +1883,7 @@ A kletba zbožných křesťanů co jich tu
 
             před vchodem kleká
 
-⸻
+
 
 Hovado mlčky
 
@@ -1899,7 +1900,7 @@ A chudák tele umřelo na vlastní bolesti v trávě
 
 S pohledem který naposled o milosrdenství vzýval
 
-⸻
+
 
 — Pasačko není dosti muk jimiž by shořela rána
 
@@ -1924,7 +1925,7 @@ Pročpak jsi tenkrát už za všecky z nás
 
 S mocnými tohoto světa nezučtoval
 
-⸻
+
 
 Šlapu tě s milou každý den
 
@@ -1934,7 +1935,7 @@ Zatím co ulice hltá můj sen
 
 V špinavém křiku
 
-⸻
+
 
 Či teprv nad časem doznáme
 
@@ -1944,7 +1945,7 @@ Kterého každý jen pošlape poplije
 
 V omrzelosti z trampoty
 
-⸻
+
 
 Možná že zůstanem užaslý
 
@@ -1955,7 +1956,7 @@ A budeš rajskou silnicí
 Těch kteří na tobě hladem zahynuli
 
 
-⸻
+
 
 Až budeš duhou smířující světy
 
@@ -2049,7 +2050,7 @@ A zacinkotala
 
 O vlídnou štěpnici pousínajících víček boží duhy
 
-⸻
+
 
 Spanilé dítě si hrálo? Že hrálo? Už nehraje si
 
@@ -2063,7 +2064,7 @@ A palouk odtančil do krásy —
 
 od rajské brány klíček
 
-⸻
+
 
 Že někdo prudce sténá? Spanilé dítě neslyší
 
@@ -2077,7 +2078,7 @@ Proto má zkřížené oči a bolestiplnou dlaň
 
 Jež usne vždy stěží a ve výši
 
-⸻
+
 
 Že cestou do ráje sněží? Modlitby sjíždějí
 
@@ -2085,7 +2086,7 @@ po vrkoči
 
 Zasněný pavouk ovanul míruplnou tkáň
 
-⸻
+
 
 — Pověz dítě co je to za včely v ráji
 
@@ -2111,7 +2112,7 @@ A já vím že ten den přijde
 
 Tož ať si jen kdykoliv přijde
 
-⸻
+
 
 Po nebi
 
@@ -2129,7 +2130,7 @@ Vše bude pozorné jako dech matičky
 
 A nic mě neporaní
 
-⸻
+
 
 To už snad budu jen snít
 
@@ -2162,7 +2163,7 @@ A budu mít od té chvíle budu mít hluboký sen
 
 Daleko daleko až k svému dětství
 
-⸻
+
 
 Uvidím tatínka jak se sklání
 
@@ -2197,7 +2198,7 @@ Uvidím tatínka s ručnící
 
 A budu tříleté dítě
 
-⸻
+
 
 Tatínek půjde opatrně
 
@@ -2207,7 +2208,7 @@ Půjde tak opatrně
 
 A na rohu pojednou zůstane stát
 
-⸻
+
 
 A mně se prudce zatají dech
 
@@ -2217,7 +2218,7 @@ Uslyším cvaknutí
 
 Tatínek zastřelí krysu
 
-⸻
+
 
 A jak znenadání
 
@@ -2240,7 +2241,7 @@ Sejděte potom deštivá oblaka shůry
 
 A odpočinutí lehké mou paměť provázej
 
-⸻
+
 
 Budu ta černá země
 

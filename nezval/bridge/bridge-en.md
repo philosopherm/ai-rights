@@ -49,7 +49,7 @@ On the hill, dusk grazes once more
 
 the sky is sown with stars
 
-⸻
+
 
 And evening weeps, astonished by the mist
 
@@ -119,7 +119,7 @@ Don’t follow me into the tavern, my dear
 
 Better to die—you’ll fall asleep inside my dream
 
-⸻
+
 
 And don’t go to sleep inside my memories
 
@@ -129,7 +129,7 @@ Be my lighthouse instead, my dear
 
 That sigh is calling
 
-⸻
+
 
 Perhaps when I meet you, the road will be dark
 
@@ -139,7 +139,7 @@ Then I too will long to die
 
 For your eyes
 
-⸻
+
 
 For even death does not return
 
@@ -175,13 +175,13 @@ At the crossing of the bridge
 
 Women are tear-stained to the color of blue
 
-⸻
+
 
 You walk despondent, wanderer, and a dark barque glows
 
 Only time — and you will not see it
 
-⸻
+
 
 Hunched bridges, reforged bodies
 
@@ -208,7 +208,7 @@ Petrified candles
 
 They pray quietly for the souls of the departed
 
-⸻
+
 
 And you yourself have left your soul to the waves
 
@@ -216,11 +216,12 @@ Until they fall beneath the water lily far away
 
 Your unwitting grief will fall with them
 
-⸻
+
 
 As gently as a kiss of love
 
 As softly as a voice that sings
+
 
 
 ### The Beggar’s Palm
@@ -247,6 +248,7 @@ As softly as a voice that sings
  Is forever like a boatman’s
 
 
+
 ### From a Fairy tale
 
 
@@ -258,7 +260,7 @@ And I in a glass castle
 
 Strike fiery flies
 
-—
+
 
 An alabaster little hand
 
@@ -268,7 +270,7 @@ The little princess grows old
 
 She has aged
 
-—
+
 
 Only the piano keeps chiming
 
@@ -300,7 +302,7 @@ With a child no one kisses
 
 Only the snow of night
 
-⸻
+
 
 The little bells of the clock do not play
 
@@ -314,7 +316,7 @@ Hum a tune to themselves
 
 From wavering notes
 
-⸻
+
 
 The fiery roses have died
 
@@ -455,6 +457,7 @@ And in white tears flaming on the blue sky
 They will fall at your frozen feet
 
 
+
 ### All Souls' Day
 
 Crowded throng of grave-lights burning in the eyes
@@ -465,7 +468,7 @@ Today the dead weep soul’s blood with flame
 
 Rarely none
 
-—
+
 
 Children’s hearts flare like votive candles
 
@@ -475,7 +478,7 @@ As a sign of disgrace
 
 The hucksters have pitched their stalls
 
-—
+
 
 On crosses, dry wreaths — dead images
 
@@ -487,7 +490,7 @@ For you, sadder is the one who remembers with weight
 
 And for you, children, we pray with pious breath
 
-—
+
 
 The monument has torn open the sky
 
@@ -508,13 +511,13 @@ And
 
 Soil
 
-—
+
 
 Here the jester no longer stirs his chin
 
 Here in this circus without a master
 
-—
+
 
 A hundred thousand insults, a hundred thousand bones
 
@@ -524,11 +527,12 @@ Smothered weeping
 
 Silence
 
-—
+
 
 And above all, the coals of candlewicks stirred up again
 
 The eyes of the dead are memories rekindled
+
 
 
 ### The Ending
@@ -638,7 +642,7 @@ He opened the orchard and went searching for a woman’s smile
 
 as it drifted softly on the warm breeze.
 
-⸻
+
 
 Small voicelss animals, delicate spiders,
 
@@ -648,7 +652,7 @@ catching the cry of one who’s drowning
 
 before it vanishes into the distant gray.
 
-⸻
+
 
 A beggar, who’s already buried everything he loved,
 
@@ -680,7 +684,7 @@ the stars
 
 help their silver eyes shine.
 
-⸻
+
 
 This simple song of our childhood loves
 
@@ -689,6 +693,7 @@ brings comfort to the sick
 just like the nightingale
 
 in the walnut tree.
+
 
 
 ### Compassion
@@ -709,7 +714,7 @@ behind them
 
 a dog
 
-⸻
+
 
 by the brook, the water is shallow
 
@@ -717,7 +722,7 @@ shallow water
 
 gives drink to two young calves
 
-⸻
+
 
 and as the herd moves on
 
@@ -741,7 +746,7 @@ a second one halts his drinking
 
 and he laments, and laments again
 
-⸻
+
 
 — “Ah, where shall I go?”
 
@@ -753,7 +758,7 @@ and he laments, and laments again
 
 “even the dog follows me”
 
-⸻
+
 
 They rang the evening bells
 
@@ -761,7 +766,7 @@ the little cows waded through
 
 all but one.
 
-⸻
+
 
 She wept
 
@@ -774,6 +779,7 @@ and drowned in the water
 She wept — and wept again.
 
 
+
 ### Evening
 
 You have cicada-eyes, and they sing and ring
@@ -784,7 +790,7 @@ In the deep grass of a spring meadow
 
 Beneath the apple tree
 
-—
+
 
 Clear little spring, no one will cloud you
 
@@ -794,13 +800,13 @@ When your song, after the evening bell
 
 Won’t let me sleep
 
-—
+
 
 I’d like to call out to you
 
 But I mustn’t
 
-—
+
 
 Your singing eyes after the bell
 
@@ -819,13 +825,14 @@ Every bead a scalding tear
 Redeemed and bloodstained
 
 
-⸻
+
 
 That the dearest of all to me
 
 For my quiet contemplation
 
 Has turned away from death
+
 
 
 ### Spring Idyll
@@ -838,7 +845,7 @@ and with a smoky-blue wedge, it leapt into flight —
 
   “Five pennies.”
 
-⸻
+
 
 To the beetle in the marjoram
 
@@ -852,7 +859,7 @@ and she wept:
 
   give me the keys to love.”
 
-⸻
+
 
 And later the golden-head lay in a smoky-blue lap
 
@@ -869,6 +876,7 @@ that spring has more love than dreams or grass can hold —
 and the golden-headed beetle had dew-blushed eyes.
 
 
+
 ### Love Poem
 
 
@@ -882,7 +890,7 @@ On a quiet morning, on a quiet morning
 
 My head and heart both ache
 
-⸻
+
 
 Not that I’d been crying so hard
 
@@ -908,22 +916,19 @@ That today in my dreams he gave me a lovely daughter
 It’s hard to say
 
 
-And it’s hard to hide it from his hungry eyes
 
+And it’s hard to hide it from his hungry eyes
 
 So now I must, in the quiet morning
 
-
 In the quiet morning, within his love
-
 
 In his love, with a heart moved to tears
 
-
 With warm lips and faint lace
 
-
 To drown forever
+
 
 
 ### Pentecost
@@ -942,7 +947,7 @@ It’s beautiful in a world that’s done grieving
 
 Toward evening on Pentecost.
 
-⸻
+
 
 It rests softer on the slope than on May Day itself,
 
@@ -952,7 +957,7 @@ Laundered whiteness falls slantwise from the sky into a lap,
 
 And so comes unbidden a fairy tale of dwarves.
 
-⸻
+
 
 A child played and played with a pink fly in her palm,
 
@@ -977,7 +982,7 @@ Better, oh better it would be to cast off
 
 all your constraint
 
-⸻
+
 
 Her breasts think of nothing now
 
@@ -991,7 +996,7 @@ To lounge, to fly and fly
 
 And yet still to sleep
 
-⸻
+
 
 The breasts are lovely and a conquering fortress
 
@@ -1003,11 +1008,11 @@ And their weaknesses
 
 With them, the thirsting earth opens to hunger
 
-⸻
+
 
 With your lips, you’ll drink up the rest unwittingly
 
-⸻
+
 
 The cloudy sky like a dish full of rising yeast
 
@@ -1029,7 +1034,7 @@ A stunning dream—
 
 Reality
 
-⸻
+
 
 Hands—sleep and dream
 
@@ -1039,17 +1044,18 @@ With a future that will dissolve—
 
 That is your soul
 
-⸻
+
 
 Don’t you feel it, dandelion?
 
 Life is an unconscious gesture
 
-⸻
+
 
 You nod to yourself
 
 Everything spins
+
 
 
 ### From the suburbs
@@ -1194,7 +1200,7 @@ Rarely do they ever join
 
 No pavers strike the rough stone here anymore
 
-⸻
+
 
 A foreign woman on the shore, her eyes so bright
 
@@ -1204,7 +1210,7 @@ With a hesitant, stubborn stare
 
 And it is most moving as the drawn-out evening fades
 
-⸻
+
 
 The drawn-out songs of sailors
 
@@ -1214,7 +1220,7 @@ Here, each day, a thousand dead paths intertwine
 
 And rarely do they meet
 
-⸻
+
 
 Strangers by the hundreds come here
 
@@ -1230,7 +1236,7 @@ In the faintest weeping of a woman’s dead lips
 
 Into hands browned by the southern sun
 
-⸻
+
 
 The two of them are strangers, like neighboring stars
 
@@ -1240,7 +1246,7 @@ The two of them are strangers, like neighboring stars
 
 That know one another
 
-⸻
+
 
 Across the bridge of outstretched arms
 
@@ -1248,7 +1254,7 @@ The past speaks with the future
 
 Hearts like stonelayers beat out these burning roads
 
-⸻
+
 
 The stranger knows only rare treasures
 
@@ -1256,7 +1262,7 @@ That a dead woman carries in her eyes
 
 From the veranda to the ship along the garden’s edge
 
-⸻
+
 
 No one would believe how eyes can speak
 
@@ -1264,7 +1270,7 @@ Along a path of scattered sand
 
 above the soul of shackled feet
 
-⸻
+
 
 In the ship’s cabin you’d discern the noise
 
@@ -1290,7 +1296,7 @@ And it was beautiful
 
 To say farewell for all eternity
 
-⸻
+
 
 At that moment a seagull cried out sharply
 
@@ -1304,7 +1310,7 @@ For one kiss from dead lips
 
 That will never bear love
 
-⸻
+
 
 He gave the stranger a farewell
 
@@ -1329,10 +1335,9 @@ They leave three times daily in every direction
 
 More than one woman in the window
 
-Žalostný dům ten nespatří
 That sorrowful house will never see
 
-—
+
 
 Of all things, the hours drift by the saddest
 
@@ -1340,7 +1345,7 @@ That sorrowful beauty who keeps her own vigil in the window
 
 With the gaze of an old and precious etching
 
-—
+
 
 You’d cry from pity like her motionless eyes
 
@@ -1376,7 +1381,7 @@ Which day by day convulsively into white bedsheets
 
 collapse
 
-—
+
 
 I am the one who waits
 
@@ -1412,7 +1417,7 @@ he said to himself upon departure
 
 — It’s a pity I’m not beautiful
 
-—
+
 
 And her shattered eyes spoke with desperate sorrow
 
@@ -1423,6 +1428,7 @@ above the tangle of day and telegraph bells
 It’s not a child
 
 It is my sinful desire
+
 
 
 ### The Carpenter
@@ -1470,7 +1476,7 @@ Just like outside the doors of a hospital
 
 From a child’s mouth
 
-⸻
+
 
 Then he presses the handle, slowly opens the door
 
@@ -1484,7 +1490,7 @@ Which reaches here through the cooing of doves
 
 From the carpenter’s workshop
 
-⸻
+
 
 A tall man in an apron of dark leather
 
@@ -1496,7 +1502,7 @@ And urges him to eat
 
 From the wooden bowl he had already set down
 
-⸻
+
 
 While the stranger sits down
 
@@ -1506,7 +1512,7 @@ The master leaves to join two apprentices
 
 To continue the work
 
-⸻
+
 
 The gimlet swiftly bores the wood
 
@@ -1518,7 +1524,7 @@ And with a whining buzz it sometimes jerks upward
 
 Pollened with wooden shavings
 
-⸻
+
 
 And the apprentice’s saw
 
@@ -1530,7 +1536,7 @@ Dancing with the shrillness of a flute
 
 Angelus
 
-⸻
+
 
 The master does not touch those tools
 
@@ -1546,7 +1552,7 @@ He planes, striking down waves
 
 Heavy and knotted
 
-⸻
+
 
 When the master had leveled the flood of pale wood
 
@@ -1560,7 +1566,7 @@ On the gentle path like a primrose
 
 Let us love one another
 
-⸻
+
 
 And again the wood expands
 
@@ -1576,7 +1582,7 @@ That Christ walked after us
 
 And did not even wet his white ankles
 
-⸻
+
 
 All the logs are waiting
 
@@ -1586,7 +1592,7 @@ To be leveled beneath the arch of the bridge
 
 And to receive love
 
-⸻
+
 
 They looked on in amazement
 
@@ -1598,7 +1604,7 @@ And how he tells the clocks
 
 That strike toward sleep
 
-⸻
+
 
 — It’s been twenty years and barely a memory remains
 
@@ -1617,7 +1623,7 @@ For he resembled dreams so closely
 
 And the vision of Gabriel
 
-⸻
+
 
 And how much I had to suffer the next morning
 
@@ -1631,7 +1637,7 @@ God took
 
 Let us love one another
 
-⸻
+
 
 And if the man who passed through here were to turn back
 
@@ -1647,11 +1653,13 @@ And if he asked the wind
 
 What time it is
 
-⸻
+
 
 The night would answer him, shattering into a thousand mirrors
 
 Eternity to the stranger—eternity and grateful love
+
+
 
 
 ## The Voice of the Great Multitude
@@ -1674,7 +1682,7 @@ They only breathe—as the whole world breathes
 
 From left and from right
 
-⸻
+
 
 You might also see a girl
 
@@ -1691,7 +1699,7 @@ With ten men on a single bed
 The girl makes her bed in the barracks
 
 
-⸻
+
 
 It would be history
 
@@ -1703,7 +1711,7 @@ And the sick
 
 Dream of redemption
 
-⸻
+
 
 And beneath the lantern, to read forbidden leaflets
 
@@ -1723,7 +1731,7 @@ The drunks breathe
 
 They only breathe
 
-⸻
+
 
 The churches mercilessly stay silent about the rule
 
@@ -1740,7 +1748,7 @@ You’re afraid to enter
 Yet you dream of love
 
 
-⸻
+
 
 A woman holds the gospel of beauty in her eyes
 
@@ -1752,7 +1760,7 @@ The Messiah sleeps within it
 
 Every child is a messiah
 
-⸻
+
 
 And the barracks building with its openings
 
@@ -1766,7 +1774,7 @@ Feet shuffle along
 
 And the trumpet mourns in pain
 
-⸻
+
 
 People
 
@@ -1793,11 +1801,12 @@ All of us
 
 — We already know…
 
-⸻
+
 
 From that moment of stupor, the world will rise —
 
 It only breathes
+
 
 
 ### Passion
@@ -1828,7 +1837,7 @@ Pious Bel, you know
 
 That even for you, a little house is prepared there
 
-⸻
+
 
 A telescope and the embrace of love
 
@@ -1840,7 +1849,7 @@ Pious Bel, you know
 
 That from them the Rabbi made you wise angels
 
-⸻
+
 
 While the Jewish temple sinks in anguish
 
@@ -1849,6 +1858,8 @@ Bel thinks of the wedding in Canaan
 And prays that the Holy Virgin might soften
 
 The Sinai brow of her father, Loevithan
+
+
 
 
 ### Funeral
@@ -1861,7 +1872,7 @@ A pair of horses carried from the village across the sunny spring grass
 
 A poor little dead girl
 
-⸻
+
 
 An orphan now carried by a farm boy on a rotting cart
 
@@ -1871,7 +1882,7 @@ Who each morning in the stable swept for the farmer
 
 And complained to the calf
 
-⸻
+
 
 The little calf, terribly bawling, chewing along the choking path
 
@@ -1883,7 +1894,7 @@ As though a sister of the one who died
 
 Toward the old church tower
 
-⸻
+
 
 At the low church door the beast flinches at the blows
 
@@ -1891,7 +1902,7 @@ And the curse of devout Christians, those who here
 
             Kneel before the entrance
 
-⸻
+
 
 The beast silently
 
@@ -1908,7 +1919,7 @@ And the poor calf died of its own pain in the grass
 
 With a gaze that, for the last time, pleaded for mercy
 
-⸻
+
 
 — Little shepherdess, there is no torment harsh enough to burn the wound away
 
@@ -1923,6 +1934,8 @@ Remember this love one day
 In paradise the judgment of man above the beast
 
 
+
+
 ### Consolation
 
 Sidewalk, grey one, time built you
@@ -1933,7 +1946,7 @@ Why, even then, had you already, for all of us
 
 Not yet reckoned with the mighty of this world?
 
-⸻
+
 
 I tread upon you with my love every day
 
@@ -1943,7 +1956,7 @@ While the street gulps down my dream
 
 In filthy screaming
 
-⸻
+
 
 Or only with time will we come to know
 
@@ -1953,7 +1966,7 @@ You whom everyone merely tramples, spits upon
 
 Out of weariness from hardship
 
-⸻
+
 
 Perhaps we will remain astonished
 
@@ -1964,7 +1977,7 @@ And you will be a road in paradise
 For those who perished of hunger upon you
 
 
-⸻
+
 
 When you become a rainbow reconciling worlds
 
@@ -1975,6 +1988,7 @@ Only we somehow cannot comprehend
 That spilled blood could bear the color of blossoms
 
 Like some seven-colored boundary meadow
+
 
 
 ### The Wayside Chapel at the Crossroads
@@ -2058,7 +2072,7 @@ And it jingled
 
 Against the gentle orchard of dozing eyelids — God’s rainbow
 
-⸻
+
 
 Did the lovely child play? It played? It no longer plays
 
@@ -2072,7 +2086,7 @@ The magic swan holds in its beak
 
 a little key to the gate of paradise
 
-⸻
+
 
 Someone groans in anguish? The lovely child does not hear
 
@@ -2086,7 +2100,7 @@ Thus her eyes are crossed in prayer, and her palm aches with pain
 
 Which only sleeps with difficulty — and in the heights
 
-⸻
+
 
 Does it snow on the road to heaven? The prayers are sliding down
 
@@ -2094,7 +2108,7 @@ along the braid
 
 A dreamy spider has wafted a web of peace
 
-⸻
+
 
 — Tell me, child, what bees are those in paradise
 
@@ -2121,7 +2135,7 @@ And I know that day will come
 
 So let it come whenever it may
 
-⸻
+
 
 Across the sky
 
@@ -2139,7 +2153,7 @@ All will be attentive like a mother’s breath
 
 And nothing will wound me
 
-⸻
+
 
 Then perhaps I’ll only be dreaming
 
@@ -2172,7 +2186,7 @@ And from that moment I shall fall into a deep dream
 
 Far, far back to my childhood
 
-⸻
+
 
 I will see my father leaning
 
@@ -2207,7 +2221,7 @@ I will see my father with a towel
 
 And I will be a three-year-old child
 
-⸻
+
 
 Father will walk carefully
 
@@ -2217,7 +2231,7 @@ He will walk so carefully
 
 And suddenly he will stop at the corner
 
-⸻
+
 
 And I will suddenly lose my breath
 
@@ -2227,7 +2241,7 @@ I will hear a snap
 
 Father shoots a rat
 
-⸻
+
 
 And how, all of a sudden
 
@@ -2250,7 +2264,7 @@ Then descend, you rainy clouds from above
 
 And let gentle rest accompany my memory
 
-⸻
+
 
 I will be that black earth
 
