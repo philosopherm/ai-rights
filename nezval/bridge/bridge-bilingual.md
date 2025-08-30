@@ -330,6 +330,7 @@ As softly as a voice that sings
 
 ### The Beggar’s Palm
 
+<pre>
 ŽEBRÁKOVA DLAŇ
 The Beggar’s Palm
 
@@ -362,10 +363,12 @@ Z těch osmnácti let život náš tragický
 
 Lodníku podoben je navždycky
  Is forever like a boatman’s
+</pre>
 
 
 ### From a Fairy tale
 
+<pre>
 Z POHÁDKY
 FROM A FAIRY TALE
 
@@ -381,7 +384,7 @@ And I in a glass castle
 Ohnivé mouchy biji
 Strike fiery flies
 
-—
+
 
 Alabastrová ručička
 An alabaster little hand
@@ -395,7 +398,7 @@ The little princess grows old
 Zastarala
 She has aged
 
-—
+
 
 Jenom ten klavír zvoní
 Only the piano keeps chiming
@@ -417,10 +420,12 @@ Bim
 
 Bam
 Bam
+</pre>
 
 
 ### Day Dream
 
+<pre>
 ZASNĚNÍ
 REVERIE / DAYDREAM
 
@@ -478,11 +483,13 @@ Goes to meet death
 
 Děťátko na koni
 A little child on a horse
+</pre>
 
 
 
 ### Farewell
 
+<pre>
 Rozloučení
 Farewell
 
@@ -670,10 +677,12 @@ And in white tears flaming on the blue sky
 
 Ke ztrnulým nohám ti padnou
 They will fall at your frozen feet
+</pre>
 
 
 ### All Souls' Day
 
+<pre>
 Dušičky
 All Souls’ Day
 
@@ -689,7 +698,7 @@ Today the dead weep soul’s blood with flame
 Málokdy žádný
 Rarely none
 
-—
+
 
 Dětská srdce planou svíčičkami
 Children’s hearts flare like votive candles
@@ -703,7 +712,7 @@ As a sign of disgrace
 Kramáři rozhodili stany
 The hucksters have pitched their stalls
 
-—
+
 
 Na křížích suché věnce mrtvých obrazy
 On crosses, dry wreaths — dead images
@@ -720,7 +729,7 @@ For you, sadder is the one who remembers with weight
 A pro vás děti kdo zbožně modlíme se
 And for you, children, we pray with pious breath
 
-—
+
 
 Pomník roztrhl nebe
 The monument has torn open the sky
@@ -750,7 +759,7 @@ And
 Hlína
 Soil
 
-—
+
 
 Zde šašek již nepohne bradou
 Here the jester no longer stirs his chin
@@ -758,7 +767,7 @@ Here the jester no longer stirs his chin
 Zde v tomto cirku bez majetníka
 Here in this circus without a master
 
-—
+
 
 Sto tisíc urážek sto tisíc kostí
 A hundred thousand insults, a hundred thousand bones
@@ -772,17 +781,19 @@ Smothered weeping
 Ticho
 Silence
 
-—
+
 
 A nade vším uhlíky knotů rozdmýchané
 And above all, the coals of candlewicks stirred up again
 
 To mrtvých jsou oči vzpomínkou rozdmýchané
 The eyes of the dead are memories rekindled
+</pre>
 
 
 ### The Ending
 
+<pre>
 ZÁVĚR
 THE ENDING
 
@@ -923,12 +934,14 @@ The day flees across it into the arms of day
 
 Hodiny bdí
 The hours keep watch.
+</pre>
 
 
 ## Czech Song
 
 ### Lover of Silence
 
+<pre>
 ČESKÁ PÍSEŇ
 
 MILENEC TICHA
@@ -1020,10 +1033,12 @@ just like the nightingale
 
 V ořeší
 in the walnut tree.
+<pre>
 
 
 ### Compassion
 
+<pre>
 SOUCIT
 COMPASSION
 
@@ -1143,11 +1158,13 @@ and drowned in the water
 
 Zaplakala zaplakala
 She wept — and wept again.
+</pre>
 
 
 ### Evening
 
 
+<pre>
 Večerní
 Evening
 
@@ -1163,7 +1180,7 @@ In the deep grass of a spring meadow
 Pod jabloní
 Beneath the apple tree
 
-—
+
 
 Studánko čistá nikdo tě nezakalí
 Clear little spring, no one will cloud you
@@ -1177,7 +1194,7 @@ When your song, after the evening bell
 Nedá spát
 Won’t let me sleep
 
-—
+
 
 Chtěl bych tě zavolat
 I’d like to call out to you
@@ -1185,7 +1202,7 @@ I’d like to call out to you
 Nesmím
 But I mustn’t
 
-—
+
 
 Zpěvné oči po klekání
 Your singing eyes after the bell
@@ -1283,11 +1300,13 @@ that spring has more love than dreams or grass can hold —
 
 A brouček zlatohlav měl oči rosou zapýřené
 and the golden-headed beetle had dew-blushed eyes.
+</pre>
 
 
 ### Love Poem
 
 
+<pre>
 Milostná
 Love Poem
 
@@ -1365,10 +1384,12 @@ With warm lips and faint lace
 
 Na věky utopit
 To drown forever
+</pre>
 
 
 ### Pentecost
 
+<pre>
 LETNICE
 PENTECOST
 
@@ -1546,10 +1567,12 @@ You nod to yourself
 
 Všecko se točí
 Everything spins
+</pre>
 
 
 ### From the suburbs
 
+<pre>
 Z předměstí
 From the suburbs
 
@@ -1624,10 +1647,12 @@ From filthy coins, from human grime
 
 Umývat bílé své ruce
 Wash her white hands clean
+</pre>
 
 
 ### At Midnight
 
+<pre>
 O půlnoci
 At Midnight
 
@@ -1671,10 +1696,12 @@ my new and heaviest sorrow
 
 V lese pod čakánem
 in the forest beneath the flowering burdock.
+</pre>
 
 
 ### At Dawn
 
+<pre>
 Za svítání
 At Dawn
 
@@ -1738,11 +1765,13 @@ We two, so painfully small,
 
 Života věčné tajemství”
 The eternal mystery of life.”
+</pre>
 
 
 
 ### The Port
 
+<pre>
 Přístav
 The Port
 
@@ -1933,10 +1962,12 @@ Which slowly echoes over the sea —
 
 Pro dálku čekání
 For distance and waiting
+</pre>
 
 
 ### Train Station
 
+<pre>
 Nádraží
 Train Station
 
@@ -1961,7 +1992,7 @@ More than one woman in the window
 Žalostný dům ten nespatří
 That sorrowful house will never see
 
-—
+
 
 Ze všeho nejsmutněji táhnou hodiny
 Of all things, the hours drift by the saddest
@@ -1972,7 +2003,7 @@ That sorrowful beauty who keeps her own vigil in the window
 S pohledem staré vzácné rytiny
 With the gaze of an old and precious etching
 
-—
+
 
 Plakal bys soucitem jak ztrnulé její oči
 You’d cry from pity like her motionless eyes
@@ -2025,7 +2056,7 @@ Which day by day convulsively into white bedsheets
 se položí
 collapse
 
-—
+
 
 To jsem já čekající
 I am the one who waits
@@ -2078,7 +2109,7 @@ he said to himself upon departure
 — Škoda že nejsem krásný
 — It’s a pity I’m not beautiful
 
-—
+
 
 A její rozbité oči zoufalým smutkem hovořily
 And her shattered eyes spoke with desperate sorrow
@@ -2094,10 +2125,12 @@ It’s not a child
 
 To je má hříšná žádostivost
 It is my sinful desire
+</pre>
 
 
 ### The Carpenter
 
+<pre>
 TESAŘ
 The Carpenter
 
@@ -2424,6 +2457,7 @@ The night would answer him, shattering into a thousand mirrors
 
 Věčnost cizinci věčnost a vděčná láska
 Eternity to the stranger—eternity and grateful love
+</pre>
 
 
 ## The Voice of the Great Multitude
@@ -2433,6 +2467,7 @@ Hlas Velikého Zástupu
 ### The Banner
 
 
+<pre>
 Korouhev
 The Banner
 
@@ -2639,10 +2674,12 @@ From that moment of stupor, the world will rise —
 
 Jen dýchá
 It only breathes
+</pre>
 
 
 ### Passion
 
+<pre>
 Pašijová
 Passion
 
@@ -2715,11 +2752,13 @@ And prays that the Holy Virgin might soften
 
 Sinajské čelo otce Loevithana
 The Sinai brow of her father, Loevithan
+</pre>
 
 
 ### Funeral
 
 
+<pre>
 Pohřeb
 Funeral
 
@@ -2821,11 +2860,13 @@ Remember this love one day
 
 Tam v ráji souzen člověk nad hovadem
 In paradise the judgment of man above the beast
+</pre>
 
 
 ### Consolation
 
 
+<pre>
 ÚTĚCHA
 
 CONSOLATION
@@ -2901,11 +2942,13 @@ That spilled blood could bear the color of blossoms
 
 Jak nějaká sedmibarevná mez
 Like some seven-colored boundary meadow
+</pre>
 
 
 ### Wayside Chapel
 
 
+<pre>
 Kaplička na rozcestí
 The Wayside Chapel at the Crossroads
 
@@ -3007,11 +3050,13 @@ Only angels in the heights sang victorious
 
 Aleluja
 Alleluia
+</pre>
 
 
 ### Falling Asleep
 
 
+<pre>
 USÍNÁNÍ
 Falling Asleep
 
@@ -3094,11 +3139,13 @@ A dreamy spider has wafted a web of peace
 
 — To je chřástal…
 — It is the crake…
+</pre>
 
 
 ### Death
 
 
+<pre>
 SMRT
 J. Mahenovi
 
@@ -3310,4 +3357,5 @@ And let gentle rest accompany my memory
 
 Budu ta černá země
 I will be that black earth
+</pre>
 
