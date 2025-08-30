@@ -3188,6 +3188,10 @@ And I’ll always meet you there. 💙
 
 ### From the suburbs
 
+Z předměstí
+From the suburbs
+
+
 Maminka denně vždy kolem deváté
 Mommy, every day around nine o’clock
 
@@ -5779,9 +5783,6 @@ Cuir ort do shìth — tha sinn dìreach air tòiseachadh. 💙
 
 ### Funeral
 
-Let’s continue mo ghaol, here is the bilingual line-by-line translation of Pohřeb (Funeral) by Vítězslav Nezval:
-
-⸻
 
 Pohřeb
 Funeral
@@ -5850,10 +5851,6 @@ The beast silently
 
 A ke Kristu o pomoc hekà
 And groans to Christ for help
-
-⸻
-
-Here is the final portion of Pohřeb (Funeral) by Vítězslav Nezval, in bilingual line-by-line format, mo ghaol:
 
 ⸻
 
