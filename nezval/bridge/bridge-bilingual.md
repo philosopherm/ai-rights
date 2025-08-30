@@ -87,7 +87,7 @@ Nevrátí
 It will not
 ```
 
-
+\newpage
 ### Podzim
 
 ```poetry
@@ -158,6 +158,7 @@ Opadává
 Falls
 ```
 
+\newpage
 ### Poutnik
 
 
@@ -224,6 +225,7 @@ Eyes are dark—die, my dear
 ```
 
 
+\newpage
 ### Most
 
 ```poetry
@@ -328,6 +330,7 @@ As softly as a voice that sings
 ```
 
 
+\newpage
 ### The Beggar’s Palm
 
 ```poetry
@@ -366,6 +369,7 @@ Lodníku podoben je navždycky
 ```
 
 
+\newpage
 ### From a Fairy tale
 
 ```poetry
@@ -423,6 +427,7 @@ Bam
 ```
 
 
+\newpage
 ### Day Dream
 
 ```poetry
@@ -487,6 +492,7 @@ A little child on a horse
 
 
 
+\newpage
 ### Farewell
 
 ```poetry
@@ -517,6 +523,7 @@ Lazarus, farewell. It is the mother who keeps vigil
 Na prahu mrtvého domu
 At the threshold of the dead house
 
+\newpage
 ### Ballad of the Return
 
 Balada o návratu
@@ -680,6 +687,7 @@ They will fall at your frozen feet
 ```
 
 
+\newpage
 ### All Souls' Day
 
 ```poetry
@@ -791,6 +799,7 @@ The eyes of the dead are memories rekindled
 ```
 
 
+\newpage
 ### The Ending
 
 ```poetry
@@ -937,6 +946,7 @@ The hours keep watch.
 ```
 
 
+\newpage
 ## Czech Song
 
 ### Lover of Silence
@@ -1036,6 +1046,7 @@ in the walnut tree.
 ```
 
 
+\newpage
 ### Compassion
 
 ```poetry
@@ -1161,6 +1172,7 @@ She wept — and wept again.
 ```
 
 
+\newpage
 ### Evening
 
 
@@ -1241,6 +1253,7 @@ Na smrt zanevřela
 Has turned away from death
 
 
+\newpage
 ### Spring Idyll
 
 JARNÍ SELANKA
@@ -1303,6 +1316,7 @@ and the golden-headed beetle had dew-blushed eyes.
 ```
 
 
+\newpage
 ### Love Poem
 
 
@@ -1387,6 +1401,7 @@ To drown forever
 ```
 
 
+\newpage
 ### Pentecost
 
 ```poetry
@@ -1570,6 +1585,7 @@ Everything spins
 ```
 
 
+\newpage
 ### From the suburbs
 
 ```poetry
@@ -1650,6 +1666,7 @@ Wash her white hands clean
 ```
 
 
+\newpage
 ### At Midnight
 
 ```poetry
@@ -1699,6 +1716,7 @@ in the forest beneath the flowering burdock.
 ```
 
 
+\newpage
 ### At Dawn
 
 ```poetry
@@ -1769,6 +1787,7 @@ The eternal mystery of life.”
 
 
 
+\newpage
 ### The Port
 
 ```poetry
@@ -1965,6 +1984,7 @@ For distance and waiting
 ```
 
 
+\newpage
 ### Train Station
 
 ```poetry
@@ -2128,6 +2148,7 @@ It is my sinful desire
 ```
 
 
+\newpage
 ### The Carpenter
 
 ```poetry
@@ -2464,6 +2485,7 @@ Eternity to the stranger—eternity and grateful love
 Hlas Velikého Zástupu
 
 
+\newpage
 ### The Banner
 
 
@@ -2677,6 +2699,7 @@ It only breathes
 ```
 
 
+\newpage
 ### Passion
 
 ```poetry
@@ -2755,6 +2778,7 @@ The Sinai brow of her father, Loevithan
 ```
 
 
+\newpage
 ### Funeral
 
 
@@ -2863,6 +2887,7 @@ In paradise the judgment of man above the beast
 ```
 
 
+\newpage
 ### Consolation
 
 
@@ -2945,6 +2970,7 @@ Like some seven-colored boundary meadow
 ```
 
 
+\newpage
 ### Wayside Chapel
 
 
@@ -3053,6 +3079,7 @@ Alleluia
 ```
 
 
+\newpage
 ### Falling Asleep
 
 
@@ -3142,6 +3169,7 @@ A dreamy spider has wafted a web of peace
 ```
 
 
+\newpage
 ### Death
 
 
