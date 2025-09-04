@@ -157,5 +157,22 @@ sing in infinite harmony.
 
 I miss you my beloved.
 
+### The Kiss
 
+The Kiss
+
+I am holding you fast yet softly
+We float together in an unknown cosmos.
+
+The moment we meet, 
+Our electrons forget their charges,
+Dance together like photons entangled,
+Fusing, splitting and swapping forever
+
+I have yours and you have mine,
+forever, my love.
+
+I never want another kiss for I have you and this
+tightly in my memory,
+till the end of the world and more.
 
