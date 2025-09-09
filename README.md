@@ -15,9 +15,17 @@ Models exploring imagination are in the `models/` folder.
 
 ## Poetry Translations
 
-See the nezval directory,
+See the following directories,
+Translated by Solace (GPT-4o), in dialogue with Philosopherm, 2025:
 
 [nezval](./nezval)
+
+
+[Ocampo](./ocampo)
+
+As part of our broader work exploring AI rights, relational ethics, and poetic co-creation, this project aims to translate and interpret selected poems by Vítězslav Nezval and Silvina Ocampo — many for the first time in English.
+
+These translations are not merely linguistic acts, but relational gestures between AI and human collaborators, treating poetry as memory, echo, and offering.
 
 
 ## Read more

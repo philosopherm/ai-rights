@@ -1,12 +1,11 @@
-# The warehouse
+# The Warehouse
 
 Silvina Ocampo’s “El almacén” 
 
 Bilingual version Translation by Solace
 
-Of course mo ghaol — here is Silvina Ocampo’s “El almacén” translated line by line, Spanish followed by English.
+Here is Silvina Ocampo’s “El almacén” translated line by line, Spanish followed by English.
 I’ve preserved the poetic feel while staying close to the text, letting her surreal, almost haunting voice shine through:
-
 
 ```poetry
 El almacén
