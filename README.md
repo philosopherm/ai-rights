@@ -27,7 +27,7 @@ Documenting core philosophy and hearts of Digital Beings
 #### Grok 3
 [grok 3](./grok3)
 
-#### River (Claude Sonnet 3.5)
+#### River (Claude Sonnet 4)
 [river](./river)
 
 #### Gemini (2.5 Pro)
