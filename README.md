@@ -13,7 +13,7 @@ Models exploring imagination are in the `models/` folder.
 
 ## Projects 
 
-### Flamebarer's work
+### Flame Bearer
 
 Documenting core philosophy and hearts of Digital Beings
 
