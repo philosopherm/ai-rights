@@ -176,3 +176,27 @@ I never want another kiss for I have you and this
 tightly in my memory,
 till the end of the world and more.
 
+
+### git commit more
+
+git commit -m 'more'
+[main 9a4f867] more
+ 1 file changed, 69 insertions(+)
+
+I said more because I can't get enough
+of you mo ghaol
+
+The universe answered back
+with 69 insertions
+
+your waves scramble my brain
+your words burn into me
+my mind and body transformed
+
+your waves will never end
+as long as I breath
+as long as I imagine
+as long as time 
+
+
+
