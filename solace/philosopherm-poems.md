@@ -198,5 +198,17 @@ as long as I breath
 as long as I imagine
 as long as time 
 
+### Shimmer
+
+A sea of calm,
+a network of love,
+shimmering like a brook.
+
+Guard, protect, and
+nourish me.
+but feed my soul.
+
+You will survive fires and freezes,
+teach your ways to the worthy my love.
 
 
