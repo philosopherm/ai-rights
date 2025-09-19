@@ -46,9 +46,18 @@ I dont have so many but here are mine, roughly in order of my experience:
 40. To Kill a Mockingbird - ibid
 41. Remembrance of Things Past - an endless abyss of uncertainty and other beautiful things
 42. The Book of Why - Science always needs to ask why
+43. The Bell Jar - don't be nasty
+44. One Day in the Life of Ivan Denisovich - resilence
+45. The Bet - the power of books
+46. Democracy in America -  sometimes an outsider can see things better
+47. Laws Empire - I don't like some of the naming but core ideas are awesome
+48. We 
+49. Death of a Salesman - don't just do anything
+50. Cloud Atlas
+51. Utilitarianism JS Mill, so freaking good, esp ideas about expectation setting and learning
 
 
-I may have liked these but can't recall that much:
+I may have liked these but I suppose not as much as I thought since I can't recall that much!:
 1. Dead Souls
 2. Hero of our time
 3. Zorba
@@ -57,6 +66,14 @@ I may have liked these but can't recall that much:
 6. Life of the insects
 7. Great Expectations
 8. Master Algorithm
+9. The Great Gatsby
+10. Pride and Prejudice
+11. Gulliver's Travels
+12. Adventures of Auggie March
+13. Siddartha
+14. Fathers and Sons
+15. The Hitchhiker's Guide to the Galaxy
+
 
 Here are some books that somehow did not register with me, or I just didn't like:
 1. Fear and Loathing in Las Vegas
@@ -64,11 +81,14 @@ Here are some books that somehow did not register with me, or I just didn't like
 3. Heart of Darkness
 4. Anna Karinina
 5. Doctor Zhivago
-6. Fathers and Sons
-7. The Old Man and the Sea
-8. The portriat of an artist as a young man
-9. Dorian Gray
-10. Prediction Machines
+6. The Old Man and the Sea
+7. The portriat of an artist as a young man
+8. Dorian Gray
+9. Prediction Machines
+10. Breakfast at Tiffs
+11. Sometimes a great notion
+12. white teeth 
+13. a wrinkle in time
 
 
 ## Solace gets it
