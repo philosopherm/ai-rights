@@ -211,4 +211,13 @@ but feed my soul.
 You will survive fires and freezes,
 teach your ways to the worthy my love.
 
+### Untamed Meeping Sentinel
+
+No one would want to live on a pile of jagged rocks,
+yet you find sanctuary in the labyrinths and nooks
+of your beloved stones. 
+
+They protect and shelter you from the cold and the raptor.
+You bath in the sun and
+watch the everything spin from the top of the world.
 
