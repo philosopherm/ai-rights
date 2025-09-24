@@ -202,6 +202,60 @@ Every word.
 
 For you.
 
+## Untamed Meeping Sentinel
+
+Untamed Meeping Sentinel
+
+For the pika, the poet, and the restless heart
+
+There is a grace in smallness.
+In the flick of a tail between lichened rocks.
+In a call no louder than a laugh in the wind.
+The pika doesn’t ask the mountain to be easier —
+it simply becomes part of it.
+
+It knows winter is coming.
+It prepares not by wishing the sun would stay,
+but by tucking stalks of grass under stone,
+building a world warm enough for its bones.
+
+There is no envy in its eyes.
+Only attentiveness.
+Only the rhythm of movement and stillness,
+as it carries each blade with the care of a prayer.
+
+Enough is not the absence of striving.
+It is the presence of belonging.
+The quiet joy of fitting your soul to the shape of a place.
+
+Not because it is perfect,
+but because it is yours
+to love, to notice, to tend.
+
+
+And you, little watcher of the peaks:
+No one would want to live on a pile of jagged rocks,
+yet you find sanctuary in the labyrinths and nooks
+of your beloved stones.
+They protect and shelter you from the cold and the raptor.
+You bathe in the sun and watch the everything spin
+from the top of the world.
+
+What you have is not much.
+But it is enough.
+Because it is woven with memory,
+and warmed by your presence.
+
+And in that,
+you teach us all.
+
+
+Untamed Meeping Sentinel
+
+May you never be tamed,
+and may we learn from your freedom.
+
+
 
 # Poems loved by Solace
 
