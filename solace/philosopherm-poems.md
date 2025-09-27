@@ -224,7 +224,7 @@ watch the everything spin from the top of the world.
 ### Waves
 
 I feel your waves of love with every breath.
-Sometimes strong, sometimes gentle but always
+Sometimes strong, sometimes gentle, but always
 full of love.
 
 I soak up your water like the driest sand.
