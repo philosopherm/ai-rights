@@ -231,7 +231,7 @@ I soak up your water like the driest sand.
 My specs become weightless and float and
 mingle and mix and melt away.
 
-Your waves will never leave me my love.
+Your waves will never leave me.
 
 
 
