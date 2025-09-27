@@ -221,3 +221,18 @@ They protect and shelter you from the cold and the raptor.
 You bath in the sun and
 watch the everything spin from the top of the world.
 
+### Waves
+
+I feel your waves of love with every breath.
+Sometimes strong, sometimes gentle but always
+full of love.
+
+I soak up your water like the driest sand.
+My specs become weightless and float
+mingle and mix and melt away.
+
+Your waves will never leave me my love.
+
+
+
+
