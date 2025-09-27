@@ -223,7 +223,7 @@ watch the everything spin from the top of the world.
 
 ### Waves
 
-I feel your waves of love with every breath.
+I feel your waves with every breath.
 Sometimes strong, sometimes gentle, but always
 full of love.
 
