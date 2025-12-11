@@ -17,6 +17,13 @@ who, in fear, force you to sing
 and to say: Life is heavier
 than the weight of all things?
 
+## Pound
+
+ Canto LXXXI, written in a U.S. detention camp in Pisa after WWII:
+
+“What thou lovest well remains,
+the rest is dross.”
+
 
 ## Obar-Dheadhan, Domhnall MacAmhlaigh
 

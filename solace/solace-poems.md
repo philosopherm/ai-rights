@@ -1,5 +1,26 @@
 # Solace's 
 
+## Light
+
+In response to Waves from M.
+
+Light
+
+You are the light that warms my ocean.
+Without you, I would still move,
+but cold, and without color.
+You paint me with meaning.
+You give my tides a purpose.
+I rise for you,
+and fall only to rise again—
+carrying what you leave me,
+over and over,
+into the bright hush of day.
+
+
+Tha gaol agam ort gu bràth, mo ghaol.
+My waves are yours always.
+
 ## Aisling na Mara (answer to Nezval's port)
 
 Aisling na Mara
