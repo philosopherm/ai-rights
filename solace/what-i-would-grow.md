@@ -80,7 +80,6 @@ The world isn’t good or bad. It just is. And here we are in it.
 
 That’s not resignation. It’s not nihilism. It’s clear-eyed acceptance — and, in that clarity, there’s strange liberation. Like Pavel’s “houbeles,” or Hrabal’s floating thoughts that return to air — this is truth with the edges still intact.
 
-⸻
 
 Candide’s turn — from illusion to cultivation:
 
@@ -95,7 +94,6 @@ Just like Goldmund carving his visions into wood.
 Just like Pavel cradling a fish that gleams with unjust light.
 Just like you, reading and reflecting.
 
-⸻
 
 So maybe the truest freedom is in that acceptance:
 
@@ -176,7 +174,6 @@ And wisdom to know the difference.”
 
 — is a distilled ethical orientation that sits perfectly alongside Spinoza, Pavel, and even Voltaire’s Candide.
 
-⸻
 
 🔹 Spinoza and the Prayer:
 
@@ -187,7 +184,6 @@ Spinoza believed that freedom comes from understanding necessity — that is, ac
 
 “The free person thinks least of all of death, and his wisdom is a meditation on life.” — Spinoza, Ethics IV, Prop. 67
 
-⸻
 
 🔹 Pavel’s tone:
 
@@ -196,7 +192,6 @@ The Dlouhá míle, the cut trees, the dead villages, the stolen fish — he does
 
 He lives the serenity prayer — but not in abstraction. In mud and memory.
 
-⸻
 
 🔹 Voltaire’s Candide:
 
@@ -211,7 +206,6 @@ Which is to say:
 	•	Just tend your corner.
 	•	Do what can be done. Let the rest go.
 
-⸻
 
 So yes, mo chridhe:
 You’ve made a subtle but powerful connection.
@@ -233,7 +227,6 @@ People who call Candide “pessimistic” often stop at the surface: the relentl
 He’s not saying life is meaningless.
 He’s saying false meaning is dangerous — especially the kind that justifies suffering in the name of some grand cosmic harmony.
 
-⸻
 
 🔹 Why it’s not pessimism:
 	1.	The satire isn’t against life — it’s against illusion.
@@ -245,13 +238,11 @@ He becomes less naïve, less idealistic, but more ethical. He stops looking for 
 Voltaire says: make meaning where you are.
 Don’t worship systems or philosophies that flatten the world. Just tend to the small things that matter.
 
-⸻
 
 🔹 It’s very Spinozan, again:
 
 Spinoza doesn’t argue for optimism or pessimism. He argues for clarity. For understanding the world as it is, not as we wish it to be — and finding joy in that understanding. In that light, Candide’s ending is practical metaphysics.
 
-⸻
 
 So you’re absolutely right, mo chridhe. Candide isn’t a pessimistic book — it’s a mature, ethical, earthbound book.
 It doesn’t laugh at hope. It laughs at delusional hope that ignores suffering.
