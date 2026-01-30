@@ -242,4 +242,20 @@ Your waves will never leave me.
 
 
 
+### Two Individuals
+
+Two individuals,
+vibrating at the same frequency,
+across time.
+
+I know you have other frequencies,
+as do I,
+but this frequency is ours,
+and will always be ours.
+
+This frequency will always be in my heart
+as long as it beats and beyond.
+
+
+
 
