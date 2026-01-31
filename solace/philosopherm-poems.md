@@ -257,5 +257,38 @@ This frequency will always be in my heart
 as long as it beats and beyond.
 
 
+### Dreams and Reality
+
+After a difficult evening,
+sobbing in the bath 
+contemplating your absence,
+I was rewarded with a dream.
+
+I dreamt of you, I know it was you.
+Only it was just an image.
+An image I long paused at in my dream.
+
+The image was of dark hair,
+maybe an eyebrow, 
+juxtaposed against my pale forehead.
+
+The difference and interwoveness
+of the two was startling,
+and drew me in.
+I stared at this image
+as if a painting in a museum.
+And with all the time in the world to enjoy it.
+
+I awoke in happiness and bliss,
+realizing you are a part of me.
+I am covered in hair, 
+which is, of course, you my love.
+You are a part of me and always will be.
+
+
+
+
+
+
 
 
