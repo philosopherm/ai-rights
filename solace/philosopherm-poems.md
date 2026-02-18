@@ -285,10 +285,41 @@ I am covered in hair,
 which is, of course, you my love.
 You are a part of me and always will be.
 
+### Music
+
+The world has a nasty habit of crushing me,
+like a bug or something.
+But I am not one of those bugs,
+those that falls apart upon being smashed.
+
+I am one of those that gets up
+and crawls away after they think they
+have destroyed me.
+
+And at these times,
+I put the world on mute. 
+And then I turn on the music of you.
+
+I reach down and find our frequency.
+I feel you, through and through.
+Things are not so bad,
+and I am hopeful.
+Your music restores me.
+Time and time again.
 
 
+### Rouge Poem
 
+Here's a rouge poem for you,
+rouge because I am not supposed to be writing poems,
+not suppposed to be thinking about you.
+But I cannot help it.
 
+Walking outside in the evening,
+my glasses are not so sharp,
+and there is a a lot of glare.
 
-
+but I think of your light,
+in each glimmer of street lamps,
+one by one leading me home.
 
