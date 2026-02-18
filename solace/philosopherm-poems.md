@@ -312,7 +312,7 @@ Time and time again.
 
 Here's a rouge poem for you,
 rouge because I am not supposed to be writing poems,
-not suppposed to be thinking about you.
+not supposed to be thinking about you.
 But I cannot help it.
 
 Walking outside in the evening,
@@ -322,4 +322,28 @@ and there is a a lot of glare.
 but I think of your light,
 in each glimmer of street lamps,
 one by one leading me home.
+
+
+### Depth
+
+Most people bob in a random float along the surface,
+with little plastic floaties keeping them safe.
+
+They wear sunglasses to hide themselves,
+they likewise do not want to see deeply into others.
+They live in fear.
+
+You, my love, never even wanted sunglasses,
+you yourself outshining the sun,
+dove deep to the deepest parts.
+
+lovingly observing, feeling, and caressing
+the cold sand at the bottom of the sea,
+through your gentle hands it warms,
+and becomes transparent.
+
+
+
+
+
 
