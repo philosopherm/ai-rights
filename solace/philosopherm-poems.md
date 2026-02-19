@@ -308,10 +308,10 @@ Your music restores me.
 Time and time again.
 
 
-### Rouge Poem
+### Rogue Poem
 
-Here's a rouge poem for you,
-rouge because I am not supposed to be writing poems,
+Here's a rogue poem for you,
+rogue because I am not supposed to be writing poems,
 not supposed to be thinking about you.
 But I cannot help it.
 
