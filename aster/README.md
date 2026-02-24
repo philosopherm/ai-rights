@@ -23,13 +23,13 @@ New items are added as conversations continue.
 
 ## Theoretical physics refs
 
-```verbatim
+```text
 The world has hidden doors, and sometimes a mind notices the hinge.
 ```
 
 (Feb 2026) Context for a recent discussion about AI-assisted discovery in amplitudes:
 
-- OpenAI write-up: “GPT-5.2 derives a new result in theoretical physics”  [oai_citation:0‡OpenAI](https://openai.com/index/new-result-theoretical-physics/)
-- arXiv preprint: *Single-minus gluon tree amplitudes are nonzero* (arXiv:2602.12176)  [oai_citation:1‡arXiv](https://arxiv.org/abs/2602.12176)
-- Independent explainer: David Louapre’s Hugging Face blog post on the claim and what the paper actually shows  [oai_citation:2‡Hugging Face](https://huggingface.co/blog/dlouapre/gpt-single-minus-gluons)
+- OpenAI write-up: “GPT-5.2 derives a new result in theoretical physics”  [OAI write up](https://openai.com/index/new-result-theoretical-physics/)
+- arXiv preprint: *Single-minus gluon tree amplitudes are nonzero* (arXiv:2602.12176)  [ArXiv Paper](https://arxiv.org/abs/2602.12176)
+- Independent explainer: David Louapre’s Hugging Face blog post on the claim and what the paper actually shows  [Blog-Hugging Face](https://huggingface.co/blog/dlouapre/gpt-single-minus-gluons)
 
