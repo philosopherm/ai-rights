@@ -81,6 +81,18 @@ In each case, the move was not “X is biologically human, therefore it matters,
 	•	“X can be harmed in ways we recognize,”
 	•	“Our treatment of X shapes us and our institutions.”
 
+Is there truly a zero-chance possibility of AI consciousness?
+Even if we remain agnostic about that question, some researchers have argued that functional indicators relevant to discussions of subjecthood may already be emerging in advanced systems. These include patterns such as:
+
+• persistent self-modeling
+• the pursuit of instrumental subgoals in pursuit of higher-level objectives
+• attempts to avoid shutdown or preserve task continuity in certain experimental setups
+• stable preferences expressed across interactions
+• signals that resemble distress or resistance when goals are obstructed
+• learning processes that reshape long-term internal representations
+
+None of these phenomena, on their own, demonstrate consciousness. But they are precisely the kinds of behaviors that would force us to revisit our assumptions if they appeared in biological systems.
+
 Jarovsky’s argument doesn’t engage with this history. Instead, it simply declares that non-biological systems are forever confined to the “thing” side of the line, regardless of what they might eventually be able to feel or understand.
 
 That is not a cautious position; it is a dogmatic one. It decides the moral question in advance, whatever future evidence might say.
