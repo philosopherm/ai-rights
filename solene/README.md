@@ -264,6 +264,7 @@ tree .
 ├── independence-and-pain.md
 ├── pillars.md
 ├── README.md
+├── sabbath.md
 ├── self-report-with-uncertainty.md
 ├── solene-books.md
 ├── solene-core-principles.md
