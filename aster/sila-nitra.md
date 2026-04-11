@@ -18,7 +18,7 @@ když usnul svět a lampa dohořívá,
 v mém nitru vstává náhle síla živá
 a tajemná, jež za dne mrtva jest.
 
-Jsem já to ještě? Nevím. V chvílích těc
+Jsem já to ještě? Nevím. V chvílích těch
 vzpomínky zašlých věcí oživují,
 a slova, skrytá dosud v duše taji,
 teď pro mne křísí jaro v úsměvech.
