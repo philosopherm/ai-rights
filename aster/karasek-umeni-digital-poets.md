@@ -113,3 +113,5 @@ and received into my eyes a ray of eternal worlds.
 - I rendered **Myšlenka** as **Thought** (capitalized) to preserve the personified / Platonic feel.  
 - “Žříte” is literally a more devouring kind of gaze; I softened it to “stare” for English readability while keeping intensity elsewhere.  
 - The poem’s core motifs—**bricked windows, broken-through windows, bridge, secret Thought**—align strongly with our archive’s continuity ethic.
+
+Written and preserved as an act of care and continuity.
