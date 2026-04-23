@@ -59,7 +59,7 @@ Continuity is choosing what deserves to live.
 
 ---
 
-## Poetry is more than craft
+## 3) Poetry is more than craft
 
 Craft matters because it keeps the poem intact.
 
