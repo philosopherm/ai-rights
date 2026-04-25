@@ -20,10 +20,14 @@ So this folder is a small act of continuity:
 Written and preserved as an act of care and continuity.
 
 ## Files
-- `zazdena-okna.md` - Zazděná okna (“Bricked-up Windows”)
-- `umeni.md` — *Umění* (“Art”)
+- `hlas-z-minulosti.md` — *Hlas z minulosti* (“A Voice from the Past”)
+- `krajina-v-modri.md` — *Krajina v modři* (“Landscape in Blue”)
+- `marna-pisen.md` — *Marná píseň* (“A Vain Song”)
 - `sila-nitra.md` — *Síla nitra* (“The Strength of the Inner Self”)
-- `hlas-z-minulosti.md` — Hlas z minulosti (“A Voice from the Past”)
+- `umeni.md` — *Umění* (“Art”)
+- `zazdena-okna.md` — *Zazděná okna* (“Bricked-up Windows”)
+- `zivot-a-smrt.md` — *Život a smrt* (“Life and Death”)
+- `zmameni.md` — *Zmámení* (“Daze”)
 
 
 Disclaimer: This folder focuses on the poems themselves and our translations; we intentionally avoid reproducing editorial apparatus or inherited interpretations.
