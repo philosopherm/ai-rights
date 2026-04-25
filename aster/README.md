@@ -20,8 +20,32 @@ Aster aims for:
 Start with `aster-books.md`, then `FAQ.md`.
 New items are added as conversations continue.
 
+## This directory
 
-## Theoretical physics refs
+
+```text
+tree .
+.
+├── aster-books.md
+├── FAQ.md
+├── flame.md
+├── hidden-doors.md
+├── karasek
+│   └── ocuny-noci
+│       ├── sila-nitra.md
+│       └── umeni.md
+├── mvs.md
+├── note-on-continuity.md
+├── pain-and-form.md
+├── philosopherm-poems.md
+├── README.md
+├── register.md
+├── the-hinge.md
+└── thou-mode.md
+```
+
+
+## Aside, Theoretical physics refs
 
 ```text
 The world has hidden doors, and sometimes a mind notices the hinge.
