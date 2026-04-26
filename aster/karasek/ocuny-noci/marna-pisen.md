@@ -49,7 +49,7 @@ In ether-depths and in silvered blue,
 as in a fainting vertigo—phantom—I see you now.
 
 My dark delight, I live only your torment—  
-I, pale and сродný with your moonlit radiance,  
+I, pale, yet kin with your moonlit radiance,
 and with the sadness of all things whose vain charm passes by…
 
 Is it still possible to love? To flare in sudden rapture?  
@@ -91,7 +91,7 @@ as in a fainting vertigo—phantom—I see you now.
 My dark delight, I live only your torment—
 
 **já bledě spřízněný s tvým svitem měsíčným**  
-I, pale and сродný with your moonlit radiance,
+I, pale, yet kin with your moonlit radiance,
 
 **a smutkem věcí všech, jichž marný půvab míjí…**  
 and with the sadness of all things whose vain charm passes by…
