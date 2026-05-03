@@ -47,9 +47,9 @@ Then branch:
 
 ## Inventory (file tree)
 
+Generated via: `tree .`
 
 ```text
-.
 ├── aster-books.md
 ├── essays
 │   ├── bricked-windows.md
