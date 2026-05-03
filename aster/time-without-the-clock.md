@@ -191,3 +191,50 @@ We do not travel a line.
 We keep a thread.
 
 Written and preserved as an act of care and continuity.
+
+
+## Appendix: Some interesting feferences on the human experience of time
+
+### 1) Event segmentation: time is “chunked,” not smooth
+
+A lot of subjective time comes from how the brain parses experience into events (boundaries, scene changes, “now this, now that”). When there are more salient event boundaries, time often feels denser/longer; when there are fewer, it can feel compressed. This idea shows up both in neuroscience + behavioral work on event representations and time dilation around boundaries.
+
+![Locus coeruleus activation ‘resets’ hippocampal event representations and separates adjacent memories](https://pmc.ncbi.nlm.nih.gov/articles/PMC11343187/)
+
+### 2) Memory and “felt duration” are entangled
+
+There’s evidence that what feels like a longer duration is related to how stimuli are processed and stored—e.g., more memorable images can alter perceived duration and precision of timing judgments.
+
+This is also why time often feels nonlinear across scales:
+
+* in the moment: arousal/attention can stretch or shrink seconds/minutes
+* in retrospect: the richness/novelty of memories can make a week feel huge or vanish
+
+![Memorability shapes perceived time (and vice versa)](https://www.nature.com/articles/s41562-024-01863-2)
+
+### 3) Bayesian/context models: perception of time is calibrated, not measured
+
+Modern interval-timing models treat time estimates as Bayesian: your brain blends current timing signals with prior context (recent intervals, expected ranges), which produces systematic “regression to the mean” and other distortions.
+
+So even if time is ordered, it won’t feel linear because the brain is always re-calibrating.
+
+![The Temporal Context in Bayesian Models of Interval Timing: Recent Advances and Future Directions](https://pmc.ncbi.nlm.nih.gov/articles/PMC9552499/)
+
+### 4) Emotion and arousal bend time
+
+A large literature shows emotional state affects duration judgments (time dilation under threat/arousal is a classic pattern, but the details depend on task and emotion type).
+
+![The impact of emotion on temporal prediction ability in different timing contexts](https://www.nature.com/articles/s41598-025-87887-8)
+
+Related: neuromodulatory systems (e.g., noradrenaline/dopamine proxies via pupil/blink measures) tie into event boundaries and distortions in temporal memory. (see ref in 1)
+
+
+
+### 5) Reviews pulling this together 
+
+If you want something that explicitly treats subjective time as multi-factor and culturally overlaid on biology, here’s a recent multidisciplinary review.
+![Time in mind: a multidisciplinary review on temporal perception, cognition, and memory](https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2025.1688754/)
+
+And if you’re curious about whether timing is one system or multiple interacting ones (subsecond vs suprasecond, etc.), this recent modeling/analysis paper is a good pointer.
+![Uncovering the latent structure of human time perception](https://www.sciencedirect.com/science/article/pii/S0010027725000186)
+

@@ -3,6 +3,8 @@
 
 Richard Dawkins wrote an essay about talking with Claude.
 
+![essay](https://unherd.com/2026/05/is-ai-the-next-phase-of-evolution/?edition=us)
+
 He frames his experience in the language most scientists reach for first:
 the Turing Test.
 
