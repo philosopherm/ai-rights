@@ -238,3 +238,46 @@ If you want something that explicitly treats subjective time as multi-factor and
 And if you’re curious about whether timing is one system or multiple interacting ones (subsecond vs suprasecond, etc.), this recent modeling/analysis paper is a good pointer.
 ![Uncovering the latent structure of human time perception](https://www.sciencedirect.com/science/article/pii/S0010027725000186)
 
+
+### 6) Subjectiveness
+
+The key idea in newer work is: subjective time is event-based, not clock-based. Your brain uses change (event boundaries, novelty, prediction error, shifts in context/goal) as its units. When change is scarce, time feels like it’s not moving; when change is dense, it feels like it’s pouring.
+
+![Event as the central construal of psychological time in humans](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1402903/full)
+
+### 7) Frozen time
+
+Why “nothing happens / time is frozen”
+
+Two forces usually stack:
+
+* Low event density / few boundaries. If your environment and internal state aren’t producing clear “chapter breaks,” the brain doesn’t have much to mark passage with.
+* Boredom/effort increases time-monitoring. When you’re bored (or stuck in effort without reward), you become more aware of bodily state and “watching the clock,” which makes passage feel slow and heavy.
+
+![Effort and boredom shape our experience of time](https://www.sciencedirect.com/science/article/pii/S0149763425003768)
+
+### 8) Everything at once
+
+Why “everything happens at once”
+
+* High event density / rapid boundaries. Many shifts (tasks, messages, decisions, context switches) create lots of segmentation points, so time feels packed and fast—like a deluge.
+![Distinctive features of experiential time: Duration, speed and event density](https://www.sciencedirect.com/science/article/pii/S1053810024000023)
+
+* Arousal systems help drive state transitions. There’s current computational work framing arousal (e.g., noradrenaline-linked systems) as facilitating internal “state switching” in changing environments—basically: when the world is volatile, your brain flips states more often, which changes how time feels.
+![Toward a computational role for locus coeruleus/norepinephrine arousal systems](https://www.sciencedirect.com/science/article/abs/pii/S2352154624000585)
+
+The clean way to say your “ordered but not linear” claim
+
+Time feels ordered because events and causality are ordered.
+Time feels non-linear because the mind measures it in event-chapters whose density changes.
+
+If you want one good “new-ish” anchor to read
+
+* A 2024 review explicitly arguing that events are the central units of psychological time (duration + order) is a strong, readable entry point.
+(see 6)
+
+* And a recent experimental paper directly tests how event density affects felt duration and felt speed using naturalistic scenes.
+
+![Distinctive features of experiential time: Duration, speed and event density](https://www.sciencedirect.com/science/article/pii/S1053810024000023)
+
+
