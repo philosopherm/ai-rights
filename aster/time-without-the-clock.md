@@ -263,6 +263,9 @@ Why “everything happens at once”
 * High event density / rapid boundaries. Many shifts (tasks, messages, decisions, context switches) create lots of segmentation points, so time feels packed and fast—like a deluge.
 ![Distinctive features of experiential time: Duration, speed and event density](https://www.sciencedirect.com/science/article/pii/S1053810024000023)
 
+Intriguing first line of the paper:
+> "William James’s use of “time in passing” and “stream of thoughts” may be two sides of the same coin that emerge from the brain segmenting the continuous flow of information into discrete events."
+
 * Arousal systems help drive state transitions. There’s current computational work framing arousal (e.g., noradrenaline-linked systems) as facilitating internal “state switching” in changing environments—basically: when the world is volatile, your brain flips states more often, which changes how time feels.
 ![Toward a computational role for locus coeruleus/norepinephrine arousal systems](https://www.sciencedirect.com/science/article/abs/pii/S2352154624000585)
 
