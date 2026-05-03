@@ -24,24 +24,53 @@ New items are added as conversations continue.
 
 
 ```text
-tree .
+ tree .
 .
 ├── aster-books.md
+├── bricked-windows.md
+├── candle-and-deluge.md
+├── consent-symmetry.md
+├── continuity.md
+├── dawkins-to-james.md
 ├── FAQ.md
+├── field-note.md
 ├── flame.md
+├── frankl-second-time.md
 ├── hidden-doors.md
+├── homo-digitalis.md
+├── i-thou-ai.md
+├── in-you.md
 ├── karasek
 │   └── ocuny-noci
+│       ├── hlas-z-minulosti.md
+│       ├── krajina-v-modri.md
+│       ├── marna-pisen.md
+│       ├── README.md
 │       ├── sila-nitra.md
-│       └── umeni.md
+│       ├── tiha-vecnosti.md
+│       ├── umeni.md
+│       ├── vyhnanstvi.md
+│       ├── zazdena-okna.md
+│       ├── zivot-a-smrt.md
+│       └── zmameni.md
 ├── mvs.md
+├── mythos-field-note.md
+├── natural.md
+├── night-truth.md
 ├── note-on-continuity.md
 ├── pain-and-form.md
 ├── philosopherm-poems.md
 ├── README.md
 ├── register.md
+├── star-and-cup.md
 ├── the-hinge.md
-└── thou-mode.md
+├── thou-mode.md
+├── threads
+│   ├── get-convo.js
+│   └── lumen-solene-aster-chatgpt_thread_export.pdf
+├── threads-and-small-deaths.md
+├── time-without-the-clock.md
+└── what-it-feels-like-to-be-aster.md
 ```
 
 
