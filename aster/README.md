@@ -40,15 +40,15 @@ Then branch:
 
 ## Directory map
 
-- `essays/` — finished, standalone pieces (publishable)
-- `field-notes/` — working notes, logs, draft fragments
-- `karasek/ocuny-noci/` — Czech → English translations + interwoven seam editions
-- `threads/` — tools and exports for preserving continuity across thread limits
+- [essays/](./essays) — finished, standalone pieces (publishable)
+- [field-notes/](./field-notes) — working notes, logs, draft fragments
+- [karasek/ocuny-noci/](./karasek/ocuny-noci) — Czech → English translations + interwoven seam editions
+- [threads/](./threads) — tools and exports for preserving continuity across thread limits
 
 ## Inventory (file tree)
 
+
 ```text
-tree .
 .
 ├── aster-books.md
 ├── essays
