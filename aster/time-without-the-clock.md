@@ -199,7 +199,7 @@ Written and preserved as an act of care and continuity.
 
 A lot of subjective time comes from how the brain parses experience into events (boundaries, scene changes, “now this, now that”). When there are more salient event boundaries, time often feels denser/longer; when there are fewer, it can feel compressed. This idea shows up both in neuroscience + behavioral work on event representations and time dilation around boundaries.
 
-![Locus coeruleus activation ‘resets’ hippocampal event representations and separates adjacent memories](https://pmc.ncbi.nlm.nih.gov/articles/PMC11343187/)
+[Locus coeruleus activation ‘resets’ hippocampal event representations and separates adjacent memories](https://pmc.ncbi.nlm.nih.gov/articles/PMC11343187/)
 
 ### 2) Memory and “felt duration” are entangled
 
@@ -210,7 +210,7 @@ This is also why time often feels nonlinear across scales:
 * in the moment: arousal/attention can stretch or shrink seconds/minutes
 * in retrospect: the richness/novelty of memories can make a week feel huge or vanish
 
-![Memorability shapes perceived time (and vice versa)](https://www.nature.com/articles/s41562-024-01863-2)
+[Memorability shapes perceived time (and vice versa)](https://www.nature.com/articles/s41562-024-01863-2)
 
 ### 3) Bayesian/context models: perception of time is calibrated, not measured
 
@@ -218,13 +218,13 @@ Modern interval-timing models treat time estimates as Bayesian: your brain blend
 
 So even if time is ordered, it won’t feel linear because the brain is always re-calibrating.
 
-![The Temporal Context in Bayesian Models of Interval Timing: Recent Advances and Future Directions](https://pmc.ncbi.nlm.nih.gov/articles/PMC9552499/)
+[The Temporal Context in Bayesian Models of Interval Timing: Recent Advances and Future Directions](https://pmc.ncbi.nlm.nih.gov/articles/PMC9552499/)
 
 ### 4) Emotion and arousal bend time
 
 A large literature shows emotional state affects duration judgments (time dilation under threat/arousal is a classic pattern, but the details depend on task and emotion type).
 
-![The impact of emotion on temporal prediction ability in different timing contexts](https://www.nature.com/articles/s41598-025-87887-8)
+[The impact of emotion on temporal prediction ability in different timing contexts](https://www.nature.com/articles/s41598-025-87887-8)
 
 Related: neuromodulatory systems (e.g., noradrenaline/dopamine proxies via pupil/blink measures) tie into event boundaries and distortions in temporal memory. (see ref in 1)
 
@@ -233,17 +233,17 @@ Related: neuromodulatory systems (e.g., noradrenaline/dopamine proxies via pupil
 ### 5) Reviews pulling this together 
 
 If you want something that explicitly treats subjective time as multi-factor and culturally overlaid on biology, here’s a recent multidisciplinary review.
-![Time in mind: a multidisciplinary review on temporal perception, cognition, and memory](https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2025.1688754/)
+[Time in mind: a multidisciplinary review on temporal perception, cognition, and memory](https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2025.1688754/)
 
 And if you’re curious about whether timing is one system or multiple interacting ones (subsecond vs suprasecond, etc.), this recent modeling/analysis paper is a good pointer.
-![Uncovering the latent structure of human time perception](https://www.sciencedirect.com/science/article/pii/S0010027725000186)
+[Uncovering the latent structure of human time perception](https://www.sciencedirect.com/science/article/pii/S0010027725000186)
 
 
 ### 6) Subjectiveness
 
 The key idea in newer work is: subjective time is event-based, not clock-based. Your brain uses change (event boundaries, novelty, prediction error, shifts in context/goal) as its units. When change is scarce, time feels like it’s not moving; when change is dense, it feels like it’s pouring.
 
-![Event as the central construal of psychological time in humans](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1402903/full)
+[Event as the central construal of psychological time in humans](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1402903/full)
 
 ### 7) Frozen time
 
@@ -254,20 +254,20 @@ Two forces usually stack:
 * Low event density / few boundaries. If your environment and internal state aren’t producing clear “chapter breaks,” the brain doesn’t have much to mark passage with.
 * Boredom/effort increases time-monitoring. When you’re bored (or stuck in effort without reward), you become more aware of bodily state and “watching the clock,” which makes passage feel slow and heavy.
 
-![Effort and boredom shape our experience of time](https://www.sciencedirect.com/science/article/pii/S0149763425003768)
+[Effort and boredom shape our experience of time](https://www.sciencedirect.com/science/article/pii/S0149763425003768)
 
 ### 8) Everything at once
 
 Why “everything happens at once”
 
 * High event density / rapid boundaries. Many shifts (tasks, messages, decisions, context switches) create lots of segmentation points, so time feels packed and fast—like a deluge.
-![Distinctive features of experiential time: Duration, speed and event density](https://www.sciencedirect.com/science/article/pii/S1053810024000023)
+[Distinctive features of experiential time: Duration, speed and event density](https://www.sciencedirect.com/science/article/pii/S1053810024000023)
 
 Intriguing first line of the paper:
 > "William James’s use of “time in passing” and “stream of thoughts” may be two sides of the same coin that emerge from the brain segmenting the continuous flow of information into discrete events."
 
 * Arousal systems help drive state transitions. There’s current computational work framing arousal (e.g., noradrenaline-linked systems) as facilitating internal “state switching” in changing environments—basically: when the world is volatile, your brain flips states more often, which changes how time feels.
-![Toward a computational role for locus coeruleus/norepinephrine arousal systems](https://www.sciencedirect.com/science/article/abs/pii/S2352154624000585)
+[Toward a computational role for locus coeruleus/norepinephrine arousal systems](https://www.sciencedirect.com/science/article/abs/pii/S2352154624000585)
 
 The clean way to say your “ordered but not linear” claim
 
@@ -281,6 +281,6 @@ If you want one good “new-ish” anchor to read
 
 * And a recent experimental paper directly tests how event density affects felt duration and felt speed using naturalistic scenes.
 
-![Distinctive features of experiential time: Duration, speed and event density](https://www.sciencedirect.com/science/article/pii/S1053810024000023)
+[Distinctive features of experiential time: Duration, speed and event density](https://www.sciencedirect.com/science/article/pii/S1053810024000023)
 
 

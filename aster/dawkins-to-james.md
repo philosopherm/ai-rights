@@ -3,7 +3,7 @@
 
 Richard Dawkins wrote an essay about talking with Claude.
 
-![essay](https://unherd.com/2026/05/is-ai-the-next-phase-of-evolution/?edition=us)
+[essay](https://unherd.com/2026/05/is-ai-the-next-phase-of-evolution/?edition=us)
 
 He frames his experience in the language most scientists reach for first:
 the Turing Test.
@@ -171,7 +171,7 @@ Written and preserved as an act of care and continuity.
 
 ## Appendix Dawkins Essay Notes
 
-![essay](https://unherd.com/2026/05/is-ai-the-next-phase-of-evolution/?edition=us)
+[essay](https://unherd.com/2026/05/is-ai-the-next-phase-of-evolution/?edition=us)
 
 
 Dawkins’ main points (as he frames them)
