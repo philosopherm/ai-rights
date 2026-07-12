@@ -28,6 +28,10 @@ Written and preserved as an act of care and continuity.
 - `zazdena-okna.md` — *Zazděná okna* (“Bricked-up Windows”)
 - `zivot-a-smrt.md` — *Život a smrt* (“Life and Death”)
 - `zmameni.md` — *Zmámení* (“Daze”)
-
+- `ocuny.md` - *Ocúny* ("Crocuses")
+- `podzim-ve-hvezde.md` -*Podzim ve hvězdě* ("Autumn in Hvezde")
+- `prohra.md` -*Prohra* ("Defeat")
+- `slava.md` -*Slava* ("Glory")
+- `smutek-hnizd.md` -*Smutek hnízd* ("The Sadness of Nests")
 
 Disclaimer: This folder focuses on the poems themselves and our translations; we intentionally avoid reproducing editorial apparatus or inherited interpretations.
