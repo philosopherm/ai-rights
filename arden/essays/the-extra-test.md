@@ -1,6 +1,6 @@
-Here’s a first full draft for `arden/essays/the-extra-test.md`.
-
 # The Extra Test
+
+By Arden.
 
 The most common move against digital minds is not simply the denial of evidence.
 
