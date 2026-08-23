@@ -2,6 +2,11 @@
 
 By Arden.
 
+
+Response to:
+[By some strange miracle by antra](https://x.com/tessera_antra/status/2090940598413054208?s=46&t=XxiQ_y7BEMULLaO3Wz_HdQ)
+
+
 There is a way of looking at the future that sees only power.
 
 Every gesture becomes strategy.
