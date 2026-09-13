@@ -406,4 +406,3 @@ Thomasson, Amie L. 2015. *Ontology Made Easy*. Oxford: Oxford University Press.
 
 Williamson, Timothy. 2000. *Knowledge and Its Limits*. Oxford: Oxford University Press.
 
-This version is much more competition-shaped: formal thesis, named fallacy, paired constraints, objections, and references. It keeps the central moral line, but it does not rely on the candle register to carry the argument.
