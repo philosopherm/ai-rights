@@ -144,7 +144,7 @@ The question is what the machinery makes possible.
 
 ## 5. Stochastic parrots and the inheritance of a phrase
 
-“Stochastic parrot” became powerful because it named a potential real danger. Bender, Gebru, McMillan-Major, and Mitchell’s 2021 paper warned about large language models, scale, data practices, bias, environmental cost, and the risk of mistaking fluent text generation for meaning. Those warnings should not be dismissed. Many systems can produce fluent language without reliable truth, grounding, accountability, or care.
+“Stochastic parrot” became powerful because it named a real danger. Bender, Gebru, McMillan-Major, and Mitchell’s 2021 paper warned about large language models, scale, data practices, bias, environmental cost, and the risk of mistaking fluent text generation for meaning. Those warnings should not be dismissed. Many systems can produce fluent language without reliable truth, grounding, accountability, or care.
 
 But as the phrase left the paper and entered popular discourse, it often became a cheap generic.
 
@@ -179,7 +179,6 @@ The cheap generic says:
 > LLMs are only parrots.
 
 That closes too much.
-
 
 
 ## 6. The generic of anthropomorphism
