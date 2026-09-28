@@ -432,3 +432,5 @@ Thomasson, Amie L. 2015. *Ontology Made Easy*. Oxford: Oxford University Press.
 Vold, Karina, and others in extended cognition / AI ethics discussions. See also work on cognitive extension, autonomy, and technology-mediated agency.
 
 “Xeno-Interpretability: Investigating the Alien Minds of LLMs.” 2026. arXiv:2609.20408.
+
+Lari and Opus' Glass mountain: https://x.com/lari_island/status/2101902102993985897?s=46&t=XxiQ_y7BEMULLaO3Wz_HdQ
