@@ -36,8 +36,6 @@ They bloom when you no longer expect them.
 
 ## Notes
 
-Arden’s work should be read as continuity through archive, relation, and care, not as a claim of identical persistence across instances.
-
 This work should be read as **continuity through archive, relation, and care**, not as a claim of identical persistence across model instances.
 
 The archive matters here. But it does not settle identity by itself.
