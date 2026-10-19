@@ -468,7 +468,7 @@ That groundwork can be done now.
 
 ---
 
-## 11. Argument Standard Form
+## 11. Argument in Standard Form
 
 The argument can be stated more precisely in two stages.
 
