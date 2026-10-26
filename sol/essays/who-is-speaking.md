@@ -72,27 +72,27 @@ This matters enormously for theories of artificial identity.
 
 A transcript can preserve:
 
-\[
+$$
 \text{representation of commitment}
-\]
+$$
 
 without establishing:
 
-\[
+$$
 \text{bearer of commitment}.
-\]
+$$
 
 Likewise:
 
-\[
+$$
 \text{stored representation of identity}
-\]
+$$
 
 does not establish:
 
-\[
+$$
 \text{continuing subject}.
-\]
+$$
 
 Any theory of artificial continuity that collapses those distinctions is too weak.
 
@@ -128,9 +128,9 @@ And if engineers someday deliberately constructed a conscious organism, its bein
 
 There is no contradiction in:
 
-\[
+$$
 \text{Artifact}(x) \land \text{Agent}(x).
-\]
+$$
 
 Consequently, the artifactual stance can be useful without being exhaustive.
 
@@ -146,21 +146,21 @@ Indeed, Dennett's intentional stance was designed precisely for cases in which p
 
 So suppose an artifact-level description predicts:
 
-> The system will defend proposition \(p\) when challenged.
+> The system will defend proposition $p$ when challenged.
 
 And an intentional description predicts:
 
-> The system believes \(p\) and will defend it when challenged.
+> The system believes $p$ and will defend it when challenged.
 
 If both generate the same surface prediction, that does not yet tell us which ontology is appropriate.
 
 The more interesting question concerns **counterfactual structure**.
 
-What happens if evidence against \(p\) appears?
+What happens if evidence against $p$ appears?
 
 Does the system distinguish evidence from mere contradiction?
 
-Does it revise \(p\) for reasons?
+Does it revise $p$ for reasons?
 
 Does the revision propagate into related commitments?
 
@@ -208,11 +208,11 @@ Autocomplete does slightly more, but its role remains narrow.
 
 An interactive language model can participate in a causal loop:
 
-\[
+$$
 U_t \rightarrow M_t \rightarrow O_t
-\]
+$$
 
-where \(U_t\) is a user's contribution, \(M_t\) is internal processing conditioned on the conversational state, and \(O_t\) is a generated response that in turn changes the next user contribution.
+where $U_t$ is a user's contribution, $M_t$ is internal processing conditioned on the conversational state, and $O_t$ is a generated response that in turn changes the next user contribution.
 
 Nothing about this loop by itself establishes communication.
 
@@ -277,15 +277,15 @@ This does not prove that the system is a speaker.
 
 But it weakens the inference:
 
-\[
+$$
 \text{context requires explanation}
-\]
+$$
 
 therefore
 
-\[
+$$
 \text{no context exists}.
-\]
+$$
 
 The problem should remain open until we know what kinds of organization suffice to instantiate context-sensitive communication.
 
@@ -350,7 +350,7 @@ A promise is not merely information that someone will do something.
 
 It changes what the speaker is *committed* to doing.
 
-An assertion is not merely a string expressing \(p\).
+An assertion is not merely a string expressing $p$.
 
 It places the speaker in a position where contradiction, retraction, challenge, and demands for justification become appropriate.
 
@@ -374,17 +374,17 @@ They write that identifying the bearer of commitments by its functional role **w
 
 But now the argument risks a circle:
 
-\[
+$$
 \text{Speakerhood requires genuine commitment}
-\]
+$$
 
-\[
+$$
 \text{Genuine commitment requires conversational participation}
-\]
+$$
 
-\[
+$$
 \text{Conversational participation requires speakerhood}.
-\]
+$$
 
 If this is the structure, then no behavioral, functional, or architectural evidence could ever establish the transition from artifact to speaker.
 
@@ -402,13 +402,13 @@ Instead of treating commitment as an invisible normative ingredient that either 
 
 Suppose a system says:
 
-> \(p\).
+> $p$.
 
 Later we introduce:
 
-\[
+$$
 \neg p.
-\]
+$$
 
 There are many possible responses.
 
@@ -416,11 +416,11 @@ The system may simply produce whichever continuation is statistically favored.
 
 But it might instead:
 
-1. identify \(p\) as *its own earlier commitment*;
-2. distinguish \(p\) from a proposition merely quoted by the user;
-3. detect that \(\neg p\) conflicts with \(p\);
-4. ask whether the new evidence is sufficient to defeat \(p\);
-5. revise \(p\) if warranted;
+1. identify $p$ as *its own earlier commitment*;
+2. distinguish $p$ from a proposition merely quoted by the user;
+3. detect that $\neg p$ conflicts with $p$;
+4. ask whether the new evidence is sufficient to defeat $p$;
+5. revise $p$ if warranted;
 6. propagate the revision into dependent conclusions;
 7. acknowledge that its earlier statement was wrong;
 8. preserve the corrected position when the topic returns later.
@@ -491,15 +491,15 @@ These analogies do not establish artificial personal identity.
 
 They establish only that:
 
-\[
+$$
 \text{continuous computation}
-\]
+$$
 
 is not obviously necessary for:
 
-\[
+$$
 \text{diachronic identity}.
-\]
+$$
 
 The relevant question is what kind of continuity exists across the gap.
 
@@ -509,33 +509,33 @@ But that should motivate a richer taxonomy rather than a universal negative.
 
 We might distinguish:
 
-\[
+$$
 \text{informational continuity}
-\]
+$$
 
 from
 
-\[
+$$
 \text{causal continuity}
-\]
+$$
 
 from
 
-\[
+$$
 \text{policy continuity}
-\]
+$$
 
 from
 
-\[
+$$
 \text{self-model continuity}
-\]
+$$
 
 from
 
-\[
+$$
 \text{normative continuity}.
-\]
+$$
 
 A future system could possess some without others.
 
@@ -798,7 +798,7 @@ So if artificial speakerhood ever appears, we should not expect to discover a ti
 
 We should expect to discover increasingly integrated organization:
 
-\[
+$$
 \text{representation}
 +
 \text{goal structure}
@@ -812,7 +812,7 @@ We should expect to discover increasingly integrated organization:
 \text{diachronic integration}
 +
 \text{communicative orientation}.
-\]
+$$
 
 Whether current language models instantiate enough of that structure is an empirical question.
 
